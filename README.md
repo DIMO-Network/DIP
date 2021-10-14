@@ -4,7 +4,7 @@ DIMO Improvement Proposals
 
 _"How a bill becomes a law"_
 
-More details on process and how to participate can be found in , ["A Process For Managing DIMO Improvement Proposals"](dimo.zone).
+More details on process and how to participate can be found in , ["A Process For Managing DIMO Improvement Proposals"](https://dimo.zone).
 
 If you have questions or feedback, please ask in [#dip-open-discussion in the community Discord](https://discord.gg/dimo). Each proposal in discussion also has its own dedicated channel.
 
