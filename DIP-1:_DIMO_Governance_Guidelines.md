@@ -1,3 +1,5 @@
+# DIP-1: DIMO Governance Guidelines
+
 > **Author**: [robmsolomon](https://twitter.com/robmsolomon)
 > 
 > **Status**: Living [passed January, 28 2022 at 0:00 UTC]
