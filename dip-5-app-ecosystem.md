@@ -8,8 +8,6 @@
 >
 > **Status**: Draft
 >
-> **Discord forum URL**: Pending
->
 > **Voting URL**: Pending
 
 ## Abstract

@@ -26,9 +26,9 @@ To become eligible, users must download an authorized DIMO client, add their veh
 
 ## Motivation
 
-The goal of Baseline Issuance is to prime the network by incentivizing drivers to connect vehicles and stream data prior to the maturation of demand from data consumers and app developers.&#x20;
+The goal of Baseline Issuance is to prime the network by incentivizing drivers to connect vehicles and stream data prior to the maturation of demand from data consumers and app developers. Market demand will gradually supplement and replace baseline demand, thus removing the need to inflate the supply of $DIMO in perpetuity.
 
-Market demand will gradually supplement and replace baseline demand, thus removing the need to inflate the supply of $DIMO in perpetuity.
+A weekly issuance was chosen because driving behavior varies dramatically by time of day (i.e., it’s concentrated during peak commuting hours). If the issuance protocol were to distribute $DIMO by the hour, then drivers would be under-compensated during rush hour (as the reward would be split between a high percentage of drivers) and overcompensated for driving at 3AM. A weekly issuance allows for a predictable issuance schedule, transaction fee optimization, and relatively frequent rewards distributions without incentivizing abnormal driving behavior.
 
 ## Specification
 
