@@ -10,7 +10,7 @@
 
 ## Abstract
 
-This DIMO Improvement Proposal #3 outlines the method by which a new committee, called DIMO Integrations, will issue licenses to hardware manufacturers who can produce compatible devices and software developers who build digital integrations (collectively referred to as integration providers).
+This proposal outlines the method by which a new committee, called DIMO Integrations, will issue licenses to hardware manufacturers who can produce compatible devices and software developers who build digital integrations (collectively referred to as integration providers).
 
 The requirements for any integration providers are that they must:&#x20;
 
@@ -194,7 +194,7 @@ Hardware Only&#x20;
 
 Licenses are NFTs that can only be minted or transferred by DIMO Integrations. These certify the integration provider meets all required qualifications required and has been whitelisted for the production of compatible devices. After receiving a license, the integration provider is required to submit a deposit of 100,000 $DIMO tokens (the “stake”). **The DIMO protocol will check both the NFT license and the on-chain stake balance to determine if a provider is licensed or not.**
 
-![](<../.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (6).png>)
 
 While it is preferred that the integration provider is the party putting up the stake, it is also possible for a financing partner, such as a distributor, to put up the stake on behalf of the manufacturer.&#x20;
 
@@ -216,15 +216,15 @@ Any manufacturer may renounce their license and receive back their staked $DIMO 
 
 For physical devices, in addition to proper licensing as defined in the previous section, the EVM wallet contained within the secure element must hold a “device minting” NFT. These are special NFTs that require $DIMO to acquire initially, but which may then be sold and transferred (e.g., on OpenSea) until the moment they are bonded to a licensed device.
 
-![](<../.gitbook/assets/image (11).png>)
+![](<.gitbook/assets/image (11).png>)
 
 All device sales must include a device minting NFT; end users should not be required to source one themselves. For those familiar, these are similar in concept to mint vials (e.g., [CloneX Mintvial](https://opensea.io/collection/clonex-mintvial?utm\_governance=OPNS9ci96jyifptpsdwen90e\&utm\_source=google\&utm\_medium=paid\&utm\_account=6961136327\&utm\_term=clonex%20mint%20vial\&utm\_matchtype=e\&utm\_campaignid=17563298525\&utm\_adgroupid=140912765951\&utm\_keywordid=kwd-1657036550808\&wpsrc=Google%20AdWords\&wpcid=17563298525\&wpsnetn=g\&wpkwn=clonex%20mint%20vial\&wpkmatch=e\&wpcrid=605564529802\&wpscid=140912765951\&wpkwid=kwd-1657036550808\&gclid=CjwKCAjw5s6WBhA4EiwACGncZRqKQE2ZTbSRYCiwnk9kzrUy4emwMiAbry2KeLOAnYSIMoYNq0pXxRoCekYQAvD\_BwE)).
 
-![](<../.gitbook/assets/image (10).png>)
+![](<.gitbook/assets/image (10).png>)
 
 Similarly, for software connection methods that don’t yet make use of an EVM wallet to sign data, a device minting NFT must be sent to the vehicle NFT address as a part of the pairing process. Therefore, unlike a hardware device that may be moved from vehicle to vehicle without needing a second device minting NFT, every new software connection will require another device minting NFT.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1).png>)
 
 Why add this complexity? To align the incentives of various stakeholders, the $DIMO that is used to acquire the NFT is set aside. Each month that the connection persists, the integration provider receives some of that $DIMO back as rebate for twenty four months until they earn back 70% of the deposit. Additionally, DIMO Integrations receives $DIMO over the same period until they earn 0.1% - 15% of the deposit. See [Rewards Calculation for DIMO Integrations Team](dip-4-device-integrations.md#rewards-calculation-for-dimo-integrations-team) for more information on this calculation.
 
@@ -232,7 +232,7 @@ This rebate mechanism ensures that integration providers and DIMO Integrations a
 
 The remaining $DIMO will go directly to the DIMO Treasury, as will royalties from the secondary trading of the device minting NFTs. Secondary trading will also generate valuable price discovery information.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<.gitbook/assets/image (7).png>)
 
 Device NFTs provide a fair way for the DIMO community to control the supply of each type of connected device so as not to overwhelm the protocol too early. While it is fair to say that users who have already established a connection may have an incentive to artificially constrain the number of device minting NFTs so there is less competition on the network for baseline rewards, they have a more powerful long-term incentive to grow the network and its adoption.
 
@@ -255,7 +255,7 @@ Similar to the stake required for licensing, device minting NFTs may be provided
 
 The reward to DIMO Integrations is calculated using a reverse bonding curve that decreases the proportional reward over time. The curve is established for each device type. This is done in order to incentivize the team to do the difficult work of establishing new device categories and getting them to critical mass.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (4).png>)
 
 The formula to determine the % reward of the staked $DIMO from Device Minting NFTs that DIMO Integrations is eligible to receive as a reward is calculated as:
 

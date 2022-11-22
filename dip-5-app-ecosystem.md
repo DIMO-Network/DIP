@@ -12,7 +12,7 @@
 
 ## Abstract
 
-This DIMO Improvement Proposal defines how clients, nodes, and applications will form, remain in good standing, and interact with DIMO users, their data, and the protocol itself.
+This proposal defines how clients, nodes, and applications will form, remain in good standing, and interact with DIMO users, their data, and the protocol itself.
 
 The DIMO app ecosystem has five main components:&#x20;
 
