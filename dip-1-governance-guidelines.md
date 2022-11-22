@@ -8,6 +8,8 @@
 >
 > **Status**: Review
 >
+> **Discord forum URL**: Pending
+>
 > **Voting URL**: Pending
 
 ## Abstract
@@ -44,10 +46,7 @@ It is required that all DIPs include the following in a format similar to this o
     * _Withdrawn_ - sponsor(s) withdrew the proposal while it was in the _Review_ stage, prior to voting.
 
     _Review_ and _Voting_ must also specify when that period ends by adding "(until Month Day, Year at 24hr Clock UTC Time)." E.g., **Status**: Voting (until January 20th, 2022 at 22:00:00 UTC).
-
-
-
-    The official forum for discussing DIPs in _Review_ and _Voting_ is in the #🗳️governance channel in [Discord](https://discord.com/invite/dimonetwork).
+* **Discord forum URL**: A link to the #🗳️governance thread in [Discord ](https://discord.com/invite/dimonetwork)for discussing this DIP.
 * **Voting URL**: A link to the vote on [Snapshot](https://snapshot.org/#/dimo.eth) or [Tally](https://www.tally.xyz/gov/eip155:137:0xD203e37D96cC0b9b7Dc00fC3fDfcf1b1A2E8c547). For proposals in _Review_ status, write "Pending".
 * **Abstract**: This is a slightly longer 3-5 sentence summary of the proposal.
 * **Motivation**: This explains the rationale and goals for the DIP.
