@@ -1,7 +1,3 @@
----
-description: Start here
----
-
 # Governance Hub
 
 **UI Options:** [Gitbook](https://docs.dimo.zone/dips) | [Github](https://github.com/DIMO-Network/DIP)

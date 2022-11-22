@@ -6,7 +6,7 @@
 >
 > **Submitter**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review
+> **Status**: Draft
 >
 > **Voting URL**: Pending
 
@@ -34,7 +34,7 @@ It is required that all DIPs include the following in a format similar to this o
 * **Submitter**: The name of the entity(ies) responsible for submitting the proposal. This can be pseudonyms. They must include the 0x address of the wallet that held sufficient voting power at the time of submission in brackets (see example above).
 *   **Status**: Options include:&#x20;
 
-    * _Review_ - for review and discussion by community (the author may still make changes);&#x20;
+    * _Draft_ - still being worked on;&#x20;
     * _Voting_ - in the process of being voted on — must also specify when that period ends by adding "(until Month Day, Year at 24hr Clock UTC Time)." E.g., **Status**: Voting (until January 20th, 2023 at 22:00:00 UTC);
     * _Final_ - vote concluded and passed — this document will never be edited and may be superseded by a future DIP;&#x20;
     * _Failed_ - vote concluded and failed;&#x20;
@@ -42,7 +42,7 @@ It is required that all DIPs include the following in a format similar to this o
     * _Living_ - vote concluded and passed — this document may be edited and will always be kept up-to-date.&#x20;
 
     _Voting_ must also specify when that period ends by adding "(until Month Day, Year at 24hr Clock UTC Time)." E.g., **Status**: Voting (until January 20th, 2022 at 22:00:00 UTC)
-* **Voting URL**: A link to the vote on [Snapshot](https://snapshot.org/#/dimo.eth) or [Tally](https://www.tally.xyz/gov/eip155:137:0xD203e37D96cC0b9b7Dc00fC3fDfcf1b1A2E8c547). For proposals in _Review_ status, write "Pending".
+* **Voting URL**: A link to the vote on [Snapshot](https://snapshot.org/#/dimo.eth) or [Tally](https://www.tally.xyz/gov/eip155:137:0xD203e37D96cC0b9b7Dc00fC3fDfcf1b1A2E8c547). For proposals in _Draft_ status, write "Pending".
 * **Abstract**: This is a slightly longer 3-5 sentence summary of the proposal.
 * **Motivation**: This explains the rationale and goals for the DIP.
 * **Specification**: The highly detailed description of the DIP including precise terms, protocol updates, blockchain transactions and smart contract code that will be executed with comments, and more.
@@ -59,11 +59,11 @@ Due to current technical limitations, the DIMO Foundation must assist in posting
 
 ### **Proposal deliberation & withdrawal**
 
-DIPs that have been sponsored and introduced will be posted in the DIP Repo (here) and announced in the [#📣annoucements](https://dao.dimo.zone/) channel in Discord. After seven days (168 hours) of deliberation without withdrawal, the DIP goes to a vote.
+DIPs that have been sponsored and introduced will be posted in the [DIP Repo](https://github.com/DIMO-Network/DIP) and announced in [#📣annoucements](https://dao.dimo.zone/). After seven days (168 hours) of deliberation without withdrawal, the DIP goes to a vote.
 
 At any time prior to voting, if the proposals does not maintain the support of at least 5,000,000 $DIMO worth of voting power (because token holders undelegated their tokens from sponsors or sponsors publicly withdraw their support), the proposal status is changed to "Withdrawn". Once the proposal reaches full sponsorship again, if ever, it will go back into _Review_, an announcement will go out in [#📣annoucements](https://dao.dimo.zone/), and the seven day deliberation window begins again.
 
-Authors may make edits to a proposal that has already been put into _Review_. Any edits should be summarized in the changelog section. If the edits have major effects on the purpose, interpretation, or implementation of the DIP, it is highly encouraged to reset the seven day review window and notify the community with an update in [#📣annoucements](https://dao.dimo.zone/). Edits should not completely scrap the original proposal and replace it with something new (e.g., edit the proposal to go from a vote on the DIMO logo to a vote on token issuance). To do this, withdraw the DIP and submit a new one.
+Authors may make edits to a proposal that has already been put into _Review_. Any edits should be summarized in the changelog section. If the edits have major effects on the purpose, interpretation, or implementation of the DIP, it is highly encouraged to reset the seven day voting window and notify the community with an update in [#📣annoucements](https://dao.dimo.zone/). Edits should not completely scrap the original proposal and replace it with something new (e.g., edit the proposal to go from a vote on the DIMO logo to a vote on token issuance). To do this, withdraw the DIP and submit a new one.
 
 ### **Voting protocol**
 
