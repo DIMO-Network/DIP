@@ -16,7 +16,7 @@ This proposal specifies the conditions by which DIMO users will earn baseline $D
 
 Baseline Issuance rewards users with a piece of a weekly issuance pool of $DIMO tokens. Users earn varying amounts based on how they're connected and how long they've been connected, even if there is no end customer using their data.
 
-
+This stands in contrast to Marketplace Issuance, which&#x20;
 
 To become eligible, users must download an authorized DIMO client, add their vehicle and establish an integration, complete vehicle minting and device pairing on-chain as applicable, and remain connected. As of the time of this writing, [DIMO Mobile](http://onelink.to/dimo) is the only authorized client.
 
