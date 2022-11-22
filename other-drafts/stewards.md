@@ -1,3 +1,0 @@
-# Stewards
-
-Coming soon

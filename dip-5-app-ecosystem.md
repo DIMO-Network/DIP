@@ -155,7 +155,7 @@ The DIMO Platform Licensing team may ban clients from the network (e.g., if they
 
 #### Payments
 
-All payments made between DIMO users, clients, nodes, and/or apps must be routed through DIMO Pay ([see DIP-5](../other-drafts/dimo-pay.md)).
+All payments made between DIMO users, clients, nodes, and/or apps must be routed through DIMO Pay ([see DIP-5](broken-reference)).
 
 
 
@@ -207,7 +207,7 @@ Any application may renounce their license and receive back the staked $DIMO aft
 
 #### Payments
 
-All payments made between DIMO users, clients, nodes, and/or apps must be routed through DIMO Pay ([see DIP-5](../other-drafts/dimo-pay.md)).
+All payments made between DIMO users, clients, nodes, and/or apps must be routed through DIMO Pay ([see DIP-5](broken-reference)).
 
 
 
@@ -246,7 +246,7 @@ The DIMO Platform Licensing team may ban apps from the network (e.g., if they mi
 
 #### Payments
 
-All payments made between DIMO users, clients, nodes, and/or apps must be routed through DIMO Pay ([see DIP-5](../other-drafts/dimo-pay.md)).
+All payments made between DIMO users, clients, nodes, and/or apps must be routed through DIMO Pay ([see DIP-5](broken-reference)).
 
 ## Implementation
 
