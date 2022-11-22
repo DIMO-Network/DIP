@@ -38,13 +38,17 @@ Qualified users will earn their share of this weekly issuance based on how many 
 
 To be qualified for rewards, users must: download an authorized DIMO client; add their vehicle and establish an integration; complete vehicle minting and device pairing on-chain as applicable; and transmit data each week. As of the time of this writing, [DIMO Mobile](http://onelink.to/dimo) is the only authorized client.
 
+Users must also opt-in to allowing their aggregated and anonymized data to be sold by Digital Infrastructure Inc. on behalf of the Foundation. Aggregated and anonymized means that no recipient of user data will be able to tell anything about an individual user. An example of such a report would be "the average range of Tesla Model Y's in California" and even this report could only be compiled if there were a statistically significant number of Tesla Model Y's connected in California. Proceeds from the sale of user data will increase Market Issuance and will fund future the DIMO Foundation. This may also be amended by a future DIP.&#x20;
+
+Lastly, user wallets must not be flagged by Chainalysis' [AML tools](https://www.chainalysis.com/free-cryptocurrency-sanctions-screening-tools/) as risky or fraudulent.
+
 Points are calculated as follows:
 
 <figure><img src=".gitbook/assets/DIP2 Calculator.png" alt=""><figcaption></figcaption></figure>
 
 Users who fail to connect for three consecutive weeks will fall back one level.
 
-In the example shown in the table above, Alice earns 2,000 points for having been connected between 20 to 36 weeks, 1,000 points for her Smartcar software connection, and 6,000 points for having a [DIMO Data Miner](https://shop.dimo.zone) installed in her vehicle.&#x20;
+In the example shown in the table above, Alice earns 2,000 points for having been connected between 20 to 36 weeks, 1,000 points for her SmartCar software connection, and 6,000 points for having a [DIMO Data Miner](https://shop.dimo.zone) installed in her vehicle.&#x20;
 
 Here there are 10,000 cars connected to DIMO and each car generates an average of 6,000 points that week, for a total of 60,000,000 points. Alice's 9,000 points represent 0.015% of the points for that week (9,000 ÷ 60,000,000). Therefore, she earns 165.75 out of the 1,105,000 tokens from this pool (1,105,000 \* 0.015%).
 
@@ -54,7 +58,7 @@ Curious how this would play out for people besides Alice? The table below shows 
 
 ## Implementation
 
-
+In order to enact the specification above, the DIMO Foundation has engaged Digital Infrastructure Inc., the publisher of [DIMO Mobile](https://onelink.to/dimo), to confirm eligibility, calculate points, and trigger the rewards smart contract to distribute tokens. Technical documents can be found [here](https://docs.dimo.zone/docs/protocol/rewards-contract).
 
 ## Copyright
 
