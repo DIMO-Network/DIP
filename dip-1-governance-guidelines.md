@@ -12,7 +12,9 @@
 
 ## Abstract
 
-This document outlines the format for DIMO Improvement Proposals (DIPs), as well as the procedure for deliberating and voting on them. DIPs may be used to vote on anything the community may want to do, from major events like allocating tokens from the treasury, delegating authority, and updating DIMO smart contracts, or minor things like changing the DIMO logo.
+This document outlines the procedure for deliberating and voting on DIMO Improvement Proposals (DIPs).&#x20;
+
+DIPs may be used to vote on anything the community may want to do, from major events like allocating tokens from the treasury, delegating authority, and updating DIMO smart contracts, or minor things like changing the DIMO logo.
 
 This process may be amended at any time by the token holders in a future DIP.
 
@@ -26,7 +28,7 @@ Governance proposals are called DIMO Improvement Proposals (DIP). They are forma
 
 ### **DIP format**
 
-It is required that all DIPs include the following in a format similar to this one. DIPs may add additional sections as needed, so long as they include the following:
+It is required that all DIPs include the following in a format similar to this one. Various types of DIPs may require additional fields (see the [Templates folder](https://github.com/DIMO-Network/DIP/tree/main/templates)). DIPs may add additional sections as needed, so long as they include the following:
 
 * **Title**: "DIP\[#]: Title Name"
 * **Headline**: A brief, one sentence TLDR explaining the proposal.
@@ -41,7 +43,11 @@ It is required that all DIPs include the following in a format similar to this o
     * _Failed_ - vote concluded and proposal failed to reach majority and/or quorum; or
     * _Withdrawn_ - sponsor(s) withdrew the proposal while it was in the _Review_ stage, prior to voting.
 
-    _Review_ and _Voting_ must also specify when that period ends by adding "(until Month Day, Year at 24hr Clock UTC Time)." E.g., **Status**: Voting (until January 20th, 2022 at 22:00:00 UTC)
+    _Review_ and _Voting_ must also specify when that period ends by adding "(until Month Day, Year at 24hr Clock UTC Time)." E.g., **Status**: Voting (until January 20th, 2022 at 22:00:00 UTC).
+
+
+
+    The official forum for discussing DIPs in _Review_ and _Voting_ is in the #🗳️governance channel in [Discord](https://discord.com/invite/dimonetwork).
 * **Voting URL**: A link to the vote on [Snapshot](https://snapshot.org/#/dimo.eth) or [Tally](https://www.tally.xyz/gov/eip155:137:0xD203e37D96cC0b9b7Dc00fC3fDfcf1b1A2E8c547). For proposals in _Review_ status, write "Pending".
 * **Abstract**: This is a slightly longer 3-5 sentence summary of the proposal.
 * **Motivation**: This explains the rationale and goals for the DIP.
@@ -49,7 +55,7 @@ It is required that all DIPs include the following in a format similar to this o
 * **Implementation**: A description of the implementation procedure that would follow if the DIP achieves a successful vote.
 * **Copyright**: The copyright terms of the DIP, which must say "Copyright and related rights waived via [CC0"](https://creativecommons.org/publicdomain/zero/1.0)
 * **Citation**: How others should site this DIP in other locations. Please copy the format here and update the author, name, number, date, and url.
-* **Changelog**: Any changes made while the DIP is the _Review_ stage must be summarized in this section including the date and time of the change. See the bottom of this document for an example.
+* **Changelog**: Any changes made while the DIP is the _Review_ stage must be summarized in this section including the date and time of the change.
 
 ### **Proposal generation & submission**
 
@@ -123,3 +129,7 @@ Copyright and related rights waived via [CC0](https://creativecommons.org/public
 Please cite this document as:
 
 The DIMO Foundation, "DIP-1: DIMO Governance Guidelines", no. 1, November 2023. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
+
+## Changelog
+
+Any changes made while the DIP is the _Review_ stage must be summarized in this section including the date and time of the change.&#x20;
