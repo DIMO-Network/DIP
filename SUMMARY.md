@@ -9,4 +9,7 @@
 * [DIP-6: Dispute Resolution](dip-6-dispute-resolution.md)
 * [DIP-7: Grant Program for Device Manufacturers](dip-7-grant-program-for-device-manufacturers.md)
 * [DIP-8: Grant Program for Vehicle OEMs](dip-8-grant-program-for-vehicle-oems.md)
-* [DIP Template](dip-template.md)
+
+## Templates
+
+* [DIP Template](templates/dip-template.md)
