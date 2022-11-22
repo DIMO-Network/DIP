@@ -12,5 +12,5 @@
 
 ## Templates
 
-* [Basic Template](templates/dip-template.md)
+* [Basic Template](templates/basic-template.md)
 * [Resource Allocation Template](templates/resource-allocation-template.md)
