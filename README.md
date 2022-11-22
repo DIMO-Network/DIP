@@ -1,6 +1,6 @@
 # Governance Hub
 
-This is where DIMO improvement proposals (DIPs) are posted. Below, you can see active proposals that you can vote on now, proposals that are receiving feedback and aren't ready for voting yet, and the entire index of all DIPs passed, failed, drafted, etc. For more on  how to vote and why you should, click here. You may view and comment on this repository in [Github](https://github.com/DIMO-Network/DIP). **** You may also use **** [Gitbook](https://docs.dimo.zone/dips) but this is view only.
+This is where DIMO improvement proposals (DIPs) are posted. Below, you can see active proposals that you can vote on now, proposals that are receiving feedback and aren't ready for voting yet, and the entire index of all DIPs passed, failed, drafted, etc. For more on  how to vote and why you should, click here. You may view and comment on this repository in [Github](https://github.com/DIMO-Network/DIP). You may also use [Gitbook](https://docs.dimo.zone/dips) but this is view only.
 
 **Voting active for:** none
 
