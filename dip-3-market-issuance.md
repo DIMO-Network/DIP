@@ -1,3 +1,3 @@
-# DIP-3: Market Issuance
+# DIP-3: Marketplace Issuance
 
-Coming soon
+Coming soon!
