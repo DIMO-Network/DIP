@@ -16,17 +16,19 @@ This proposal specifies the conditions by which DIMO users will earn baseline $D
 
 Baseline Issuance rewards users with a piece of a weekly issuance pool of $DIMO tokens. Users earn varying amounts based on how they're connected and how long they've been connected, even if there is no end customer using their data.
 
+
+
 To become eligible, users must download an authorized DIMO client, add their vehicle and establish an integration, complete vehicle minting and device pairing on-chain as applicable, and remain connected. As of the time of this writing, [DIMO Mobile](http://onelink.to/dimo) is the only authorized client.
 
 450,000,000 $DIMO tokens (45% of total supply) are allocated to driver rewards. Deducting the airdrop, this leaves 382,491,185 $DIMO (38% of the total supply) to be issued over 40 years for Baseline Issuance.
 
 ## Motivation
 
-The goal here is to prime the network by incentivizing drivers to connect the types of cars and stream the types of data that we expect will be valuable to data consumers and app developers in the future.
+The goal of Baseline Issuance is to prime the network by incentivizing drivers to connect the types of cars and stream the types of data that we expect will be valuable to data consumers and app developers in the future.
 
 ## Specification
 
-
+<figure><img src=".gitbook/assets/DIP2 Calculator.png" alt=""><figcaption></figcaption></figure>
 
 ## Implementation
 

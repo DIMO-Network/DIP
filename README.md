@@ -6,16 +6,7 @@ This is where DIMO improvement proposals (DIPs) are posted. Below, you can see a
 
 **Community review:** [DIP-1](dip-1-governance-guidelines.md), [DIP-2](dip-2-baseline-issuance.md), [DIP-3](dip-3-market-issuance.md), [DIP-4](dip-4-device-integrations.md), [DIP-5](dip-5-app-ecosystem.md), [DIP-6](dip-6-dispute-resolution.md), [DIP-7](dip-7-grant-program-for-device-manufacturers.md), [DIP-8](dip-8-grant-program-for-vehicle-oems.md)
 
-| DIP#                                                 | Title                                  | Status |
-| ---------------------------------------------------- | -------------------------------------- | ------ |
-| [1](dip-1-governance-guidelines.md)                  | Governance Guidelines                  | Review |
-| [2](dip-2-baseline-issuance.md)                      | Baseline Issuance                      | Review |
-| [3](dip-3-market-issuance.md)                        | Market Issuance                        | Review |
-| [4](dip-4-device-integrations.md)                    | Device Integrations                    | Review |
-| [5](dip-5-app-ecosystem.md)                          | App Ecosystem                          | Review |
-| [6](dip-6-dispute-resolution.md)                     | Dispute Resolution                     | Review |
-| [7](dip-7-grant-program-for-device-manufacturers.md) | Grant Program for Device Manufacturers | Review |
-| [8](dip-8-grant-program-for-vehicle-oems.md)         | Grant Program for Vehicle OEMs         | Review |
+<table data-view="cards"><thead><tr><th>DIP#</th><th>Title</th><th>Status</th></tr></thead><tbody><tr><td><a href="dip-1-governance-guidelines.md">1</a></td><td>Governance Guidelines</td><td>Review</td></tr><tr><td><a href="dip-2-baseline-issuance.md">2</a></td><td>Baseline Issuance</td><td>Review</td></tr><tr><td><a href="dip-3-market-issuance.md">3</a></td><td>Marketplace Issuance</td><td>Review</td></tr><tr><td><a href="dip-4-device-integrations.md">4</a></td><td>Device Integrations</td><td>Review</td></tr><tr><td><a href="dip-5-app-ecosystem.md">5</a></td><td>App Ecosystem</td><td>Review</td></tr><tr><td><a href="dip-6-dispute-resolution.md">6</a></td><td>Dispute Resolution</td><td>Review</td></tr><tr><td><a href="dip-7-grant-program-for-device-manufacturers.md">7</a></td><td>Grant Program for Device Manufacturers</td><td>Review</td></tr><tr><td><a href="dip-8-grant-program-for-vehicle-oems.md">8</a></td><td>Grant Program for Vehicle OEMs</td><td>Review</td></tr></tbody></table>
 
 ***
 
