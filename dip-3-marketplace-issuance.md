@@ -14,13 +14,15 @@
 
 ## Abstract
 
-In addition to [Baseline Issuance](dip-2-baseline-issuance.md), users will receive Marketplace Issuance where they earn $DIMO based on fees paid by licensed DIMO applications.
+Marketplace Issuance refers to rewarding drivers based on what third parties are paying for their data.&#x20;
+
+In the early stages of DIMO's development, the vast majority of rewards will come from [Baseline Issuance](dip-2-baseline-issuance.md). As the network matures, this balance will likely shift the other way. This is comparable to other web3 networks like Helium, where their rewards from proof of coverage hopefully shrink in comparison to rewards from data transfer over time.
 
 Marketplace Issuance will start off very simple, but will likely evolve with future DIPs as the ecosystem matures and regulatory clarity improves.
 
-The DIMO Foundation will collect proceeds from the sale of aggregate and anonymized data and will distribute 1 $DIMO per $1 USD received evenly to the set of users who have opted in as a part of the vehicle pairing process.
+The DIMO Foundation will collect proceeds from the sale of aggregate and anonymized data and for each dollar (USD) received will burn 0.01 $DIMO and distribute the remaining 0.99 to the set of users who have opted in to data sales as a part of the vehicle pairing process.
 
-Users may earn additional $DIMO when they use marketplace apps — the amount and terms will vary by app.
+Users may earn additional $DIMO when they use marketplace apps. The amount and terms will vary by app, but will feature a similar burn mechanism whereby 1% of $DIMO rewards are burned.
 
 ## Motivation
 
