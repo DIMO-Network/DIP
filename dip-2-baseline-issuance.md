@@ -32,7 +32,11 @@ It is also designed to: reward and give control to those who show long-term supp
 
 Per this DIP, the weekly issuance will be allocated per the following methodology. $DIMO token holders can vote to alter these rewards formulas, alter the issuance amounts, and make other changes in subsequent DIPs.
 
-In year one, DIMO will issue 1,105,000 $DIMO per week to all qualified DIMO users. This issuance amount will automatically decrease by 15% every year. A weekly issuance was chosen because driving behavior varies dramatically by time of day (i.e., it’s concentrated during peak commuting hours). If the issuance protocol were to distribute $DIMO by the hour, then drivers would be under-compensated during rush hour (as the reward would be split between a high percentage of drivers) and overcompensated for driving at 3AM. A weekly issuance allows for a predictable issuance schedule, transaction fee optimization, and relatively frequent rewards distributions without incentivizing abnormal driving behavior.
+In year one, DIMO will issue 1,105,000 $DIMO per week to all qualified DIMO users at 5 AM UTC each Monday. This issuance amount will automatically decrease by 15% every year, with Baseline Issuance ending in 40 years, unless modified by a future DIP.
+
+<figure><img src=".gitbook/assets/Issuance Schedule.png" alt=""><figcaption></figcaption></figure>
+
+A weekly issuance was chosen because driving behavior varies dramatically by time of day (i.e., it’s concentrated during peak commuting hours). If the issuance protocol were to distribute $DIMO by the hour, then drivers would be under-compensated during rush hour (as the reward would be split between a high percentage of drivers) and overcompensated for driving at 3AM US Eastern Time. A weekly issuance allows for a predictable issuance schedule, transaction fee optimization, and relatively frequent rewards distributions without incentivizing abnormal driving behavior.
 
 Qualified users will earn their share of this weekly issuance based on how many points they've earned relative to other users in that period. In other words, if you earn 1% of the points in a given week, you also get 1% of the tokens distributed that week.
 
