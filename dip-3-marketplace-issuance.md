@@ -1,6 +1,6 @@
 # DIP-3: Marketplace Issuance
 
-> **Headline**:&#x20;
+> **Headline**: How protocol revenue is converted into $DIMO rewards for users
 >
 > **Author**: The DIMO Foundation
 >
@@ -14,7 +14,13 @@
 
 ## Abstract
 
-This is a slightly longer 3-5 sentence summary of the proposal.
+In addition to [Baseline Issuance](dip-2-baseline-issuance.md), users will receive Marketplace Issuance where they earn $DIMO based on fees paid by licensed DIMO applications.
+
+Marketplace Issuance will start off very simple, but will likely evolve with future DIPs as the ecosystem matures and regulatory clarity improves.
+
+The DIMO Foundation will collect proceeds from the sale of aggregate and anonymized data and will distribute 1 $DIMO per $1 USD received evenly to the set of users who have opted in as a part of the vehicle pairing process.
+
+Users may earn additional $DIMO when they use marketplace apps — the amount and terms will vary by app.
 
 ## Motivation
 
