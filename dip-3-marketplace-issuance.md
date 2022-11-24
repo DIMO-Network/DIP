@@ -24,13 +24,27 @@ Users may earn additional $DIMO when they use marketplace apps. The amount and t
 
 ## Motivation
 
-DIMO users should be rewarded primarily based on the value that they generate on the DIMO network.&#x20;
+DIMO users should be rewarded primarily based on the value that they generate on the DIMO network to create a more direct link between incentivizes and optimal behaviors.
 
-In the early stages of DIMO's development, the vast majority of rewards will come from [Baseline Issuance](dip-2-baseline-issuance.md). As the network matures, this balance will likely shift the other way. This is comparable to other web3 networks like Helium, where their rewards from proof of coverage hopefully shrink in comparison to rewards from data transfer over time.
+In the early stages of DIMO's development, the vast majority of rewards will come from [Baseline Issuance](dip-2-baseline-issuance.md), which is designed to simulate market demand for user data in the simplest way possible. As the network matures, this balance will likely shift the other way and the majority of rewards will come from Marketplace Issuance. This is comparable to other web3 networks like Helium, where their rewards from proof of coverage hopefully shrink in comparison to rewards from data transfer over time.
 
 ## Specification
 
 The highly detailed description of the DIP including precise terms, protocol updates, blockchain transactions and smart contract code that will be executed with comments, and more.
+
+
+
+
+
+Licensed apps must pay all user referral bonuses to DIMO Foundation
+
+Revenue split to broker
+
+
+
+
+
+
 
 ## Implementation
 
