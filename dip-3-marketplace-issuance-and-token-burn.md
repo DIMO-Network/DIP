@@ -20,7 +20,7 @@ It will start off very simple, but should evolve with future DIPs as the ecosyst
 
 ## Motivation
 
-DIMO users and apps should be rewarded primarily based on the value that they generate to create a more direct link between incentivizes and optimal behaviors. Those who create the most value for the network should have the biggest voice and should have an easier path to using DIMO.
+DIMO users and apps should be rewarded primarily based on the value that they generate to create a more direct link between incentives and optimal behaviors. Those who create the most value for the network should have the biggest voice and should have an easier path to using DIMO.
 
 In the early stages of DIMO's development, the vast majority of rewards will come from [Baseline Issuance](dip-2-baseline-issuance.md), which is designed to simulate market demand for user data in the simplest way possible. As the network matures, this balance will likely shift the other way and the majority of rewards will come from Marketplace Issuance. This is comparable to other web3 networks like Helium, where their rewards from proof of coverage ideally shrink in comparison to rewards from data transfer as adoption increase.
 
@@ -77,7 +77,7 @@ _Example:_ All Farm Insurance gives new customers 500 $DIMO plus a little extra 
 
 Users may pay licensed DIMO apps for services and subscriptions in fiat dollars or $DIMO. This still generates market issuance for the user and a token burn. 1% of the payment comes back to the user in $DIMO and 1% is burned.
 
-_Example_: Thanks to the data you provide All Farm through DIMO, you save a lot of money on your car insurance, but, unfortunately, it's still not free. After safe driving discounts, you pay $50 in cash per month for your car insurance.
+_Example_: Thanks to the data you provide to All Farm through DIMO, you save a lot of money on your car insurance, but, unfortunately, it's still not free. After safe driving discounts, you pay $50 in cash per month for your car insurance.
 
 All Farm receives your $50 and sends $1 USD or 1 $DIMO to the DIMO Foundation who sends 0.5 $DIMO back to you (50 x 1%) and burns 0.5 (50 x 1%).
 
