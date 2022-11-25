@@ -16,6 +16,8 @@
 
 \*\*Notes: light license for all apps with DIMO Foundation agreeing to remittance and data usage terms
 
+clients, nodes, services, user applications, and other similar products (collectively applications)
+
 
 
 This proposal defines how clients, nodes, and applications will form, remain in good standing, and interact with DIMO users, their data, and the protocol itself.

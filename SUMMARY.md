@@ -3,7 +3,7 @@
 * [Governance Hub](README.md)
 * [DIP-1: Governance Guidelines](dip-1-governance-guidelines.md)
 * [DIP-2: Baseline Issuance](dip-2-baseline-issuance.md)
-* [DIP-3: Marketplace Issuance](dip-3-marketplace-issuance.md)
+* [DIP-3: Marketplace Issuance & Token Burn](dip-3-marketplace-issuance.md)
 * [DIP-4: Device Integrations](dip-4-device-integrations.md)
 * [DIP-5: App Ecosystem](dip-5-app-ecosystem.md)
 * [DIP-6: Dispute Resolution](dip-6-dispute-resolution.md)
