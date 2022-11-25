@@ -58,23 +58,21 @@ _Example:_ All Farm Insurance gives new customers 500 $DIMO when they switch to 
 
 Users may pay licensed DIMO apps for services and subscriptions in fiat dollars or $DIMO. This still generates market issuance for the user and a token burn. 1% of the payment comes back to the user in $DIMO and 1% is burned.
 
-Example: Thanks to the data you provide All Farm through DIMO, you save a lot of money on your car insurance, but, unfortunately, it's still not free. After safe driving discounts, you pay $50 in cash per month for your car insurance.
+_Example_: Thanks to the data you provide All Farm through DIMO, you save a lot of money on your car insurance, but, unfortunately, it's still not free. After safe driving discounts, you pay $50 in cash per month for your car insurance.
 
 All Farm receives your $50 and sends $1 USD or 1 $DIMO to the DIMO Foundation who sends 0.5  $DIMO back to you (50 \* 1%) and burns 0.5 (50 \* 1%).
 
-### Type 5:&#x20;
+### Type 5: User providing professional services
 
-Rent my car out to someone else. I get cash and 1% DIMO 1% Burned.
+_When users are providing professional services, they are eligible to receive 98% of qualified payments in cash rather than $DIMO. Of the remaining 2%, half is distributed as a $DIMO reward and half is burned._
 
-
-
-
+_Example_: You drive for a better DIMO-fied version of Uber and a passenger pays $40 in cash for you to drive them to the airport. You receive $39.60 ($40 \* 99%) in cash and 0.20 $DIMO tokens (40 \* 1%). 0.20 $DIMO is burned (40 \* 1%).
 
 ## Implementation
 
 In order to enact the specification above, the DIMO Foundation will issue licenses to DIMO applications, per [DIP-5](dip-5-app-ecosystem.md), that specify the terms by which those applications handle user data and remit cash or $DIMO to the DIMO Foundation.
 
-The DIMO Foundation has engaged Digital Infrastructure Inc. to assist in the calculations and distribution of Market Issuance.
+The DIMO Foundation has engaged Digital Infrastructure Inc. to assist in the calculations and distributions pertaining to Market Issuance and Token Burn
 
 ## Copyright
 
