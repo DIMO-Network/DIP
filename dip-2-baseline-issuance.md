@@ -1,6 +1,6 @@
 # DIP-2: Baseline Issuance
 
-> **Headline**: Default $DIMO rewards for users who connect their car to the network
+> **Headline**: Default $DIMO rewards for users who connect valid devices to the network
 >
 > **Author**: The DIMO Foundation
 >
@@ -42,7 +42,7 @@ Qualified users will earn their share of this weekly issuance based on how many 
 
 To be qualified for rewards, users must: download an authorized DIMO client; add their vehicle and establish an integration; complete vehicle minting and device pairing on-chain as applicable; and transmit data each week. As of the time of this writing, [DIMO Mobile](http://onelink.to/dimo) is the only authorized client.
 
-Users must also opt-in to allowing their aggregated and anonymized data to be sold by Digital Infrastructure Inc. on behalf of the Foundation. Aggregated and anonymized means that no recipient of user data will be able to tell anything about an individual user. An example of such a report would be "the average range of Tesla Model Y's in California" and even this report could only be compiled if there were a statistically significant number of Tesla Model Y's connected in California. Proceeds from the sale of user data will increase Market Issuance and will fund future the DIMO Foundation. This may also be amended by a future DIP.&#x20;
+Users must also opt-in to allowing their aggregated and anonymized data to be used to improve the network for troubleshooting purposes, and to create data products. This work will be done by Digital Infrastructure Inc. on behalf of the DIMO Foundation. Aggregated and anonymized means that consumers of user data will not be able to determine personal information about an individual user. An example of such a report would be "the average range of Tesla Model Y's in California" and even this report could only be compiled if there were a statistically significant number of Tesla Model Y's connected in California. Proceeds from the sale of user data will increase Market Issuance and will fund future the DIMO Foundation. This may also be amended by a future DIP.&#x20;
 
 Lastly, user wallets must not be flagged by Chainalysis' [AML tools](https://www.chainalysis.com/free-cryptocurrency-sanctions-screening-tools/) as risky or fraudulent.
 
