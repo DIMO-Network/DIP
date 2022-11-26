@@ -47,7 +47,7 @@ It is required that all DIPs include the following in a format similar to this o
 
     _Review_ and _Voting_ must also specify when that period ends by adding "(until Month Day, Year at 24hr Clock UTC Time)." E.g., **Status**: Voting (until January 20th, 2022 at 22:00:00 UTC).
 * **Discord forum URL**: A link to the #🗳️governance thread in [Discord ](https://discord.com/invite/dimonetwork)for discussing this DIP.
-* **Voting URL**: A link to the vote on [Snapshot](https://snapshot.org/#/dimo.eth) or [Tally](https://www.tally.xyz/gov/eip155:137:0xD203e37D96cC0b9b7Dc00fC3fDfcf1b1A2E8c547). For proposals in _Review_ status, write "Pending".
+* **Voting URL**: A link to the vote on [Snapshot](https://snapshot.org/#/dimo.eth). For proposals in _Review_ status, write "Pending".
 * **Abstract**: This is a slightly longer 3-5 sentence summary of the proposal.
 * **Motivation**: This explains the rationale and goals for the DIP.
 * **Specification**: The highly detailed description of the DIP including precise terms, protocol updates, blockchain transactions and smart contract code that will be executed with comments, and more.
@@ -64,7 +64,7 @@ Due to current technical limitations, the DIMO Foundation must assist in posting
 
 ### **Proposal deliberation & withdrawal**
 
-DIPs that have been sponsored and introduced will be posted in the DIP Repo (here) and announced in the #📣annoucements channel in [Discord](https://discord.com/invite/dimonetwork). After seven days (168 hours) of deliberation without withdrawal, the DIP goes to a vote.
+DIPs that have been sponsored and introduced will be posted in the DIP Repo ([here](https://github.com/DIMO-Network/DIP)) and announced in the #📣annoucements channel in [Discord](https://discord.com/invite/dimonetwork). After a minimum of seven days (168 hours) of deliberation without withdrawal, the DIP goes to a vote. The sponsor(s) may extend the review period if they choose.
 
 At any time prior to voting, if the proposals does not maintain the support of at least 5,000,000 $DIMO worth of voting power (because token holders undelegated their tokens from sponsors or sponsors publicly withdraw their support), the proposal status is changed to "Withdrawn". Once the proposal reaches full sponsorship again, if ever, it will go back into _Review_, an announcement will go out in #📣annoucements, and the seven day deliberation window begins again.
 
@@ -78,14 +78,14 @@ After seven days of deliberation, the DIP goes to a vote. Once a vote beings, th
 
 * **Circulating Supply**: Equals the total supply of $DIMO minus the amount held by the Foundation as treasury or for baseline issuance.
 * **Voting Formats**: The only allowable formats are:&#x20;
-  * Basic Voting: the only voting options are Approve, Reject, and Abstain and the vote is either approved or rejected at the end of the voting period. These an be on-chain votes on Tally or off-chain polls on Snapshot.
+  * Basic Voting: the only voting options are Approve, Reject, and Abstain and the vote is either approved or rejected at the end of the voting period.&#x20;
   * Ranked Choice: an instant runoff method whereby users rank their choices in order. If any option is ranked first by the required majority of voters, that options wins. If no option reaches majority, the option that received the fewest top rank choices by voters is eliminated and the nullified votes for that option are redistributed to each voter's second choice. This process repeats until one option reaches the required majority (and that options wins) or until there are two options left that both fail to reach the majority (e.g., if required majority is 60% and options 1 and 2 have 50% each and there is no winner). These votes must be done as off-chain poles on Snapshot.
   * Multiple Selection: voters are able to select multiple options, and each option that achieves the required majority is accepted. For example, this may be used to elect multiple members to a council. These votes must be done as off-chain poles on Snapshot.
 * **Quorum**: This is the amount tokens required to participate in a vote for it to be considered valid. A vote that falls short on participation may still be considered valid if there are enough votes for Approve (in Basic Voting) or the top choice (in Rank Choice) such that majority would still be achieved even if every additional vote required to reach quorum were cast as Reject (in Basic Voting) or for the alternate choice (in Rank Choice).&#x20;
 
 **Terms**
 
-* **Venue**: [Snapshot](https://snapshot.org/#/dimo.eth) for off-chain polling or [Tally](https://www.tally.xyz/gov/eip155:137:0xD203e37D96cC0b9b7Dc00fC3fDfcf1b1A2E8c547) for on-chain voting, as specified in the proposal, depending on the nature of the DIP.
+* **Venue**: All voting will occur on [Snapshot](https://snapshot.org/#/dimo.eth).
 * **Duration**: Voting will be open for seven days (168 hours). Voters may change their votes during the seven day window.
 * **Withdrawal**: Once in _Voting_, the proposal may not be withdrawn by the sponsors. It will either pass or fail.
 * **Delegation**: $DIMO holders can delegate their voting power to themselves (allowing them to vote directly) or to someone else without having to transfer their tokens. To do this, click [here](https://www.tally.xyz/gov/eip155:137:0xD203e37D96cC0b9b7Dc00fC3fDfcf1b1A2E8c547), connect your wallet, and click "Delegate Tokens". Then enter the 0x address of the person you'd like to delegate your tokens to.  You remain in control of your $DIMO and can revoke or redelegate your tokens at any times. This action will require Matic tokens on the Polygon blockchain.
@@ -131,4 +131,8 @@ The DIMO Foundation, "DIP-1: DIMO Governance Guidelines", no. 1, November 2023. 
 
 ## Changelog
 
-Any changes made while the DIP is the _Review_ stage must be summarized in this section including the date and time of the change.&#x20;
+None
+
+## Disclaimer
+
+The contract addresses for $DIMO are [0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b](https://etherscan.io/token/0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b) on Ethereum and [0xE261D618a959aFfFd53168Cd07D12E37B26761db](https://polygonscan.com/token/0xE261D618a959aFfFd53168Cd07D12E37B26761db) on Polygon. Please always confirm that you are interacting with these contract addresses and not those of a fraudulent imitator. This proposal may not be enacted if it violates Cayman Islands law. Please triple check that any communications are authentic as it’s common for scammers to try to trick you into sending them crypto or into revealing your private keys.

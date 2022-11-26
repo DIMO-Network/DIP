@@ -1,12 +1,16 @@
 # DIP-4: Device Integrations
 
-> **Author**: [Andy Chatham](https://twitter.com/ajchatham), [Rob Solomon](https://twitter.com/robmsolomon), Diego Moro&#x20;
->
-> **Status**: Draft
->
 > **Headline**: Expanding the ecosystem of DIMO compatible hardware devices and software connection methods
 >
-> **Voting Format \[URL]**: [\[Snapshot\]](https://snapshot.org/#/dimo.eth/proposal/0x096a7ee8ebc3bb90c5aab4afa516ab0700aa436c5f4f92c0a7d7fec24457646d)
+> **Author**: The DIMO Foundation
+>
+> **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
+>
+> **Status**: Review
+>
+> **Discord forum URL**: Pending
+>
+> **Voting URL**: Pending
 
 ## Abstract
 
@@ -22,7 +26,9 @@ The requirements for any integration providers are that they must:&#x20;
 
 ## Motivation&#x20;
 
-The first batch of DIMO compatible hardware is being produced by AutoPi.io and is being sold by Digital Infrastructure Inc., the development company that is bootstrapping DIMO. Initial software connections are provided by SmartCar and Digital Infrastructure Inc., both of which facilitate a direct connection to a vehicle manufacturer's connected vehicle APIs.
+The first batch of DIMO compatible hardware is being produced by AutoPi.io and is being sold by Digital Infrastructure Inc., the development company that is bootstrapping DIMO.&#x20;
+
+Initial software connections are provided by SmartCar and Digital Infrastructure Inc., both of which facilitate a direct connection to a vehicle manufacturer's connected vehicle APIs.
 
 As a part of the vision to establish DIMO as a decentralized universal protocol, it is important to develop a robust and diverse ecosystem of manufacturers producing DIMO compatible hardware and software companies providing digital integrations.
 
