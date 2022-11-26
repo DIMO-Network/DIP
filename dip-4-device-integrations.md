@@ -22,9 +22,7 @@ The requirements for any integration providers are that they must:&#x20;
 
 ## Motivation&#x20;
 
-The first batch of DIMO compatible hardware is being produced by AutoPi.io and is being sold by Digital Infrastructure Inc., the development company that is bootstrapping DIMO.&#x20;
-
-Initial software connections are provided by SmartCar and Digital Infrastructure Inc., both of which facilitate a direct connection to a vehicle manufacturer's connected vehicle APIs.
+The first batch of DIMO compatible hardware is being produced by AutoPi.io and is being sold by Digital Infrastructure Inc., the development company that is bootstrapping DIMO. Initial software connections are provided by SmartCar and Digital Infrastructure Inc., both of which facilitate a direct connection to a vehicle manufacturer's connected vehicle APIs.
 
 As a part of the vision to establish DIMO as a decentralized universal protocol, it is important to develop a robust and diverse ecosystem of manufacturers producing DIMO compatible hardware and software companies providing digital integrations.
 

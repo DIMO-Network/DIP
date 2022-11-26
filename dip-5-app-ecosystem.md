@@ -28,7 +28,7 @@ The DIMO app ecosystem has five main components:&#x20;
 * **Clients**: provide interfaces for DIMO users to interact with the protocol (e.g., DIMO Mobile on iOS and Android);&#x20;
 * **Node** **operators**: receive IoT device data from users and serve it to licensed apps and data customers (node operators are to DIMO what Infura or Alchemy are to Ethereum);&#x20;
 * **Apps**: build products that pay node operators for DIMO user data and connectivity; and&#x20;
-* **DIMO** **Platform** **Licensing**: issues licenses to clients, node operators, and apps. It also operates DIMO Pay, a payment processing and currency conversion service that apps and node operators and apps are required to use.
+* **DIMO** **Platform** **Licensing**: issues licenses to clients, node operators, and apps. It also operates DIMO Marketplace issuance, which apps and node operators and apps are required to use.
 
 ![](https://lh6.googleusercontent.com/K46ZpsUjd-RwMxBsR8ajNlB76HxJKPI169z5z0HcuZt09GOW-SqRnIsUHwcGK1MldM4Td0mlZI5rlVj2Ye-K4OkgVRaF1rAP0maWNjGyJEswfIOB\_Q94pet2kt-hpNhpnRUDOb8DTA3YX0spUIM)
 
@@ -38,9 +38,9 @@ DIMO applications are a link between data consumers and data providers. It is im
 
 The goal of this proposal is to put in place a framework that can safely and effectively grow the number of:&#x20;
 
-* DIMO users who will share their data, protect their privacy, and earn rewards;&#x20;
+* DIMO users who will share their data, protect their privacy, spend money in the marketplace and earn rewards;&#x20;
 * App developers who build applications that make use of user data and connectivity; and&#x20;
-* Service Providers who use apps to help users solve problems.&#x20;
+* Service Providers who use apps to help users solve problems and save money.&#x20;
 
 ## Specifications&#x20;
 
@@ -55,7 +55,7 @@ This team is tasked with:&#x20;
 * Attracting, vetting, licensing, and onboarding data and connectivity clients, nodes, and applications;
 * Monitoring and reporting on the effectiveness and compliance of licensed clients, nodes and applications;&#x20;
 * Generally protecting DIMO Users privacy and security; and&#x20;
-* Operating the DIMO Pay subscription engine and fee converter.&#x20;
+* Operating the DIMO Marketplace Issuance subscription engine and fee converter.&#x20;
 
 #### Team Composition & Operating Structure&#x20;
 
@@ -79,12 +79,14 @@ Other than specified in this proposal, the DIMO Platform Licensing team will ref
 * Onboard DIMO Web Services as the first licensed node operator;&#x20;
 * Onboard three distinct DIMO applications which collectively serve at least 100,000 users; and&#x20;
 * Detect and remedy any misuse of data by clients, node operators, and applications.
+* Generate 1,000,000 in $DIMO marketplace issuance.
 
 Metrics:&#x20;
 
 * Track and maintain a current list of licensed clients, nodes, and applications with pertinent information (e.g., business name, website, support email, etc.);&#x20;
 * Track and publish the number of users of each DIMO client, every month; and&#x20;
 * Track and publish the number of users opted-in to each node per month, every month.&#x20;
+* Track $DIMO marketplace issuance
 
 #### Authority & Domain&#x20;
 
@@ -127,7 +129,7 @@ A client is a type of application that allows users to interact directly with th
 
 To operate a licensed client, administrators must:&#x20;
 
-* Submit an application, and receive approval from, DIMO Platform Licensing; and
+* Submit an application and receive approval from DIMO Platform Licensing; and
 * Maintain compliance with the [Rights & Obligations](dip-5-app-ecosystem.md#rights-and-obligations).
 
 #### Application
@@ -205,7 +207,7 @@ Licenses are issued on-chain as NFTs. Data will only be shared to those who have
 
 If a node neglects their obligations as specified above, some or all of their stake may be forfeit (“slashed”) and their license may be suspended or revoked. Any $DIMO holder may issue a challenge per the DIMO arbitration procedure (see [DIP-2](dip-6-dispute-resolution.md)). If the DIMO Court sides in the favor of the challenger, all or some of the stake may be burned and/or given to affected users.
 
-The staked $DIMO will remain locked for as long as the application continues to function.
+The staked $DIMO will remain locked for as long as the application continues to access DIMO user data.
 
 While the DIMO Platform Licensing team is both able to and expected to act as the challenger most often, they do not have the authority to unilaterally slash the node’s stake.
 
@@ -215,7 +217,7 @@ Any application may renounce their license and receive back the staked $DIMO aft
 
 #### Payments
 
-All payments made between DIMO users, clients, nodes, and/or apps must be routed through DIMO Pay ([see DIP-5](broken-reference)).
+All payments made between DIMO users, clients, nodes, and/or apps must be routed through DIMO Marketplace Issuance (see [dip-3-marketplace-issuance-and-token-burn.md](dip-3-marketplace-issuance-and-token-burn.md "mention")).
 
 
 
@@ -254,7 +256,7 @@ The DIMO Platform Licensing team may ban apps from the network (e.g., if they mi
 
 #### Payments
 
-All payments made between DIMO users, clients, nodes, and/or apps must be routed through DIMO Pay ([see DIP-5](broken-reference)).
+All payments made between DIMO users, clients, nodes, and/or apps must be routed through DIMO Marketplace Issuance (see [dip-3-marketplace-issuance-and-token-burn.md](dip-3-marketplace-issuance-and-token-burn.md "mention")).
 
 ## Implementation
 
