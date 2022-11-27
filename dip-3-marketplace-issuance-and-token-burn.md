@@ -20,9 +20,9 @@ It will start off very simple, but can evolve with future DIPs as the ecosystem 
 
 ## Motivation
 
-DIMO users and apps should be rewarded primarily based on the value that they generate to create a more direct link between incentives and optimal behaviors. Those who create the most value for the network should have the biggest voice and should have an easier path to using DIMO.
+DIMO users and apps should be rewarded based on the value that they generate to create a more direct link between incentives and optimal behaviors. Those who create the most value for the network should have the largest $DIMO earnings and biggest voice in its future direction.
 
-In the early stages of DIMO's development, the vast majority of rewards will come from [Baseline Issuance](dip-2-baseline-issuance.md), which is designed to simulate market demand for user data in the simplest way possible. As the network matures, this balance will likely shift the other way and the majority of rewards will come from Marketplace Issuance. This is comparable to other web3 networks like Helium, where their rewards from proof of coverage ideally shrink in comparison to rewards from data transfer as adoption increase.
+In the early stages of DIMO's development, the vast majority of rewards will come from [Baseline Issuance](dip-2-baseline-issuance.md), which is designed to simulate market demand for user data in the simplest way possible. As the network matures, this balance will shift so the majority of rewards come from Marketplace Issuance. This is comparable to other web3 networks like Helium, where their rewards from proof of coverage ideally shrink in comparison to rewards from data transfer as adoption increase.
 
 ## Specification
 
