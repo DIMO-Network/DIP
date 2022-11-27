@@ -48,7 +48,7 @@ _Hypothetical Example:_ You grant DIMO Explorer, a licensed DIMO app, the right 
   * Explorer receives $99,000 USD (1,000,000 x 99% x 10%)
   * Users receive 891,000 $DIMO (1,000,000 x 99% x 90%)
 
-<img src=".gitbook/assets/file.drawing (3).svg" alt="" class="gitbook-drawing">
+<img src=".gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
 ### Type 2: The sale of disaggregated user data
 
@@ -75,7 +75,7 @@ _Hypothetical Example:_ All Farm Insurance gives new customers 500 $DIMO when th
 * **Settlement**:&#x20;
   * You receive 500 $DIMO (505.05 x 99%)
 
-<img src=".gitbook/assets/file.drawing (4).svg" alt="" class="gitbook-drawing">
+<img src=".gitbook/assets/file.drawing (3).svg" alt="" class="gitbook-drawing">
 
 ### Type 4: User payments to licensed apps
 
@@ -100,7 +100,7 @@ _Hypothetical Example_: You drive for, RID3SHAR3, a better DIMO-fied version of 
   * RID3SHAR3 receives $0.79 (40 \* 99% \* 2%)
   * You receive 0.39 $DIMO (40 \* 99% \* 98% x 1%) plus $38.42 USD (40 \* 99% \* 98% x 99%)
 
-<img src=".gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+<img src=".gitbook/assets/file.drawing (4).svg" alt="" class="gitbook-drawing">
 
 ## Implementation
 
