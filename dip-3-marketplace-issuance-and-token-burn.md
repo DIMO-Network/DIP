@@ -50,7 +50,7 @@ _Hypothetical Example:_ You grant DIMO Explorer, a licensed DIMO app, the right 
   * Explorer receives 1,000 $DIMO (1,000,000 x 10% x 1%) plus $98,000 USD (1,000,000 x 99% x 10% - 1,000)
   * Users receive 891,000 $DIMO (1,000,000 x 99% x 90%)
 
-<img src=".gitbook/assets/file.drawing (2).svg" alt="" class="gitbook-drawing">
+<img src=".gitbook/assets/file.drawing (3).svg" alt="" class="gitbook-drawing">
 
 ### Type 2: The sale of disaggregated user data
 
@@ -77,6 +77,8 @@ _Hypothetical Example:_ All Farm Insurance gives new customers 500 $DIMO plus a 
 * **Settlement**:&#x20;
   * You receive 500 $DIMO (505.05 x 99%)
 
+<img src=".gitbook/assets/file.drawing (2).svg" alt="" class="gitbook-drawing">
+
 ### Type 4: User payments to licensed apps
 
 Users may pay licensed DIMO apps for services and subscriptions in fiat dollars or $DIMO. This still generates market issuance for the user and a token burn. 1% of the payment comes back to the user in $DIMO and 1% is burned.
@@ -88,6 +90,8 @@ All Farm receives your $50 and sends $1 USD or 1 $DIMO to the DIMO Foundation wh
 * **Burn**: 0.50 $DIMO (50 x 1%)
 * **Settlement**:&#x20;
   * All Farm receives 0.5 $DIMO (50 x 1%) plus $49 USD (50 - 0.5 - 0.5)
+
+<img src=".gitbook/assets/file.drawing (4).svg" alt="" class="gitbook-drawing">
 
 ### Type 5: User providing professional services
 
