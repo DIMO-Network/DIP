@@ -31,7 +31,8 @@ All transactions enabled by DIMO apps, where fiat money, money-like instruments 
 For all such transactions, 1% of revenue is burned as $DIMO, and:&#x20;
 
 * _If user is selling data or receiving a sign up bonus —_ 99% (the remainder) goes to the user in $DIMO regardless of payment type.
-* _If user is providing or paying for goods or services_ — 1% goes to the user in $DIMO and the rest is remitted in kind.
+* _If user is paying for goods or services_ — 1% goes to the user in $DIMO and the rest is remitted in kind.
+* _If user is providing goods or services_ — 1% goes to the user in $DIMO and the rest is remitted in kind.
 
 For these calculations specifically, $1 DIMO is pegged to 1 USD of value.&#x20;
 
