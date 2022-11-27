@@ -28,14 +28,12 @@ In the early stages of DIMO's development, the vast majority of rewards will com
 
 All transactions enabled by DIMO apps, where fiat money, money-like instruments (DAI, BTC, ETH), or $DIMO is exchanged, generate rewards and token burn.
 
-For all such transactions:
+For all such transactions, 1% of revenue is burned as $DIMO, and:&#x20;
 
-* 1% of revenue is converted to $DIMO and burned; and&#x20;
-* At least 1% must be received as $DIMO by the recipient.
+* _If user is selling data or receiving a sign up bonus —_ 99% (the remainder) goes to the user in $DIMO regardless of payment type.
+* _If user is providing or paying for goods or services_ — 1% goes to the user in $DIMO and the rest is remitted in kind.
 
-For this calculation, $1 DIMO is pegged to 1 USD of value.&#x20;
-
-Additionally, if the transaction involves the sale of user data or a signup incentive, the DIMO users who generate that data or sign up for that service must receive their entire portion of the reward in $DIMO.
+For these calculations specifically, $1 DIMO is pegged to 1 USD of value.&#x20;
 
 The easiest way to understand this mechanism is through examples of various transaction types, all listed below.
 
@@ -47,7 +45,7 @@ _Hypothetical Example:_ You grant DIMO Explorer, a licensed DIMO app, the right 
 
 * **Burn**: 10,000 $DIMO (1,000,000 x 1%)
 * **Settlement**:&#x20;
-  * Explorer receives 1,000 $DIMO (1,000,000 x 10% x 1%) plus $98,000 USD (1,000,000 x 99% x 10% - 1,000)
+  * Explorer receives $99,000 USD (1,000,000 x 99% x 10%)
   * Users receive 891,000 $DIMO (1,000,000 x 99% x 90%)
 
 <img src=".gitbook/assets/file.drawing (3).svg" alt="" class="gitbook-drawing">
@@ -62,22 +60,22 @@ Verizon subscribes to your cell coverage data so they can map their signal stren
 
 * **Burn**: 0.60 $DIMO each month (60 x 1%)
 * **Settlement**:&#x20;
-  * DataWiz receives 0.30 $DIMO/month (60 x 5% x 1%) plus $2.67/month USD (60 x 99% x 5% - 0.3)
+  * DataWiz receives $2.97/month USD (60 x 99% x 5%)
   * You receive 56.43 $DIMO per month (60 x 99% x 95%)
 
-<img src=".gitbook/assets/file.drawing (4).svg" alt="" class="gitbook-drawing">
+<img src=".gitbook/assets/file.drawing (5).svg" alt="" class="gitbook-drawing">
 
 ### Type 3: Direct incentives
 
 Marketplace Issuance may also be earned directly from apps. Incentives must be in $DIMO. 99% of the incentive is issued to the user and 1% is burned.&#x20;
 
-_Hypothetical Example:_ All Farm Insurance gives new customers 500 $DIMO plus a little extra to cover the 1% burn when they switch to All Farm and share their vehicle health, location, and mileage data for better insurance rates. After you sign up, they send 505.05 $DIMO or USD to the DIMO Foundation, 500 $DIMO is sent to you (505.05 x 99% = 500) and 5.05 $DIMO is burned (505.05 x 1% = 5.05).
+_Hypothetical Example:_ All Farm Insurance gives new customers 500 $DIMO when they switch to All Farm and share their vehicle health, location, and mileage data for better insurance rates.
 
 * **Burn**: 5.05 $DIMO (505.05 x 1%)
 * **Settlement**:&#x20;
   * You receive 500 $DIMO (505.05 x 99%)
 
-<img src=".gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+<img src=".gitbook/assets/file.drawing (4).svg" alt="" class="gitbook-drawing">
 
 ### Type 4: User payments to licensed apps
 
@@ -85,23 +83,24 @@ Users may pay licensed DIMO apps for services and subscriptions in fiat dollars 
 
 _Hypothetical Example_: Thanks to the data you provide to All Farm through DIMO, you save a lot of money on your car insurance, but, unfortunately, it's still not free. After safe driving discounts, you pay $50 in cash per month for your car insurance.
 
-All Farm receives your $50 and sends $1 USD or 1 $DIMO to the DIMO Foundation who sends 0.5 $DIMO back to you (50 x 1%) and burns 0.5 (50 x 1%).
-
 * **Burn**: 0.50 $DIMO (50 x 1%)
 * **Settlement**:&#x20;
-  * All Farm receives 0.5 $DIMO (50 x 1%) plus $49 USD (50 - 0.5 - 0.5)
+  * All Farm receives $49.50 USD (50 x 99%)
 
-<img src=".gitbook/assets/file.drawing (5).svg" alt="" class="gitbook-drawing">
+<img src=".gitbook/assets/file.drawing (7).svg" alt="" class="gitbook-drawing">
 
 ### Type 5: User providing professional services
 
 _When users are providing professional services, they are eligible to receive 98% of qualified payments in cash rather than $DIMO. Of the remaining 2%, half is distributed as a $DIMO reward and half is burned._
 
-_Hypothetical Example_: You drive for a better DIMO-fied version of Uber and a passenger pays $40 in cash for you to drive them to the airport. You receive $39.60 ($40 x 99%) in cash and 0.20 $DIMO tokens (40 x 1%). 0.20 $DIMO is burned (40 x 1%).
+_Hypothetical Example_: You drive for, RID3SHAR3, a better DIMO-fied version of Uber that charges a 2% fee (compare with Uber's \~25% fee). A passenger pays $40 USD for you to drive them to the airport.
 
 * **Burn**: 0.40 $DIMO (40 x 1%)
 * **Settlement**:&#x20;
-  * You receive 0.4 $DIMO (40 x 1%) plus $39.20 USD (40 - 0.4 - 0.4)
+  * RID3SHAR3 receives $0.79 (40 \* 99% \* 2%)
+  * You receive 0.39 $DIMO (40 \* 99% \* 98% x 1%) plus $38.42 USD (40 \* 99% \* 98% x 99%)
+
+<img src=".gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
 ## Implementation
 
