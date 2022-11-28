@@ -58,9 +58,7 @@ The initial contributor are:
 
 Team Lead: [Brien East ](https://www.linkedin.com/in/brien-east-1137516b/details/experience/)(Digital Infrastructure Inc.)
 
-Contributors: Malte Baden (Autopi);&#x20;
-
-#### Operating Structure&#x20;
+Contributors: Malte Baden (Autopi); Eddie Samuels (Panda); Shaolin Funktastic (Digital Infrastructure Inc.); John Gagnon (Stellantis), Yevgeny Khessin (Digital Infrastructure Inc.); Dylan Moreland (Digital Infrastructure Inc.)
 
 All decisions related to licensing, as well as the modification of device types and specifications, require the agreement of a majority of the voting members.&#x20;
 
@@ -90,9 +88,7 @@ Metrics:&#x20;
 
 As a part of the plan to progressively decentralize the project, DIMO Integrations will start with concentrated responsibilities and authorities, which will be decentralized over time.
 
-DIMO Integrations will have the authority to grant and revoke licenses to integration providers and their devices/software services. However, they cannot lower the requirements that all manufacturers must stake a minimum 100,000 $DIMO as a security deposit and must use a “device minting” NFT for each device sold. They also cannot grant a license to any integration provider who is presently banned as a result of an arbitration proceeding (see [Slashing & License Revocatio](dip-4-device-integrations.md#slashing-and-license-revocation)n).
-
-While it is expected that this team will be the first to pursue action against a hardware manufacturer that breaches its responsibilities, anyone may initiate a challenge to slash the stake of the hardware manufacturer (see [Slashing & License Revocation](dip-4-device-integrations.md#slashing-and-license-revocation)).
+DIMO Integrations will have the authority to grant and revoke licenses to integration providers and their devices/software services. However, they cannot lower the requirements that all manufacturers must stake a minimum 100,000 $DIMO as a security deposit and must use a “device minting” NFT for each device sold.
 
 DIMO Integrations will serve as administrators in a device management software open source repository on Github. However, manufacturers are not required to use this software, and it will be published with an MIT open source license so that it may be forked.
 
@@ -100,7 +96,7 @@ The $DIMO token holders may overrule DIMO Integrations, may amend the powers and
 
 #### Budget & Financial Projections&#x20;
 
-DIMO Integrations is seeking an initial infusion of 500,000 $DIMO tokens (when available) and 200,000 $USDC to fulfill its purpose and achieve its 2023 goals as specified above. These resources would go to a Gnosis Safe multi-signature wallet on the Polygon PoS chain requiring the signatures of \_\_ out of the \_\_ voting members. The address for that wallet is: \[0x… insert address here]
+DIMO Integrations is seeking an initial infusion of \_\_\_\_\_\_\_\_\_ $DIMO tokens (when available) and \_\_\_\_\_\_\_\_\_\_ $DAI to fulfill its purpose and achieve its 2023 goals as specified above. These resources would go to a Gnosis Safe multi-signature wallet on the Polygon PoS chain requiring the signatures of \_\_ out of the \_\_ voting members. The address for that wallet is: \[0x… insert address here]
 
 | Description                                  | $DIMO Per Month | USDC Per Month |
 | -------------------------------------------- | --------------- | -------------- |
@@ -112,8 +108,6 @@ DIMO Integrations is seeking an initial infusion of 500,000 $DIMO tokens (when a
 | **Total**                                    | **45,000**      | **26,000**     |
 
 Additionally, DIMO Integrations will earn $DIMO per connected vehicle which will be split among various members (see [Device Minting NFTs](dip-4-device-integrations.md#device-minting-nfts)).
-
-Members of Digital Infrastructure Inc. and the DIMO Foundation will not receive any compensation for their contribution to the DIMO Integrations committee.&#x20;
 
 #### Summary of Commitments&#x20;
 
