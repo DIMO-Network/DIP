@@ -14,21 +14,17 @@
 
 ## Abstract
 
-This proposal outlines the method by which a new committee, called DIMO Integrations, will issue licenses to hardware manufacturers who can produce compatible devices and software developers who build digital integrations (collectively referred to as integration providers).
+This proposal outlines the method by which a new committee, called DIMO Integrations, will issue licenses to hardware manufacturers who can produce compatible devices (like [AutoPi](https://www.autopi.io/)), as well as software developers (like [SmartCar](https://smartcar.com/)) who build digital integrations (collectively referred to as integration providers).
 
 The requirements for any integration providers are that they must:&#x20;
 
 1. Submit an application providing background on their business and receive approval from DIMO Integrations;
-2. Stake 100,000 $DIMO tokens as a security deposit; (If a hardware manufacturer) submit specifications for each device they intend to manufacture and receive approval from DIMO Integrations;
-3. (If a software developer) submit specifications and code and receive approval from DIMO Integrations;
+2. Stake 100,000 $DIMO tokens as a security deposit;&#x20;
+3. Submit specifications and other details for each device or software integration service for approval from DIMO Integrations;
 4. Pair the applicable “device minting” NFT with each vehicle they connect to; and
 5. Remain in good standing with the community.&#x20;
 
 ## Motivation&#x20;
-
-The first batch of DIMO compatible hardware is being produced by AutoPi.io and is being sold by Digital Infrastructure Inc., the development company that is bootstrapping DIMO.&#x20;
-
-Initial software connections are provided by SmartCar and Digital Infrastructure Inc., both of which facilitate a direct connection to a vehicle manufacturer's connected vehicle APIs.
 
 As a part of the vision to establish DIMO as a decentralized universal protocol, it is important to develop a robust and diverse ecosystem of manufacturers producing DIMO compatible hardware and software companies providing digital integrations.
 
@@ -43,6 +39,8 @@ The goals of this proposal are to:&#x20;
 
 ### Establishing the DIMO Integrations Team&#x20;
 
+If passed, this proposal would formally recognize the DIMO Integrations team and delegate certain rights and duties to it.
+
 #### Purpose
 
 DIMO Integrations is a delegate of the greater DIMO community responsible for ensuring the realization of the goals listed in the previous section. Primarily, this team is tasked with:&#x20;
@@ -54,15 +52,13 @@ DIMO Integrations is a delegate of the greater DIMO community responsible for en
 
 #### Team Composition & Operating Structure&#x20;
 
-This team should be composed of trusted mechanical engineers, software developers, supply chain experts, game theorists, finance professionals, and attorneys. Terms should last for 1 year and can be recalled by a majority of $DIMO token holders.
+This team should be composed of trusted mechanical engineers, software developers, supply chain experts, game theorists, finance professionals, and attorneys.&#x20;
 
-The group has been selected by the DIMO founders and is ratified by the DIMO community if this DIP passes.
+The initial contributor are:
 
-Voting Members TBD
+Team Lead: [Brien East ](https://www.linkedin.com/in/brien-east-1137516b/details/experience/)(Digital Infrastructure Inc.)
 
-Core Contributors TBD
-
-Various others may also be engaged to contribute in exchange for $DIMO, USDC, or as volunteers.&#x20;
+Contributors: Malte Baden (Autopi);&#x20;
 
 #### Operating Structure&#x20;
 

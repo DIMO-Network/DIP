@@ -7,8 +7,8 @@
 * [DIP-4: Device Integrations](dip-4-device-integrations.md)
 * [DIP-5: App Ecosystem](dip-5-app-ecosystem.md)
 * [DIP-6: Dispute Resolution](dip-6-dispute-resolution.md)
-* [DIP-7: Grant Program for Device Manufacturers](dip-7-grant-program-for-device-manufacturers.md)
-* [DIP-8: Grant Program for Vehicle OEMs](dip-8-grant-program-for-vehicle-oems.md)
+* [DIP-7: Grant & Sales Program for Device Manufacturers](dip-7-grant-program-for-device-manufacturers.md)
+* [DIP-8: Grant & Sales Program for Vehicle OEMs](dip-8-grant-program-for-vehicle-oems.md)
 
 ## Templates
 
