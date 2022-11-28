@@ -52,7 +52,15 @@ DIMO Integrations is a delegate of the greater DIMO community responsible for en
 
 #### Team Composition & Operating Structure&#x20;
 
-The initial team lead is [Brien East ](https://www.linkedin.com/in/brien-east-1137516b/details/experience/)(Digital Infrastructure Inc.) who will be responsible for assembling other contributors and prepare a [Resource Allocation DIP](templates/resource-allocation-template.md) and community presentation within 90 days. This team should be composed of trusted mechanical engineers, software developers, supply chain experts, game theorists, finance professionals, and attorneys.
+This team should be composed of trusted mechanical engineers, software developers, supply chain experts, game theorists, finance professionals, and attorneys.&#x20;
+
+The initial contributor are:
+
+Team Lead: [Brien East ](https://www.linkedin.com/in/brien-east-1137516b/details/experience/)(Digital Infrastructure Inc.)
+
+Contributors: Malte Baden (Autopi); Eddie Samuels (Panda); Shaolin Funktastic (Digital Infrastructure Inc.); John Gagnon (Stellantis), Yevgeny Khessin (Digital Infrastructure Inc.); Dylan Moreland (Digital Infrastructure Inc.)
+
+All decisions related to licensing, as well as the modification of device types and specifications, require the agreement of a majority of the voting members.&#x20;
 
 #### Conflicts
 
@@ -71,8 +79,10 @@ Goals (target completion by the end of 2023):&#x20;
 
 Metrics:&#x20;
 
-* Track and publish a current list of licensed integration providers in good standing; and
-* Track and publish devices connected and disconnected by manufacturer and by device type per month, every month.
+* Track and publish a current list of licensed integration providers in good standing;&#x20;
+* Track and publish devices connected and disconnected by manufacturer and by device type per month, every month;&#x20;
+* Research and publish customer satisfaction metrics and open issues by device manufacturer quarterly; and&#x20;
+* Track and publish devices online that are managed by the open source device management software produced by this team.&#x20;
 
 #### Authority & Domain&#x20;
 
@@ -86,9 +96,16 @@ The $DIMO token holders may overrule DIMO Integrations, may amend the powers and
 
 #### Budget & Financial Projections&#x20;
 
-DIMO Integrations is seeking an initial infusion of 150,000 $DAI and 50,000 $DIMO. These resources would go to a Gnosis Safe multi-signature wallet on the Polygon PoS chain requiring the signatures of \_\_ out of the \_\_ voting members. The address for that wallet is: \[0x… insert address here].
+DIMO Integrations is seeking an initial infusion of \_\_\_\_\_\_\_\_\_ $DIMO tokens (when available) and \_\_\_\_\_\_\_\_\_\_ $DAI to fulfill its purpose and achieve its 2023 goals as specified above. These resources would go to a Gnosis Safe multi-signature wallet on the Polygon PoS chain requiring the signatures of \_\_ out of the \_\_ voting members. The address for that wallet is: \[0x… insert address here]
 
-A larger and more detailed budget will be requested as part of the upcoming [Resource Allocation DIP](templates/resource-allocation-template.md) and community presentation that will&#x20;
+| Description                                  | $DIMO Per Month | USDC Per Month |
+| -------------------------------------------- | --------------- | -------------- |
+| Allocations to various contributors          | 35,000          | 15,000         |
+| Grants to prospective hardware manufacturers | 10,000          | 0              |
+| Hardware for testing                         | 0               | 5,000          |
+| Software & subscriptions                     | 0               | 3,000          |
+| Travel & other misc                          | 0               | 3,000          |
+| **Total**                                    | **45,000**      | **26,000**     |
 
 Additionally, DIMO Integrations will earn $DIMO per connected vehicle which will be split among various members (see [Device Minting NFTs](dip-4-device-integrations.md#device-minting-nfts)).
 
@@ -102,11 +119,13 @@ DIMO Integrations commits to:&#x20;
 * Refuse any form of compensation from current or potential integration provider as to avoid any conflict of interest, except as otherwise defined above; and&#x20;
 * Always act in good faith and in the best interest of the DIMO community.
 
+
+
 ### Integration Providers & Device Licenses
 
-In order to connect to DIMO users, their vehicles, and their data, integration providers must agree to various obligations, apply for a license, submit specifications or code for a specific connection method, receive acceptance from DIMO Integrations, stake 100,000 $DIMO, and attach a “device minting” NFT to each device they sell or user they connect.
+In order to connect to DIMO users, their vehicles, and their data, integration providers must agree to various obligations, apply for a license, submit specifications or code for a specific connection method, receive acceptance from DIMO Integrations, stake 100,000 $DIMO, and attach a “device minting” NFT to each device they sell or user they connect.&#x20;
 
-#### Obligations
+#### Obligations&#x20;
 
 Integration providers commit to maintaining strict quality and security standards, provide support for their services, abide to always act in good faith, and agree not to engage in unlawful activities. The following is illustrative but not exhaustive.
 
