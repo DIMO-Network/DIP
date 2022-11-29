@@ -18,6 +18,8 @@
 
 clients, nodes, services, user applications, and other similar products (collectively applications)
 
+Add temporary rewards pool for this team to administer to incentivize app usage - colin to add to future DIP
+
 
 
 This proposal defines how clients, nodes, and applications will form, remain in good standing, and interact with DIMO users, their data, and the protocol itself.
