@@ -14,27 +14,25 @@
 
 ## Abstract
 
-Transactions enabled by DIMO apps, such as data sales and subscriptions, generate additional $DIMO rewards for users, known as Marketplace Issuance. This is in addition to [Baseline Issuance](dip-2-baseline-issuance.md). These transactions will also generate a $DIMO token burn.&#x20;
+Transactions enabled by DIMO apps generate additional $DIMO rewards for users, known as Marketplace Issuance. This is in addition to [Baseline Issuance](dip-2-baseline-issuance.md). These transactions will also generate a $DIMO token burn.&#x20;
 
 It will start off very simple, but can evolve with future DIPs as the ecosystem matures and regulatory clarity improves.
 
 ## Motivation
 
-DIMO users and apps should be rewarded based on the value that they generate to create a more direct link between incentives and optimal behaviors. Those who create the most value for the network should have the largest $DIMO earnings and biggest voice in its future direction.
+DIMO users and apps should be rewarded based on the value that they generate to create a more direct link between incentives and optimal behaviors. Those who create the most value for the network should have the largest $DIMO rewards and the biggest voice in its future direction.
 
 In the early stages of DIMO's development, the vast majority of rewards will come from [Baseline Issuance](dip-2-baseline-issuance.md), which is designed to simulate market demand for user data in the simplest way possible. As the network matures, this balance will shift so the majority of rewards come from Marketplace Issuance. This is comparable to other web3 networks like Helium, where the rewards from proof of coverage ideally shrink in comparison to rewards from data transfer as adoption increases.
 
 ## Specification
 
-All transactions enabled by DIMO apps, where fiat money, money-like instruments (DAI, BTC, ETH), or $DIMO is exchanged, generate rewards and token burn.
+Users are able to opt-in to sharing data with licensed DIMO Apps. These apps must specify what data they are collecting, what they may do with it, and what portion of any data sales revenue that they will keep, if applicable.
 
-For all such transactions, 1% of revenue is burned as $DIMO, some may go to the DIMO app per their license and user agreements; and:&#x20;
+For all transactions involving the sale of user data or access, the amount will be translated to $DIMO tokens and the portion owed to the user will be distributed in $DIMO and 1% of the transaction will be burned.
 
-* **If user is selling data or receiving a sign up bonus** — the full remainder goes to the user in $DIMO regardless of payment type.
-* **If user is paying for goods or services with a licensed DIMO app (e.g., you pay for pro features)** — 1% goes back to the user as a rebate in $DIMO and the rest is remitted in kind to the app.
-* **If user is being paid to provide goods or services (e.g., you use a DIMO app to rent out your car)** — 1% goes to the user in $DIMO and the rest is remitted in kind to the user.
+If the end data customer pays in $DIMO, the calculation is obvious. If they pay in fiat (USD, EUR, GBP) or other assets (DAI, BTC, ETH), $1 USD of value will translate to 1 $DIMO.
 
-For these calculations specifically, $1 USD of value in fiat or other assets translates to 1 $DIMO. The easiest way to understand this mechanism is through examples of various transaction types, all listed below.
+The easiest way to understand this mechanism is through examples of various transaction types, all listed below.
 
 ### Type 1: The sale of aggregate and anonymized user data
 
