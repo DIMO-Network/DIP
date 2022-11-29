@@ -34,9 +34,7 @@ For all such transactions, 1% of revenue is burned as $DIMO, some may go to the 
 * **If user is paying for goods or services with a licensed DIMO app (e.g., you pay for pro features)** — 1% goes back to the user as a rebate in $DIMO and the rest is remitted in kind to the app.
 * **If user is being paid to provide goods or services (e.g., you use a DIMO app to rent out your car)** — 1% goes to the user in $DIMO and the rest is remitted in kind to the user.
 
-For these calculations specifically, 1 $DIMO is pegged to a minimum $1 USD of value. Should the token be acknowledged to have a market price above $1 USD, then the market price will be used for the conversion formula.
-
-The easiest way to understand this mechanism is through examples of various transaction types, all listed below. In these examples, we assume that 1:1 $DIMO/USD peg is in effect.
+For these calculations specifically, 1 $DIMO is pegged to $1 USD of value. The easiest way to understand this mechanism is through examples of various transaction types, all listed below.
 
 ### Type 1: The sale of aggregate and anonymized user data
 
