@@ -32,7 +32,7 @@ Users are able to opt-in to sharing data with licensed DIMO Apps. These apps mus
 
 For all transactions involving the sale of user data or access, the amount will be translated to $DIMO tokens and the portion owed to the user will be distributed in $DIMO and 1% of the transaction will be burned.
 
-If the end data customer pays in $DIMO, the calculation is obvious. If they pay in fiat (USD, EUR, GBP) or other assets (DAI, BTC, ETH), $1 USD of value will translate to 1 $DIMO.
+If the end data customer pays in $DIMO, the calculation is obvious. If they pay in fiat (USD, EUR, GBP) or other assets (DAI, BTC, ETH), $1 USD of value will translate to 1 $DIMO.&#x20;
 
 The easiest way to understand this mechanism is through examples of various transaction types, all listed below.
 
@@ -88,9 +88,9 @@ This mechanism should be implemented at a time in the future when DIMO adoption 
 
 ## Implementation
 
-In order to enact the specification above, the DIMO Foundation will issue licenses to DIMO Applications, per [DIP-5](dip-5-app-ecosystem.md), that specify the terms by which those applications handle user data and remit cash or $DIMO.
+In order to enact the specification above, the DIMO Foundation will issue licenses to DIMO Applications, per [DIP-5](dip-5-app-ecosystem.md), that specify the terms by which those applications handle user data and remit cash or $DIMO.&#x20;
 
-DIMO apps may burn and distribute $DIMO directly. In cases where DIMO apps do not have or wish to use $DIMO, or do not wish to handle the distribution directly, the DIMO Foundation will assist in conversions and distributions. To assist in this matter, the DIMO Foundation has engaged Digital Infrastructure Inc. to process data and calculate distributions.
+DIMO apps may burn and distribute $DIMO directly. In cases where DIMO apps do not have or wish to use $DIMO, or do not wish to handle the distribution directly, the DIMO Foundation will assist in conversions and distributions. To assist in this matter, the DIMO Foundation has engaged Digital Infrastructure Inc. to process data and calculate distributions. As is the case with Baseline Issuance, user wallets must not be flagged by Chainalysis' [AML tools](https://www.chainalysis.com/free-cryptocurrency-sanctions-screening-tools/) as risky or fraudulent to receive rewards.
 
 ## Copyright
 
