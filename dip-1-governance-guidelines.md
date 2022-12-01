@@ -90,7 +90,7 @@ After seven days of deliberation, the DIP goes to a vote. Once a vote beings, th
 * **Withdrawal**: Once in _Voting_, the proposal may not be withdrawn by the sponsors. It will either pass or fail.
 * **Delegation**: $DIMO holders can delegate their voting power to themselves (allowing them to vote directly) or to someone else without having to transfer their tokens. To do this, click [here](https://www.tally.xyz/gov/eip155:137:0xD203e37D96cC0b9b7Dc00fC3fDfcf1b1A2E8c547), connect your wallet, and click "Delegate Tokens". Then enter the 0x address of the person you'd like to delegate your tokens to.  You remain in control of your $DIMO and can revoke or redelegate your tokens at any times. This action will require Matic tokens on the Polygon blockchain.
 * **Weighting**: Voting is directly proportional to the amount of $DIMO a user has been delegated (by themselves or others);
-* **Formats, Majority, and Quorum**:
+* **Formats, Majority, and Quorum**: When possible and appropriate, voting and implementation should be conducted on-chain. Future DIPs may enforce this more programatically.
   *   **Level 3 Votes**: For highly impactful votes that entail minting or burning tokens; altering governance; altering issuance; disposing or selling core intellectual property of the Foundation; transferring or committing over 15,000,000 $DIMO; or other very meaningful decisions as may be determined by the DIMO Foundation:
 
       Majority = 70%
