@@ -12,7 +12,7 @@
 
 This proposal defines how conflicts are resolved via a dispute resolution process which includes a challenge, mediation, and resolution among two or more parties in the DIMO value chain (seen below) including, but not limited to, drivers, fleet operators, app developers, node operators, and certified hardware manufacturers.
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (5).png>)
 
 To resolve disputes, this DIMO Improvement Proposal #2 outlines the creation of the DIMO Court, a council composed of reputable experts with experience on IoT, data privacy, and blockchain related arbitration and/or mediation.&#x20;
 

@@ -154,54 +154,40 @@ While it is preferred that the integration provider is the party putting up the 
 
 #### Slashing & License Revocation&#x20;
 
-If an integration provider violates their obligations as specified above, some or all of their stake may be forfeit (“slashed”) and their license may be suspended or revoked. Any $DIMO holder may issue a challenge per the DIMO arbitration procedure (see DIP-2 \[insert link]). If the DIMO Court, the name for DIMO’s arbitration council, sides in the favor of the challenger, all or some of the stake may be burned and/or given to affected users.
-
-While DIMO Integrations, is both able to and expected to act as the challenger most of the time, they do not have the authority to unilaterally slash the manufacturers stake. That power lies with the DIMO Court.
-
-They do, however, have unilateral ability to ban devices from the network (e.g., if they’re not secure and provide false data), suspend or revoke a manufacturer’s license at any time, or increase the manufacturer’s staking requirement above the minimum 100,000 $DIMO.
+If an integration provider violates their obligations as specified above, some or all of their stake may be forfeit (“slashed”) and their license may be suspended or revoked. Any $DIMO holder may issue a challenge per the DIMO arbitration procedure (see [dip-6-dispute-resolution.md](dip-6-dispute-resolution.md "mention")). If the challenger prevails in the dispute, all or some of the stake may be burned and/or given to affected users.
 
 Any manufacturer may renounce their license and receive back their staked $DIMO after six months if there are no successful challenges during that time frame.
 
-
+Through a governance vote, DIMO token holders have the ability to ban devices from the network (e.g., if they’re not secure and provide false data), suspend or revoke a manufacturer’s license at any time, or increase the manufacturer’s staking requirement above the minimum 100,000 $DIMO.
 
 ### Connecting a Device to DIMO&#x20;
 
-#### Device Minting NFTs&#x20;
+#### Device Staking Requirements&#x20;
 
-For physical devices, in addition to proper licensing as defined in the previous section, the EVM wallet contained within the secure element must hold a “device minting” NFT. These are special NFTs that require $DIMO to acquire initially, but which may then be sold and transferred (e.g., on OpenSea) until the moment they are bonded to a licensed device.
+For physical hardware, licensed manufacturers pay a set amount of $DIMO to mint a device and enable it to connect to the $DIMO network.
 
-![](<.gitbook/assets/image (11).png>)
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-All device sales must include a device minting NFT; end users should not be required to source one themselves. For those familiar, these are similar in concept to mint vials (e.g., [CloneX Mintvial](https://opensea.io/collection/clonex-mintvial?utm\_governance=OPNS9ci96jyifptpsdwen90e\&utm\_source=google\&utm\_medium=paid\&utm\_account=6961136327\&utm\_term=clonex%20mint%20vial\&utm\_matchtype=e\&utm\_campaignid=17563298525\&utm\_adgroupid=140912765951\&utm\_keywordid=kwd-1657036550808\&wpsrc=Google%20AdWords\&wpcid=17563298525\&wpsnetn=g\&wpkwn=clonex%20mint%20vial\&wpkmatch=e\&wpcrid=605564529802\&wpscid=140912765951\&wpkwid=kwd-1657036550808\&gclid=CjwKCAjw5s6WBhA4EiwACGncZRqKQE2ZTbSRYCiwnk9kzrUy4emwMiAbry2KeLOAnYSIMoYNq0pXxRoCekYQAvD\_BwE)).
+Why add this complexity? To align the incentives of various stakeholders, the $DIMO payment is set aside. Each month that the connection persists, the integration provider receives some of that $DIMO back as rebate for twenty four months until they earn back 70%.&#x20;
 
-![](<.gitbook/assets/image (10).png>)
-
-Similarly, for software connection methods that don’t yet make use of an EVM wallet to sign data, a device minting NFT must be sent to the vehicle NFT address as a part of the pairing process. Therefore, unlike a hardware device that may be moved from vehicle to vehicle without needing a second device minting NFT, every new software connection will require another device minting NFT.
-
-![](<.gitbook/assets/image (1).png>)
-
-Why add this complexity? To align the incentives of various stakeholders, the $DIMO that is used to acquire the NFT is set aside. Each month that the connection persists, the integration provider receives some of that $DIMO back as rebate for twenty four months until they earn back 70% of the deposit. Additionally, DIMO Integrations receives $DIMO over the same period until they earn 0.1% - 15% of the deposit. See [Rewards Calculation for DIMO Integrations Team](dip-4-device-integrations.md#rewards-calculation-for-dimo-integrations-team) for more information on this calculation.
+As the manufacturer earns, the DIMO Integrations team will get a small cut as well. The DIMO Treasury keeps any $DIMO that isn't returned to the manufacturer or integrations team. See [Rewards Calculation for DIMO Integrations Team](dip-4-device-integrations.md#rewards-calculation-for-dimo-integrations-team) for more information on this calculation.
 
 This rebate mechanism ensures that integration providers and DIMO Integrations are long-term holders of $DIMO and that they have an incentive to produce resilient devices and services that users will love and want to keep connected.
 
-The remaining $DIMO will go directly to the DIMO Treasury, as will royalties from the secondary trading of the device minting NFTs. Secondary trading will also generate valuable price discovery information.
-
-![](<.gitbook/assets/image (7).png>)
-
-Device NFTs provide a fair way for the DIMO community to control the supply of each type of connected device so as not to overwhelm the protocol too early. While it is fair to say that users who have already established a connection may have an incentive to artificially constrain the number of device minting NFTs so there is less competition on the network for baseline rewards, they have a more powerful long-term incentive to grow the network and its adoption.
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### Quantity and Cost of Device Minting NFTs&#x20;
 
 The availability and amount of DIMO required for a device minting NFT varies by device type. Quantities may (and will) be increased by a future vote of $DIMO holders. It’s likely that constraints will be lifted altogether and any licensed integrations provider will be able to mint as many as needed, when needed.
 
-| Type            | Description                                                                                               | Initial Quantity | Cost (in $DIMO) |
-| --------------- | --------------------------------------------------------------------------------------------------------- | ---------------- | --------------- |
-| Software Only   | Leverages existing vehicle subscription programs and their APIs to establish a baseline of connectivity   | 1,000,000        | 10              |
-| Standard Dongle | Records vehicle data from the CAN bus, stand-alone connectivity                                           | 100,000          | 50              |
-| Hub             | IoT hub that enables long term local storage and backup of data, as well as cheaper dongle and dash cams. | 30,000           | 70              |
-| Dash Camera     | Device that records camera footage and possibly other telemetry                                           | 30,000           | 80              |
-| Fleet Device    | Telemetry devices designed for commercial use                                                             | 100,000          | 120             |
-| AI Device       | Device that supplements enhanced driving features (e.g., Comma AI)                                        | 30,000           | 150             |
+| Type            | Description                                                                                               | Cost (in $DIMO) |
+| --------------- | --------------------------------------------------------------------------------------------------------- | --------------- |
+| Software Only   | Leverages existing vehicle subscription programs and their APIs to establish a baseline of connectivity   | 0               |
+| Standard Dongle | Records vehicle data from the CAN bus, stand-alone connectivity                                           | 50              |
+| Hub             | IoT hub that enables long term local storage and backup of data, as well as cheaper dongle and dash cams. | 70              |
+| Dash Camera     | Device that records camera footage and possibly other telemetry                                           | 80              |
+| Fleet Device    | Telemetry devices designed for commercial use                                                             | 120             |
+| AI Device       | Device that supplements enhanced driving features (e.g., Comma AI)                                        | 150             |
 
 Similar to the stake required for licensing, device minting NFTs may be provided by financing partners, such as a distributor.&#x20;
 
