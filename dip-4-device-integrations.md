@@ -39,7 +39,7 @@ The goals of this proposal are to:&#x20;
 
 ### Establishing the DIMO Integrations Team&#x20;
 
-If passed, this proposal would formally recognize the DIMO Integrations team and delegate certain rights and duties to it.
+If passed, this proposal would formally recognize the DIMO Integrations team on interim basis and delegate certain rights and duties to it.
 
 #### Purpose
 
@@ -52,45 +52,21 @@ DIMO Integrations is a delegate of the greater DIMO community responsible for en
 
 #### Team Composition & Operating Structure&#x20;
 
-The initial team lead is [Brien East ](https://www.linkedin.com/in/brien-east-1137516b/details/experience/)(Digital Infrastructure Inc.) who will be responsible for assembling other contributors and prepare a [Resource Allocation DIP](templates/resource-allocation-template.md) and community presentation within 90 days. This team should be composed of trusted mechanical engineers, software developers, supply chain experts, game theorists, finance professionals, and attorneys.
+The initial team lead is [Brien East ](https://www.linkedin.com/in/brien-east-1137516b/details/experience/)(of Digital Infrastructure Inc.) who will be responsible for assembling other contributors and preparing a [Resource Allocation DIP](templates/resource-allocation-template.md) and community presentation within 90 days. This team should be composed of trusted mechanical engineers, software developers, supply chain experts, game theorists, finance professionals, and attorneys.
 
 #### Conflicts
 
 In order to mitigate conflicts of interest, team members agree to reject any form of compensation from current or potential device manufacturers, except as otherwise defined in this proposal.&#x20;
 
-#### Operating Goals & Metrics&#x20;
-
-DIMO Integrations is explicitly targeting and tracking the following minimum operating goals and metrics.
-
-Goals (target completion by the end of 2023):&#x20;
-
-* Publish an open source firmware and software for device management;&#x20;
-* Onboard five distinct device manufacturers;&#x20;
-* Facilitate staking and the long-term alignment of all integration providers; and&#x20;
-* Approve the production of at least five devices spanning at least two different device types.
-
-Metrics:&#x20;
-
-* Track and publish a current list of licensed integration providers in good standing; and
-* Track and publish devices connected and disconnected by manufacturer and by device type per month, every month.
-
 #### Authority & Domain&#x20;
-
-As a part of the plan to progressively decentralize the project, DIMO Integrations will start with concentrated responsibilities and authorities, which will be decentralized over time.
 
 DIMO Integrations will have the authority to grant and revoke licenses to integration providers and their devices/software services. However, they cannot lower the requirements that all manufacturers must stake a minimum 100,000 $DIMO as a security deposit and must use a “device minting” NFT for each device sold.
 
-DIMO Integrations will serve as administrators in a device management software open source repository on Github. However, manufacturers are not required to use this software, and it will be published with an MIT open source license so that it may be forked.
-
-The $DIMO token holders may overrule DIMO Integrations, may amend the powers and responsibilities this team possesses, and/or may extend these powers and responsibilities to other teams with any valid governance vote.&#x20;
+The $DIMO token holders may overrule DIMO Integrations, amend its powers and responsibilities, and/or extend these powers and responsibilities to other teams with any valid governance vote.&#x20;
 
 #### Budget & Financial Projections&#x20;
 
-DIMO Integrations is seeking an initial infusion of 150,000 $DAI and 50,000 $DIMO. These resources would go to a Gnosis Safe multi-signature wallet on the Polygon PoS chain requiring the signatures of \_\_ out of the \_\_ voting members. The address for that wallet is: \[0x… insert address here].
-
-A larger and more detailed budget will be requested as part of the upcoming [Resource Allocation DIP](templates/resource-allocation-template.md) and community presentation that will&#x20;
-
-Additionally, DIMO Integrations will earn $DIMO per connected vehicle which will be split among various members (see [Device Minting NFTs](dip-4-device-integrations.md#device-minting-nfts)).
+DIMO Integrations is seeking an initial infusion of 50,000 $DAI which may be used for any purpose and 10,000 $DIMO to use for testing. A larger and more detailed budget will be requested as part of the upcoming [Resource Allocation DIP](templates/resource-allocation-template.md) and community presentation and Q\&A.
 
 #### Summary of Commitments&#x20;
 
