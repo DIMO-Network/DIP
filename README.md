@@ -4,7 +4,7 @@ This is where DIMO improvement proposals (DIPs) are posted. Below, you can see a
 
 **Voting active for:** none
 
-**Community review:** [DIP-1](dip-1-governance-guidelines.md), [DIP-2](dip-2-baseline-issuance.md), [DIP-3](broken-reference), [DIP-4](dip-4-device-integrations.md), [DIP-5](dip-5-app-ecosystem.md), [DIP-6](dip-6-dispute-resolution.md)
+**Community review:** [DIP-1](dip-1-governance-guidelines.md), [DIP-2](dip-2-baseline-issuance.md), [DIP-3](broken-reference), [DIP-4](dip-4-device-integrations.md), [DIP-5](dip-5-app-ecosystem.md)
 
 | DIP#                                | Title                             | Status |
 | ----------------------------------- | --------------------------------- | ------ |
@@ -13,7 +13,6 @@ This is where DIMO improvement proposals (DIPs) are posted. Below, you can see a
 | [3](broken-reference)               | Marketplace Issuance & Token Burn | Review |
 | [4](dip-4-device-integrations.md)   | Device Integrations               | Review |
 | [5](dip-5-app-ecosystem.md)         | App Ecosystem                     | Review |
-| [6](dip-6-dispute-resolution.md)    | Dispute Resolution                | Review |
 
 ***
 

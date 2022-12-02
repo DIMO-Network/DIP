@@ -6,7 +6,6 @@
 * [DIP-3: Marketplace Issuance & Token Burn](dip-3-marketplace-issuance-and-token-burn.md)
 * [DIP-4: Device Integrations](dip-4-device-integrations.md)
 * [DIP-5: App Ecosystem](dip-5-app-ecosystem.md)
-* [DIP-6: Dispute Resolution](dip-6-dispute-resolution.md)
 
 ## Templates
 
