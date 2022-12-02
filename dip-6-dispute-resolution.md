@@ -1,18 +1,20 @@
 # DIP-6: Dispute Resolution
 
-> **Author**: Diego Moro, Marisa Zelip, [Rob Solomon](https://twitter.com/robmsolomon)&#x20;
+> **Headline**: A conflict resolution process for disputes within the DIMO Ecosystem.
+>
+> **Author**: The DIMO Foundation
+>
+> **Submitter**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
 > **Status**: Draft
 >
-> **Headline**: A conflict resolution process for disputes within the DIMO ecosystem
+> **Discord forum URL**: Pending
 >
-> **Voting Format \[URL]**: [\[Snapshot\]](https://snapshot.org/#/dimo.eth/proposal/0x096a7ee8ebc3bb90c5aab4afa516ab0700aa436c5f4f92c0a7d7fec24457646d)
+> **Voting URL**: Pending
 
 ## Abstract&#x20;
 
-This proposal defines how conflicts are resolved via a dispute resolution process which includes a challenge, mediation, and resolution among two or more parties in the DIMO value chain (seen below) including, but not limited to, drivers, fleet operators, app developers, node operators, and certified hardware manufacturers.
-
-![](<.gitbook/assets/image (5).png>)
+This proposal defines how conflicts are resolved via a dispute resolution process which includes a challenge, mediation, and resolution among two or more parties in the DIMO ecosystem.
 
 To resolve disputes, this DIMO Improvement Proposal #2 outlines the creation of the DIMO Court, a council composed of reputable experts with experience on IoT, data privacy, and blockchain related arbitration and/or mediation.&#x20;
 

@@ -54,7 +54,7 @@ DIMO Integrations is a delegate of the greater DIMO community responsible for en
 
 #### Team Composition & Operating Structure&#x20;
 
-The initial team lead is [Brien East ](https://www.linkedin.com/in/brien-east-1137516b/details/experience/)(of Digital Infrastructure Inc.) who will be responsible for assembling other contributors and preparing the upcoming presentation. This team should be composed of trusted mechanical engineers, software developers, supply chain experts, game theorists, finance professionals, and attorneys.
+The initial team lead is [Brien East](https://www.linkedin.com/in/brien-east-1137516b/) (of Digital Infrastructure Inc.) who will be responsible for assembling other contributors and preparing the upcoming presentation. This team should be composed of trusted mechanical engineers, software developers, supply chain experts, game theorists, finance professionals, and attorneys.
 
 #### Conflicts
 
@@ -107,7 +107,7 @@ Prospective integration providers must submit an application providing details a
 
 Licensed providers are able to submit additional and simplified applications for new devices and software methods at any time.
 
-DIMO Integrations will design and launch the application materials and publish documentation outlining the application process within 90 days following the passing of the DIP #3.&#x20;
+DIMO Integrations will design and launch the application materials and publish documentation outlining the application process within 90 days following the passing of the DIP-4.&#x20;
 
 _Integration Types_&#x20;
 
@@ -116,7 +116,7 @@ New device types may be added at any time by DIMO Integrations. The initial devi
 | Device Type             | Concept Image                                                                                                                                                                                                                | Description                                                                                               | Typical Price Point                                                                    |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | Software Only           | N/A                                                                                                                                                                                                                          | Leverages existing vehicle subscription programs and their APIs to establish a baseline of connectivity   | No added charge. Vehicle manufacturer (e.g., Ford, BMW) may charge a subscription fee. |
-| <p>Micro <br>Dongle</p> | <img src=".gitbook/assets/image (3).png" alt="" data-size="line">                                                                                                                                                            | Records vehicle data from the Can bus, piggybacks off user's cellphone                                    | $50                                                                                    |
+| <p>Micro <br>Dongle</p> | <img src=".gitbook/assets/image (1).png" alt="" data-size="line">                                                                                                                                                            | Records vehicle data from the Can bus, piggybacks off user's cellphone                                    | $50                                                                                    |
 | Standard Dongle         | <img src="https://lh4.googleusercontent.com/GRTqY_WLRyeZOLP1pVBYfSYdGVUWt1PkoETQV6RMpp9dv9J6eBachCMRinU0xTLmllv5FqrXc8HwsaIHoxTS3Iu6sz7MmxaB9SELzz2A5lGaXZ7vTFR0DIGKLzBK31NezvVeTh506XH9k-kG6dP8eg" alt="" data-size="line"> | Records vehicle data from the CAN bus, stand-alone connectivity                                           | $350                                                                                   |
 | Hub                     | <img src="https://lh6.googleusercontent.com/cW34tdb4DmfURDEFbWxoxj5ERDEnqZHH2dsUASFow2t-xKnmK1hxqO3rW6PCSvZ6mR5BsoYcbaQk-rJqlDaouSZsjcpehE2iIDjkt0s5syt9VMT1XL0XRlT0qh00mwwVSA-h9io-mOh4EX9Al6Ldpg" alt="" data-size="line"> | IoT hub that enables long term local storage and backup of data, as well as cheaper dongle and dash cams. | $500                                                                                   |
 | Dash Camera             | <img src="https://lh6.googleusercontent.com/iHX9U2U_0JmIAT9N6wWHBLrbaeBgSmAe0BOQl-AidpMPL6sYyUN0-L4glSSDJpbtae7zMV4lDKNqsE1Sno6nt5kvvr1Vq-8Q_XDzT9C-HIh_ySkiKT7ZFjpLnMMohFqSotMraAwn1VgRehEiAHRpYQ" alt="" data-size="line"> | Device that records camera footage and possibly other telemetry                                           | $500                                                                                   |
@@ -167,7 +167,7 @@ Through a governance vote, DIMO token holders have the ability to ban devices fr
 
 For physical hardware, licensed manufacturers pay a set amount of $DIMO to mint a device and enable it to connect to the $DIMO network.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Why add this complexity? To align the incentives of various stakeholders, the $DIMO payment is set aside. Each month that the connection persists, the integration provider receives some of that $DIMO back as rebate for twenty four months until they earn back 70%.&#x20;
 
@@ -175,7 +175,7 @@ As the manufacturer earns, the DIMO Integrations team will get a small cut as we
 
 This rebate mechanism ensures that both integration providers and DIMO Integrations are long-term holders of $DIMO and that they have an incentive to produce resilient devices and services that users will love and want to keep connected.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 #### Cost of Device Minting
 
