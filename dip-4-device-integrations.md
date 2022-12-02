@@ -41,6 +41,8 @@ The goals of this proposal are to:&#x20;
 
 If passed, this proposal would formally recognize the DIMO Integrations team on interim basis and delegate certain rights and duties to it.
 
+A larger and more detailed plan and budget will be presented as part of the [Resource Allocation DIP](templates/resource-allocation-template.md) and community presentation and Q\&A coming within the next 90 days.
+
 #### Purpose
 
 DIMO Integrations is a delegate of the greater DIMO community responsible for ensuring the realization of the goals listed in the previous section. Primarily, this team is tasked with:&#x20;
@@ -52,7 +54,7 @@ DIMO Integrations is a delegate of the greater DIMO community responsible for en
 
 #### Team Composition & Operating Structure&#x20;
 
-The initial team lead is [Brien East ](https://www.linkedin.com/in/brien-east-1137516b/details/experience/)(of Digital Infrastructure Inc.) who will be responsible for assembling other contributors and preparing a [Resource Allocation DIP](templates/resource-allocation-template.md) and community presentation within 90 days. This team should be composed of trusted mechanical engineers, software developers, supply chain experts, game theorists, finance professionals, and attorneys.
+The initial team lead is [Brien East ](https://www.linkedin.com/in/brien-east-1137516b/details/experience/)(of Digital Infrastructure Inc.) who will be responsible for assembling other contributors and preparing the upcoming presentation. This team should be composed of trusted mechanical engineers, software developers, supply chain experts, game theorists, finance professionals, and attorneys.
 
 #### Conflicts
 
@@ -60,13 +62,13 @@ In order to mitigate conflicts of interest, team members agree to reject any for
 
 #### Authority & Domain&#x20;
 
-DIMO Integrations will have the authority to grant and revoke licenses to integration providers and their devices/software services. However, they cannot lower the requirements that all manufacturers must stake a minimum 100,000 $DIMO as a security deposit and must use a “device minting” NFT for each device sold.
+DIMO Integrations will have the authority to grant and revoke licenses to integration providers and their devices/software services. However, they cannot lower the staking requirement for manufacturer licenses or the cost of minting new devices.
 
 The $DIMO token holders may overrule DIMO Integrations, amend its powers and responsibilities, and/or extend these powers and responsibilities to other teams with any valid governance vote.&#x20;
 
 #### Budget & Financial Projections&#x20;
 
-DIMO Integrations is seeking an initial infusion of 50,000 $DAI which may be used for any purpose and 10,000 $DIMO to use for testing. A larger and more detailed budget will be requested as part of the upcoming [Resource Allocation DIP](templates/resource-allocation-template.md) and community presentation and Q\&A.
+DIMO Integrations is seeking an initial budget of 50,000 $DAI which may be used for any purpose and 10,000 $DIMO to use for testing. The directors of the DIMO Foundation will approve and reimburse invoices as needed.
 
 #### Summary of Commitments&#x20;
 
@@ -80,11 +82,11 @@ DIMO Integrations commits to:&#x20;
 
 ### Integration Providers & Device Licenses
 
-In order to connect to DIMO users, their vehicles, and their data, integration providers must agree to various obligations, apply for a license, submit specifications or code for a specific connection method, receive acceptance from DIMO Integrations, stake 100,000 $DIMO, and attach a “device minting” NFT to each device they sell or user they connect.
+In order to connect to DIMO users, their vehicles, and their data, integration providers must agree to various obligations, apply for a license, submit specifications or code for a specific connection method, receive acceptance from DIMO Integrations, stake 100,000 $DIMO, and deposit $DIMO for each device they sell.
 
 #### Obligations
 
-Integration providers commit to maintaining strict quality and security standards, provide support for their services, abide to always act in good faith, and agree not to engage in unlawful activities. The following is illustrative but not exhaustive.
+Integration providers commit to maintaining strict quality and security standards, provide support for their services, always act in good faith, and agree not to engage in unlawful activities. The following is illustrative but not exhaustive.
 
 Connection methods must not:&#x20;
 
@@ -96,9 +98,8 @@ Connection methods must:&#x20;
 
 * Comply with all local regulations;&#x20;
 * Receive adequate support from the provider for a reasonable duration of time;&#x20;
-* Perform as expected;&#x20;
-* Only share data with recipients that the user has opted into sharing with per the parameters of the DIMO protocol; and&#x20;
-* If a physical device, be delivered to customers in a reasonable timeframe and fashion.&#x20;
+* Perform as expected; and
+* Only share data with recipients that the user has opted into sharing with per the parameters of the DIMO protocol.
 
 #### Application&#x20;
 
@@ -106,9 +107,9 @@ Prospective integration providers must submit an application providing details a
 
 Licensed providers are able to submit additional and simplified applications for new devices and software methods at any time.
 
-DIMO Integrations will design and launch the application materials and publish documentation outlining the application process within 60 days following the passing of the DIP #3.&#x20;
+DIMO Integrations will design and launch the application materials and publish documentation outlining the application process within 90 days following the passing of the DIP #3.&#x20;
 
-Integration Types&#x20;
+_Integration Types_&#x20;
 
 New device types may be added at any time by DIMO Integrations. The initial device categories include.
 
