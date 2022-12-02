@@ -24,6 +24,8 @@ This explains the rationale and goals for the DIP.
 
 The highly detailed description of the DIP including precise terms, protocol updates, blockchain transactions and smart contract code that will be executed with comments, and more.
 
+The following components of the specification do not necessarily need to be in this exact order of format, but all should be covered.
+
 ### Team Name
 
 Bonus points if you avoid putting DIMO in the name or using an acronym.

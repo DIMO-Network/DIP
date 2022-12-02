@@ -14,7 +14,7 @@
 
 ## Abstract
 
-This proposal outlines the method by which a new committee, called DIMO Integrations, will issue licenses to hardware manufacturers who can produce compatible devices (like [AutoPi](https://www.autopi.io/)), as well as software developers (like [SmartCar](https://smartcar.com/)) who build digital integrations (collectively referred to as integration providers).
+This proposal outlines the method by which a new committee, called DIMO Integrations, will issue licenses to hardware manufacturers (like [AutoPi](https://www.autopi.io/)) who can produce compatible devices, as well as software developers (like [SmartCar](https://smartcar.com/)) who build digital integrations (collectively referred to as integration providers).
 
 The requirements for any integration providers are that they must:&#x20;
 
