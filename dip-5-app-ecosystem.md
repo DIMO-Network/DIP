@@ -100,7 +100,7 @@ Some examples of Apps include peer-to-peer car rentals, efficient online car mar
 
 Data Consumers may be businesses who pay for User data.
 
-Apps & Data Consumers do not need to stake to get started and connect to up to 10,000 Users. After crossing this threshold, they must stake 10,000 $DIMO and burn an additional 1,000 $DIMO for every 10,000 users per month.
+Apps & Data Consumers do not need to stake or pay $DIMO to get started and connect to up to 10,000 Users. After crossing this threshold, they must stake 10,000 $DIMO and burn an additional 1,000 $DIMO for every 20,000 users they serve per month.
 
 ### Application
 
