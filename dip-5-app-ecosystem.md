@@ -82,13 +82,9 @@ DIMO Platform Licensing commits to:&#x20;
 
 A client is a type of application that allows Users to interact directly with the DIMO protocol. Typically, this will mean creating and managing their account, creating and managing their vehicle identity, adding and removing credentials in their identity glovebox (e.g., insurance and registration), adding and removing telemetry devices, and viewing back their own data. Clients are to DIMO what Metamask and Rainbow Wallet are to Ethereum. [DIMO Mobile](https://onelink.to/dimo) is an example of a client.
 
-Prior to gaining a license, Clients must stake 20,000 $DIMO tokens.
-
 ### Nodes&#x20;
 
 A Node is an entity that receives data from Users and makes it available to Clients, Apps, and Data Consumers. These entities are responsible for forming and upholding agreements that protect User privacy and enable DIMO applications. Nodes are to DIMO what Infura or Alchemy are to Ethereum. [DIMO Explorer](https://explorer.dimo.zone/) is an example of a Node.
-
-Node operators must stake 100,000 $DIMO tokens plus an additional 2 $DIMO per connected User. This achieves two purposes: 1) it acts as a security deposit that can be slashed if the operator misbehaves; and 2) it ensures that node operators have their incentives aligned with DIMO. The staked $DIMO will remain locked for as long as the application continues to access User data. Any application may renounce their license and receive back the staked $DIMO after six months if there are no challenges.
 
 All stored User data must be encrypted in transit and at rest. Both nodes and the businesses that they serve must always comply with relevant privacy regulations (e.g., GDPR). Node operators may share data with licensed Clients, Apps, and Data Consumers per the opt-in of Users.
 
@@ -100,7 +96,9 @@ Some examples of Apps include peer-to-peer car rentals, efficient online car mar
 
 Data Consumers may be businesses who pay for User data.
 
-Apps & Data Consumers do not need to stake or pay $DIMO to get started and connect to up to 10,000 Users. After crossing this threshold, they must stake 10,000 $DIMO and burn an additional 1,000 $DIMO for every 20,000 users they serve per month.
+### Staking & Fees
+
+The App Ecosystem team will be responsible for proposing a specific $DIMO staking and payments model for Clients, Nodes, Apps, and Data Consumers. They should have to stake and/or make regular payments in depending on their role type and scale.
 
 ### Application
 
