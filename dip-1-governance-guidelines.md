@@ -38,6 +38,7 @@ It is required that all DIPs include the following in a format similar to this o
 * **Submitter**: The name of the entity(ies) responsible for submitting the proposal. This can be pseudonyms. They must include the 0x address of the wallet that held sufficient voting power at the time of submission in brackets (see example above).
 *   **Status**: Options include:&#x20;
 
+    * _Draft -_ concept and document still forming.
     * _Review_ - for review and discussion by community (the author may still make changes);&#x20;
     * _Voting_ - in the process of being voted on — must also specify when that period ends by adding "(until Month Day, Year at 24hr Clock UTC Time)." E.g., **Status**: Voting (until January 20th, 2023 at 22:00:00 UTC);
     * _Approved_ - vote concluded and proposal passed, but not been implemented yet;&#x20;
