@@ -113,18 +113,19 @@ _Integration Types_&#x20;
 
 New device types may be added at any time by DIMO Integrations. The initial device categories include.
 
-| Device Type     | Concept Image                                                                                                                                                                                                                | Description                                                                                               | Typical Price Point                                                                    |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| Software Only   | N/A                                                                                                                                                                                                                          | Leverages existing vehicle subscription programs and their APIs to establish a baseline of connectivity   | No added charge. Vehicle manufacturer (e.g., Ford, BMW) may charge a subscription fee. |
-| Standard Dongle | <img src="https://lh4.googleusercontent.com/GRTqY_WLRyeZOLP1pVBYfSYdGVUWt1PkoETQV6RMpp9dv9J6eBachCMRinU0xTLmllv5FqrXc8HwsaIHoxTS3Iu6sz7MmxaB9SELzz2A5lGaXZ7vTFR0DIGKLzBK31NezvVeTh506XH9k-kG6dP8eg" alt="" data-size="line"> | Records vehicle data from the CAN bus, stand-alone connectivity                                           | $350                                                                                   |
-| Hub             | <img src="https://lh6.googleusercontent.com/cW34tdb4DmfURDEFbWxoxj5ERDEnqZHH2dsUASFow2t-xKnmK1hxqO3rW6PCSvZ6mR5BsoYcbaQk-rJqlDaouSZsjcpehE2iIDjkt0s5syt9VMT1XL0XRlT0qh00mwwVSA-h9io-mOh4EX9Al6Ldpg" alt="" data-size="line"> | IoT hub that enables long term local storage and backup of data, as well as cheaper dongle and dash cams. | $500                                                                                   |
-| Dash Camera     | <img src="https://lh6.googleusercontent.com/iHX9U2U_0JmIAT9N6wWHBLrbaeBgSmAe0BOQl-AidpMPL6sYyUN0-L4glSSDJpbtae7zMV4lDKNqsE1Sno6nt5kvvr1Vq-8Q_XDzT9C-HIh_ySkiKT7ZFjpLnMMohFqSotMraAwn1VgRehEiAHRpYQ" alt="" data-size="line"> | Device that records camera footage and possibly other telemetry                                           | $500                                                                                   |
-| Fleet Device    | <img src="https://lh4.googleusercontent.com/5GZ6wu9JU1rmER4U0qvBEsCdZ4EyCfSwlHNuy7ap1eN807pdaKGttS2RSnNF2Ic0mr73AMnbxgKYiq124gEkfOCQUqwRGDBx66_CajHhfXEXjfBBb9hsb5Leg4OZ5ewSK2uKH_gzjt-RGhyPXECMpg" alt="" data-size="line"> | Telemetry devices designed for commercial use                                                             | $1,000                                                                                 |
-| AI Device       | <img src="https://lh6.googleusercontent.com/wKACXQZGzx-nPAWv3ks_rD0yr36c4W9k470JyfYbijs6RbY6crv0XLXKJ9jET5Eg0nvS_wzsRYtSnQKFpbiLI0c6w8jnl9YUmbVEISXcn3E0nP6LIEwWY1lEUZMVztYiHiCxvpQqY6IUx_kLtu1ECw" alt="" data-size="line"> | Device that supplements enhanced driving features (e.g., Comma AI)                                        | $2,000                                                                                 |
+| Device Type             | Concept Image                                                                                                                                                                                                                | Description                                                                                               | Typical Price Point                                                                    |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Software Only           | N/A                                                                                                                                                                                                                          | Leverages existing vehicle subscription programs and their APIs to establish a baseline of connectivity   | No added charge. Vehicle manufacturer (e.g., Ford, BMW) may charge a subscription fee. |
+| <p>Micro <br>Dongle</p> | <img src=".gitbook/assets/image (1).png" alt="" data-size="line">                                                                                                                                                            | Records vehicle data from the Can bus, piggybacks off user's cellphone                                    | $50                                                                                    |
+| Standard Dongle         | <img src="https://lh4.googleusercontent.com/GRTqY_WLRyeZOLP1pVBYfSYdGVUWt1PkoETQV6RMpp9dv9J6eBachCMRinU0xTLmllv5FqrXc8HwsaIHoxTS3Iu6sz7MmxaB9SELzz2A5lGaXZ7vTFR0DIGKLzBK31NezvVeTh506XH9k-kG6dP8eg" alt="" data-size="line"> | Records vehicle data from the CAN bus, stand-alone connectivity                                           | $350                                                                                   |
+| Hub                     | <img src="https://lh6.googleusercontent.com/cW34tdb4DmfURDEFbWxoxj5ERDEnqZHH2dsUASFow2t-xKnmK1hxqO3rW6PCSvZ6mR5BsoYcbaQk-rJqlDaouSZsjcpehE2iIDjkt0s5syt9VMT1XL0XRlT0qh00mwwVSA-h9io-mOh4EX9Al6Ldpg" alt="" data-size="line"> | IoT hub that enables long term local storage and backup of data, as well as cheaper dongle and dash cams. | $500                                                                                   |
+| Dash Camera             | <img src="https://lh6.googleusercontent.com/iHX9U2U_0JmIAT9N6wWHBLrbaeBgSmAe0BOQl-AidpMPL6sYyUN0-L4glSSDJpbtae7zMV4lDKNqsE1Sno6nt5kvvr1Vq-8Q_XDzT9C-HIh_ySkiKT7ZFjpLnMMohFqSotMraAwn1VgRehEiAHRpYQ" alt="" data-size="line"> | Device that records camera footage and possibly other telemetry                                           | $500                                                                                   |
+| Fleet Device            | <img src="https://lh4.googleusercontent.com/5GZ6wu9JU1rmER4U0qvBEsCdZ4EyCfSwlHNuy7ap1eN807pdaKGttS2RSnNF2Ic0mr73AMnbxgKYiq124gEkfOCQUqwRGDBx66_CajHhfXEXjfBBb9hsb5Leg4OZ5ewSK2uKH_gzjt-RGhyPXECMpg" alt="" data-size="line"> | Telemetry devices designed for commercial use                                                             | $1,000                                                                                 |
+| AI Device               | <img src="https://lh6.googleusercontent.com/wKACXQZGzx-nPAWv3ks_rD0yr36c4W9k470JyfYbijs6RbY6crv0XLXKJ9jET5Eg0nvS_wzsRYtSnQKFpbiLI0c6w8jnl9YUmbVEISXcn3E0nP6LIEwWY1lEUZMVztYiHiCxvpQqY6IUx_kLtu1ECw" alt="" data-size="line"> | Device that supplements enhanced driving features (e.g., Comma AI)                                        | $2,000                                                                                 |
 
 #### Connection Specifications&#x20;
 
-The following are minimum device specifications as set by the DIMO Community in this DIP, which may only be amended by a future DIP. Except for the ways specified in the table below, DIMO Integrations may not alter these requirements, but it may add additional specifications that go above and beyond, particularly for certain device types (e.g., dash cams may have additional specifications related to privacy and compression).
+The following are minimum device specifications. Except for the ways specified in the table below, DIMO Integrations may not alter these requirements, but it may add additional specifications that go above and beyond, particularly for certain device types (e.g., dash cams may have additional requirements related to privacy and compression).
 
 Both Hardware & Software
 
@@ -146,7 +147,7 @@ Hardware Only&#x20;
 
 #### Licenses & Staking&#x20;
 
-Licenses are NFTs that can only be minted or transferred by DIMO Integrations. These certify the integration provider meets all required qualifications required and has been whitelisted for the production of compatible devices. After receiving a license, the integration provider is required to submit a deposit of 100,000 $DIMO tokens (the “stake”). **The DIMO protocol will check both the NFT license and the on-chain stake balance to determine if a provider is licensed or not.**
+Licenses are NFTs that can only be minted or transferred by DIMO Integrations. These certify the integration provider meets all required qualifications required and has been whitelisted for the production of compatible devices. After receiving a license, the integration provider is required to submit a deposit of 100,000 $DIMO tokens (the “stake”). For more on how this works, see [License NFT](https://app.gitbook.com/s/fmY0p4toAb7e89toAV2R/protocol/license-nft "mention").
 
 ![](<.gitbook/assets/image (6).png>)
 
@@ -166,42 +167,31 @@ Through a governance vote, DIMO token holders have the ability to ban devices fr
 
 For physical hardware, licensed manufacturers pay a set amount of $DIMO to mint a device and enable it to connect to the $DIMO network.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Why add this complexity? To align the incentives of various stakeholders, the $DIMO payment is set aside. Each month that the connection persists, the integration provider receives some of that $DIMO back as rebate for twenty four months until they earn back 70%.&#x20;
 
-As the manufacturer earns, the DIMO Integrations team will get a small cut as well. The DIMO Treasury keeps any $DIMO that isn't returned to the manufacturer or integrations team. See [Rewards Calculation for DIMO Integrations Team](dip-4-device-integrations.md#rewards-calculation-for-dimo-integrations-team) for more information on this calculation.
+As the manufacturer earns, the DIMO Integrations team will get a small cut as well. The DIMO Treasury keeps any $DIMO that isn't returned to the manufacturer or integrations team. This arrangement will be defined in the upcoming DIMO Integrations resource allocation DIP.
 
-This rebate mechanism ensures that integration providers and DIMO Integrations are long-term holders of $DIMO and that they have an incentive to produce resilient devices and services that users will love and want to keep connected.
+This rebate mechanism ensures that both integration providers and DIMO Integrations are long-term holders of $DIMO and that they have an incentive to produce resilient devices and services that users will love and want to keep connected.
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-#### Quantity and Cost of Device Minting NFTs&#x20;
+#### Cost of Device Minting
 
-The availability and amount of DIMO required for a device minting NFT varies by device type. Quantities may (and will) be increased by a future vote of $DIMO holders. It’s likely that constraints will be lifted altogether and any licensed integrations provider will be able to mint as many as needed, when needed.
+The amount of DIMO required for device minting varies by device type.
 
 | Type            | Description                                                                                               | Cost (in $DIMO) |
 | --------------- | --------------------------------------------------------------------------------------------------------- | --------------- |
 | Software Only   | Leverages existing vehicle subscription programs and their APIs to establish a baseline of connectivity   | 0               |
+| Micro Dongle    | Records vehicle data from the Can bus, piggybacks off user's cellphone                                    | 30              |
 | Standard Dongle | Records vehicle data from the CAN bus, stand-alone connectivity                                           | 50              |
 | Hub             | IoT hub that enables long term local storage and backup of data, as well as cheaper dongle and dash cams. | 70              |
 | Dash Camera     | Device that records camera footage and possibly other telemetry                                           | 80              |
 | Fleet Device    | Telemetry devices designed for commercial use                                                             | 120             |
 | AI Device       | Device that supplements enhanced driving features (e.g., Comma AI)                                        | 150             |
 
-Similar to the stake required for licensing, device minting NFTs may be provided by financing partners, such as a distributor.&#x20;
-
-#### Rewards Calculation for DIMO Integrations Team
-
-The reward to DIMO Integrations is calculated using a reverse bonding curve that decreases the proportional reward over time. The curve is established for each device type. This is done in order to incentivize the team to do the difficult work of establishing new device categories and getting them to critical mass.
-
-![](<.gitbook/assets/image (4).png>)
-
-The formula to determine the % reward of the staked $DIMO from Device Minting NFTs that DIMO Integrations is eligible to receive as a reward is calculated as:
-
-> _<mark style="color:blue;">Reward for a single NFT if connected for two years = Price of NFT \* maximum of ( 0.1% OR 15% \* (99.9999% ^ (# of that NFT type sold - 1)))</mark>_
-
-![](https://lh3.googleusercontent.com/eH4Vxl2ckdKGTP03fJRNVf-X4tdfggL9MjQbUhL9Rdq3zNafL-02G\_Kyn0oxHxaDsIWhTSl8HQAm3CbfqPjw3EAs9T9NRzV73GYdC\_T6gWHixBLxo-pxoAxBN5dU5rkp9Eo-1ektI2AVIsqwNRS8rY4)
+Similar to the stake required for licensing, device minting costs may be covered by financing partners, such as a distributor.&#x20;
 
 #### Pairing & Connectivity
 
@@ -217,14 +207,22 @@ These rates can be applied to any approved device, and manufacturers can choose 
 
 ## Implementation&#x20;
 
-If passed, this DIP-3 will be in effect immediately after the four day time lock concludes. The newly formed DIMO Integration Committee will be responsible for the implementation of the programs and procedures introduced in this document.
+If passed, the newly formed DIMO Integrations team will be responsible for the implementation of the programs and procedures introduced in this document.
 
 ## Copyright&#x20;
 
 Copyright and related rights waived via CC0
 
-## Citation&#x20;
+## Citation
 
 Please cite this document as:
 
-Andy Chatham, Rob Solomon, Diego Moro, "DIP-3: Device Integrations", no. 3, May 2022. \[Online serial]. Available: \[https://github.com/DIMO-Network/DIP]
+The DIMO Foundation, "DIP-4: Device Integration", no. 4, December 2022. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
+
+## Changelog
+
+None
+
+## Disclaimer
+
+The contract addresses for $DIMO are [0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b](https://etherscan.io/token/0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b) on Ethereum and [0xE261D618a959aFfFd53168Cd07D12E37B26761db](https://polygonscan.com/token/0xE261D618a959aFfFd53168Cd07D12E37B26761db) on Polygon. Please always confirm that you are interacting with these contract addresses and not those of a fraudulent imitator. This proposal may not be enacted if it violates Cayman Islands law. Please triple check that any communications are authentic as it’s common for scammers to try to trick you into sending them crypto or into revealing your private keys.
