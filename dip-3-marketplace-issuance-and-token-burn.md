@@ -32,7 +32,7 @@ Users are able to opt-in to sharing data with licensed DIMO Apps. These apps mus
 
 For all transactions involving the sale of user data or access, the amount will be translated to $DIMO tokens and the portion owed to the user will be distributed in $DIMO and 1% of the transaction will be burned.
 
-If the end data customer pays in $DIMO, the calculation is obvious. If they pay in fiat (USD, EUR, GBP) or other assets (DAI, BTC, ETH), $1 USD of value will translate to 1 $DIMO.&#x20;
+If the end data customer pays in $DIMO, the calculation is obvious. If they pay in fiat (USD, EUR, GBP) or other assets (DAI, BTC, ETH), $1 USD of value will translate to 1 $DIMO. This exchange rate may be altered by any future governance vote.
 
 The easiest way to understand this mechanism is through examples of various transaction types, all listed below.
 

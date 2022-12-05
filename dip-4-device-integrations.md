@@ -106,6 +106,10 @@ Licenses are NFTs that can only be minted or transferred by DIMO Integrations. T
 
 While it is preferred that the integration provider is the party putting up the stake, it is also possible for a financing partner, such as a distributor, to put up the stake on behalf of the manufacturer.&#x20;
 
+Should applicants not have $DIMO or not want to interact with tokens, they may purchase $DIMO from the Foundation and/or have the Foundation put up the stake on their behalf. The price of $DIMO should be 1 USD equivalent paid in a popular fiat currency (e.g., USD, EUR, GBP), ETH, BTC, or DAI.
+
+The staking amount, as well as the exchange rate for $DIMO offered by the Foundation, may be altered by any future governance vote.
+
 #### Slashing & License Revocation&#x20;
 
 If an integration provider violates their obligations as specified above, their license may be suspended or revoked. Any manufacturer may renounce their license and receive back their staked $DIMO after six months.
