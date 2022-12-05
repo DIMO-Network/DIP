@@ -18,8 +18,6 @@ This is where DIMO improvement proposals (DIPs) are posted. Below, you can see a
 
 **Status types**
 
-_Draft -_ concept and document still forming.
-
 _Review_ - for review and discussion by community (the author may still make changes)
 
 _Voting_ - in the process of being voted on

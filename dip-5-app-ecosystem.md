@@ -63,13 +63,17 @@ Apps and Data Consumers do not require a governance vote to receive a license, b
 
 Clients, Nodes, Apps, and Data Consumers must stake and/or spend $DIMO, or must have someone do it on their behalf. If a staker violates their obligations as specified below, their license may be suspended or revoked. They may renounce their license and receive back their staked deposit six months later.
 
-**Clients**: Must stake 20,000 $DIMO&#x20;
+**Clients**: Must stake 20,000 $DIMO as a one-time deposit.
 
-**Nodes**: Must stake 500,000 $DIMO
+**Nodes**: Must stake 500,000 $DIMO as a one-time deposit.
 
-**Apps**: Must stake 10,000 $DIMO and pay 1 $DIMO per DIMO User after surpassing 10,000 Users. No stake or cost required prior to 10,000 $DIMO.
+**Apps**: There is no stake or fee required if the app has fewer than 10,000 Users. After exceeding this threshold, Apps must stake 10,000 $DIMO and pay 1 $DIMO per User.
 
 **Data Consumers**: No stake or fee required.
+
+Should applicants not have $DIMO or not want to interact with tokens, they may purchase $DIMO from the Foundation and/or have the Foundation put up the stake on their behalf. The price of $DIMO should be 1 USD equivalent paid in a popular fiat currency (e.g., USD, EUR, GBP), ETH, BTC, or DAI.
+
+The amounts for staking and fees, as well as the exchange rate for $DIMO offered by the Foundation, may be altered by any future governance vote.
 
 ### Obligations
 
