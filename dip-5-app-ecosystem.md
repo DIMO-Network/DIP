@@ -67,7 +67,7 @@ Clients, Nodes, Apps, and Data Consumers must stake and/or spend $DIMO, or must 
 
 **Nodes**: Must stake 500,000 $DIMO as a one-time deposit.
 
-**Apps**: There is no stake or fee required if the app has fewer than 10,000 Users. After exceeding this threshold, Apps must stake 10,000 $DIMO and pay 1 $DIMO per User.
+**Apps**: There is no stake or fee required if the app has fewer than 40,000 Users. After exceeding this threshold, Apps must stake 10,000 $DIMO per 40,000 Users.
 
 **Data Consumers**: No stake or fee required.
 
