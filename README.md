@@ -12,7 +12,7 @@ This is where DIMO improvement proposals (DIPs) are posted. Below, you can see a
 | [2](dip-2-baseline-issuance.md)     | Baseline Issuance                 | Review |
 | [3](broken-reference)               | Marketplace Issuance & Token Burn | Review |
 | [4](dip-4-device-integrations.md)   | Device Integrations               | Review |
-| [5](dip-5-app-ecosystem.md)         | App Ecosystem                     | Draft  |
+| [5](dip-5-app-ecosystem.md)         | App Ecosystem                     | Review |
 
 ***
 
