@@ -53,15 +53,23 @@ Some examples of Apps include peer-to-peer car rentals, efficient online car mar
 
 Data Consumers may be businesses who pay for User data.
 
-### Staking & Fees
-
-\---
-
 ### Licensing
 
 Prospective Clients and Nodes may receive a license by passing a DIP using the [License Approval Template](templates/license-approval-template.md).
 
-Apps and Data Consumers do not require a governance vote to receive a license, but must comply with all Obligations in order to interact with DIMO Users and their data.&#x20;
+Apps and Data Consumers do not require a governance vote to receive a license, but must comply with all terms in the Obligations and Staking & Fees sections in order to interact with DIMO Users and their data.&#x20;
+
+### Staking & Fees
+
+Clients, Nodes, Apps, and Data Consumers must stake and/or spend $DIMO, or must have someone do it on their behalf. If a staker violates their obligations as specified below, their license may be suspended or revoked. They may renounce their license and receive back their staked deposit six months later.
+
+**Clients**: Must stake 20,000 $DIMO&#x20;
+
+**Nodes**: Must stake 500,000 $DIMO
+
+**Apps**: Must stake 10,000 $DIMO and pay 1 $DIMO per DIMO User after surpassing 10,000 Users. No stake or cost required prior to 10,000 $DIMO.
+
+**Data Consumers**: No stake or fee required.
 
 ### Obligations
 

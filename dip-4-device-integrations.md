@@ -108,13 +108,13 @@ While it is preferred that the integration provider is the party putting up the 
 
 #### Slashing & License Revocation&#x20;
 
-If an integration provider violates their obligations as specified above, some or all of their stake may be forfeit (“slashed”) and their license may be suspended or revoked. Any manufacturer may renounce their license and receive back their staked $DIMO after six months.
+If an integration provider violates their obligations as specified above, their license may be suspended or revoked. Any manufacturer may renounce their license and receive back their staked $DIMO after six months.
 
 Through a governance vote, DIMO token holders have the ability to ban devices from the network (e.g., if they’re not secure and provide false data), suspend or revoke a manufacturer’s license at any time, or increase the manufacturer’s staking requirement above the minimum 100,000 $DIMO.
 
 ### Connecting a Device to DIMO&#x20;
 
-#### Device Staking Requirements&#x20;
+#### Device Payment Requirements&#x20;
 
 For physical hardware, licensed manufacturers pay a set amount of $DIMO to mint a device and enable it to connect to the $DIMO network.
 
