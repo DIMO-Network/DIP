@@ -18,9 +18,8 @@ The DIMO app ecosystem has five main components:&#x20;
 
 * **Users**: connect their vehicles, generate data, use apps, and spend/earn $DIMO;&#x20;
 * **Clients**: provide interfaces for Users to interact with the protocol (e.g., [DIMO Mobile](https://onelink.to/dimo));&#x20;
-* **Nodes**: receive IoT device data from Users and serve it to licensed apps and data customers;&#x20;
-* **Apps & Data Consumers**: build products that pay node operators for User data and connectivity; and&#x20;
-* **DIMO** **App Ecosystem**: a team that issues licenses to Clients, Node operators, and Apps.
+* **Nodes**: receive IoT device data from Users and serve it to licensed apps and data customers; and
+* **Apps & Data Consumers**: build products that pay node operators for User data and connectivity.
 
 This proposal defines how Clients, Node Operators, and Apps & Data Consumers will form, remain in good standing, and interact with Users, their data, and the protocol itself.
 
@@ -36,48 +35,6 @@ The goal of this proposal is to put in place a framework that can safely and eff
 
 ## Specifications&#x20;
 
-### Establishing the DIMO App Ecosystem Team
-
-If passed, this proposal would formally recognize the DIMO App Ecosystem team on interim basis and delegate certain rights and duties to it.
-
-A larger and more detailed plan and budget will be presented as part of the [Resource Allocation DIP](templates/resource-allocation-template.md) and community presentation and Q\&A coming within the next 120 days.
-
-#### Purpose&#x20;
-
-The DIMO App Ecosystem team's goal is to maximize earnings, utility, and security for Users. They are tasked with:&#x20;
-
-* Attracting, vetting, licensing, and onboarding data and connectivity Clients, Nodes, Apps, and Data Consumers;
-* Monitoring and reporting on the effectiveness and compliance of licensed Clients, Nodes, Apps, and Data Consumers; and
-* Generally protecting Users' privacy and security.
-
-#### Team Composition & Operating Structure&#x20;
-
-The initial team lead is [Yev Khessin](https://www.linkedin.com/in/yevgeny-khessin/)[ ](https://www.linkedin.com/in/brien-east-1137516b/details/experience/)(of Digital Infrastructure Inc.) who will be responsible for assembling other contributors and preparing the upcoming presentation.
-
-#### Conflicts
-
-In order to mitigate conflicts of interest, team members agree to reject any form of compensation from current or potential Client, Node, or App & Data Customer, or any of their close affiliates.
-
-#### Authority & Domain&#x20;
-
-DIMO App Ecosystem will have the authority to grant and revoke licenses to Clients, Nodes, Apps, and Data Consumers. However, they cannot lower the initial licensing requirements outlined below.
-
-The $DIMO token holders may overrule DIMO Platform Licensing, may amend the powers and responsibilities this team possesses, and/or may extend these powers and responsibilities to other teams with any valid governance vote.&#x20;
-
-#### Budget & Financial Projections&#x20;
-
-DIMO Integrations is seeking an initial budget of 50,000 $DAI which may be used for any purpose and 10,000 $DIMO to use for testing. The directors of the DIMO Foundation will approve and reimburse invoices as needed.
-
-#### Summary of Commitments&#x20;
-
-DIMO Platform Licensing commits to:&#x20;
-
-* Publish the analysis and outcome from every license application and revocation;&#x20;
-* Alert the community, particularly affected Users, and provide a post-mortem if there is ever a major issue concerning a licensed Client, Node, App, or Data Consumer;&#x20;
-* Publish metrics as defined in the [Operating Goals & Metrics](dip-5-app-ecosystem.md#operating-goals-and-metrics) section;
-* Comply with the terms of the [Conflicts of Interest](dip-5-app-ecosystem.md#conflicts-of-interest) section; and
-* Always act in good faith and in the best interest of the DIMO community.&#x20;
-
 ### Clients&#x20;
 
 A client is a type of application that allows Users to interact directly with the DIMO protocol. Typically, this will mean creating and managing their account, creating and managing their vehicle identity, adding and removing credentials in their identity glovebox (e.g., insurance and registration), adding and removing telemetry devices, and viewing back their own data. Clients are to DIMO what Metamask and Rainbow Wallet are to Ethereum. [DIMO Mobile](https://onelink.to/dimo) is an example of a client.
@@ -86,7 +43,7 @@ A client is a type of application that allows Users to interact directly with th
 
 A Node is an entity that receives data from Users and makes it available to Clients, Apps, and Data Consumers. These entities are responsible for forming and upholding agreements that protect User privacy and enable DIMO applications. Nodes are to DIMO what Infura or Alchemy are to Ethereum. [DIMO Explorer](https://explorer.dimo.zone/) is an example of a Node.
 
-All stored User data must be encrypted in transit and at rest. Both nodes and the businesses that they serve must always comply with relevant privacy regulations (e.g., GDPR). Node operators may share data with licensed Clients, Apps, and Data Consumers per the opt-in of Users.
+All stored User data must be encrypted in transit and at rest. Both nodes and the businesses that they serve must always comply with relevant privacy regulations (e.g., GDPR). **Node operators may only share data with licensed Clients, Apps, and Data Consumers per the explicit terms of a User's opt-in**.
 
 ### Apps & Data Consumer&#x20;
 
@@ -98,19 +55,33 @@ Data Consumers may be businesses who pay for User data.
 
 ### Staking & Fees
 
-The App Ecosystem team will be responsible for proposing a specific $DIMO staking and payments model for Clients, Nodes, Apps, and Data Consumers. They should have to stake and/or make regular payments in depending on their role type and scale.
+\---
 
-### Application
+### Licensing
 
-Whoever seeks a license to be a Client, Node, or App & Data Consumer may fill in the application form [here](https://gkmkni9caof.typeform.com/to/Tl3rglKv).
+Prospective Clients and Nodes may receive a license by passing a DIP using the [License Approval Template](templates/license-approval-template.md).
 
-### Payments
+Apps and Data Consumers do not require a governance vote to receive a license, but must comply with all Obligations in order to interact with DIMO Users and their data.&#x20;
 
-Certain payments made between DIMO users, Clients, Nodes, and/or Apps & Data Customers must generate Market Issuance. See [dip-3-marketplace-issuance-and-token-burn.md](dip-3-marketplace-issuance-and-token-burn.md "mention").
+### Obligations
+
+Clients, Nodes, Apps, and Data Consumers commit to maintaining strict quality and security standards, provide support for their services, always act in good faith, and agree not to engage in unlawful activities. The following is illustrative but not exhaustive.
+
+They must not:&#x20;
+
+* Interfere with the users safe operation of their vehicle;&#x20;
+* Deliberately or negligently generate false data.&#x20;
+
+They must:&#x20;
+
+* Comply with all local regulations;&#x20;
+* Only share data with recipients that the user has opted into sharing with per the parameters of the DIMO protocol;
+* Use best practices to protect User's and their data; and
+* Comply with [dip-3-marketplace-issuance-and-token-burn.md](dip-3-marketplace-issuance-and-token-burn.md "mention") wherever applicable.
 
 ## Implementation
 
-The newly formed DIMO App Ecosystem team will be responsible for the implementation of the programs and procedures introduced in this document.&#x20;
+If passed, the DIMO Foundation will issue licenses per valid governance votes, and will collect and hold stakes and fees.
 
 ## Citation
 

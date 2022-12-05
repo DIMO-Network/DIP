@@ -58,9 +58,9 @@ Connection methods must:&#x20;
 
 #### Application&#x20;
 
-Prospective integration providers must introduce a DIP using the [License Approval Template](templates/license-approval-template.md) an application providing details about their business, their operating history, as well as specifications for the initial devices they intend to manufacture and/or software services they intend to provide. The initial application must contain specifications for at least one device design, test units, and data samples and/or a code repository and a functioning demo.
+Prospective integration providers may receive a license by passing a DIP using the [License Approval Template](templates/license-approval-template.md). The application must provide details about their business, their operating history, as well as specifications for the initial devices they intend to manufacture and/or software services they intend to provide.&#x20;
 
-Licensed providers are able to submit additional and simplified applications for new devices and software methods at any time.
+The DIP must contain specifications for at least one device design, test units, and data samples and/or a code repository and a functioning demo. Licensed providers are able to submit additional and simplified applications for new devices and software methods at any time.
 
 _Integration Types_&#x20;
 
@@ -145,6 +145,14 @@ The amount of DIMO required for device minting varies by device type.
 | AI Device       | Device that supplements enhanced driving features (e.g., Comma AI)                                        | 150             |
 
 Similar to the stake required for licensing, device minting costs may be covered by financing partners, such as a distributor.&#x20;
+
+### Temporary Licenses
+
+For six months after the passage of this DIP, the following companies are have a temporary license. Following six months, they will need to apply for a permanent license per the process defined above.
+
+* [AutoPi Aps](https://www.autopi.io/) is licensed to produce it's [DIMO x AutoPi Data Miner](https://shop.dimo.zone/products/dimo-data-device?title=default%2520title)
+* [Smartcar](https://smartcar.com/) is licensed to offer a software connection
+* Digital Infrastructure Inc is licensed to offer a software connection.
 
 ## Implementation&#x20;
 
