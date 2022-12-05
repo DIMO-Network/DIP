@@ -79,6 +79,12 @@ They must:&#x20;
 * Use best practices to protect User's and their data; and
 * Comply with [dip-3-marketplace-issuance-and-token-burn.md](dip-3-marketplace-issuance-and-token-burn.md "mention") wherever applicable.
 
+### Temporary Licenses
+
+For six months after the passage of this DIP, the following companies are have a temporary license. Following six months, they will need to apply for a permanent license per the process defined above.
+
+* Digital Infrastructure Inc is licensed to operate the [DIMO Mobile](https://onelink.to/dimo) Client and [DIMO Explorer](https://explorer.dimo.zone/) Node.
+
 ## Implementation
 
 If passed, the DIMO Foundation will issue licenses per valid governance votes, and will collect and hold stakes and fees.
