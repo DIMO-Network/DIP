@@ -14,15 +14,14 @@
 
 ## Abstract
 
-This proposal outlines the method by which a new committee, called DIMO Integrations, will issue licenses to hardware manufacturers (like [AutoPi](https://www.autopi.io/)) who can produce compatible devices, as well as software developers (like [SmartCar](https://smartcar.com/)) who build digital integrations (collectively referred to as integration providers).
+This proposal outlines the method by which hardware manufacturers (like [AutoPi](https://www.autopi.io/)) who produce compatible devices, as well as software developers (like [SmartCar](https://smartcar.com/)) who build digital integrations (collectively referred to as integration providers) stake $DIMO and receive a license.
 
 The requirements for any integration providers are that they must:&#x20;
 
-1. Submit an application providing background on their business and receive approval from DIMO Integrations;
+1. Pass a DIP that approves their license application;
 2. Stake 100,000 $DIMO tokens as a security deposit;&#x20;
-3. Submit specifications and other details for each device or software integration service for approval from DIMO Integrations;
-4. Pair the applicable “device minting” NFT with each vehicle they connect to; and
-5. Remain in good standing with the community.&#x20;
+3. Transfer the applicable amount of $DIMO for each integrations they enable; and
+4. Remain in good standing with the community.&#x20;
 
 ## Motivation&#x20;
 
@@ -31,15 +30,14 @@ As a part of the vision to establish DIMO as a decentralized universal protocol,
 The goals of this proposal are to:&#x20;
 
 * Onboard and retain hardware providers (OEMs), software integrations, retailers, distributors, and support channels that are tightly aligned with the interests of the DIMO protocol and its users;&#x20;
-* Accelerate the development and integration of new device types and integration methods such as dash cameras, micro dongles, embedded hardware, and more;&#x20;
-* Establish standard device management software and APIs; and&#x20;
+* Accelerate the development and integration of new device types and integration methods such as dash cameras, micro dongles, embedded hardware, and more; and&#x20;
 * Optimize the operations and financing of device production, fulfillment, and installation.
 
 ## Specifications&#x20;
 
 ### Integration Providers & Device Licenses
 
-In order to connect to DIMO users, their vehicles, and their data, integration providers must agree to various obligations, apply for a license, submit specifications or code for a specific connection method, receive acceptance from DIMO Integrations, stake 100,000 $DIMO, and deposit $DIMO for each device they sell.
+In order to connect to DIMO users, their vehicles, and their data, integration providers must agree to various obligations, receive a license by passing a DIP, stake 100,000 $DIMO, and deposit $DIMO for each device they sell.
 
 #### Obligations
 
@@ -60,15 +58,13 @@ Connection methods must:&#x20;
 
 #### Application&#x20;
 
-Prospective integration providers must submit an application providing details about their business, their operating history, as well as specifications for the initial devices they intend to manufacture and/or software services they intend to provide. The initial application must contain specifications for at least one device design, test units, and data samples and/or a code repository and a functioning demo.
+Prospective integration providers must introduce a DIP using the [License Approval Template](templates/license-approval-template.md) an application providing details about their business, their operating history, as well as specifications for the initial devices they intend to manufacture and/or software services they intend to provide. The initial application must contain specifications for at least one device design, test units, and data samples and/or a code repository and a functioning demo.
 
 Licensed providers are able to submit additional and simplified applications for new devices and software methods at any time.
 
-DIMO Integrations will design and launch the application materials and publish documentation outlining the application process within 90 days following the passing of the DIP-4.&#x20;
-
 _Integration Types_&#x20;
 
-New device types may be added at any time by DIMO Integrations. The initial device categories include.
+All integrations methods must be categorized as one of the following device types. New device types may be added by token holders with a valid governance vote.
 
 | Device Type             | Concept Image                                                                                                                                                                                                                | Description                                                                                               | Typical Price Point                                                                    |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
@@ -82,7 +78,7 @@ New device types may be added at any time by DIMO Integrations. The initial devi
 
 #### Connection Specifications&#x20;
 
-The following are minimum device specifications. Except for the ways specified in the table below, DIMO Integrations may not alter these requirements, but it may add additional specifications that go above and beyond, particularly for certain device types (e.g., dash cams may have additional requirements related to privacy and compression).
+The following are minimum device specifications.
 
 Both Hardware & Software
 
@@ -124,11 +120,13 @@ For physical hardware, licensed manufacturers pay a set amount of $DIMO to mint 
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Why add this complexity? To align the incentives of various stakeholders, the $DIMO payment is set aside. Each month that the connection persists, the integration provider receives some of that $DIMO back as rebate for twenty four months until they earn back 70%.&#x20;
+The $DIMO payment is set aside. Each month that the connection persists, the integration provider receives some of that $DIMO back as rebate for twenty four months until they earn back 70%.&#x20;
 
-As the manufacturer earns, the DIMO Integrations team will get a small cut as well. The DIMO Treasury keeps any $DIMO that isn't returned to the manufacturer or integrations team. This arrangement will be defined in the upcoming DIMO Integrations resource allocation DIP.
+Why add this complexity? It's to align incentives.
 
 This rebate mechanism ensures that both integration providers and DIMO Integrations are long-term holders of $DIMO and that they have an incentive to produce resilient devices and services that users will love and want to keep connected.
+
+The DIMO Treasury keeps any $DIMO that isn't returned to the manufacturer.
 
 <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -148,21 +146,9 @@ The amount of DIMO required for device minting varies by device type.
 
 Similar to the stake required for licensing, device minting costs may be covered by financing partners, such as a distributor.&#x20;
 
-#### Pairing & Connectivity
-
-As described in [Connection Specifications](dip-4-device-integrations.md#connection-specifications), DIMO Integrations will provide a specification for formatting and sending data to the protocol and establishing a data stream.
-
-Additionally, Digital Infrastructure Inc will open-source the pairing code for the Gen 1 DIMO Data Miner and mobile application, which can be used as a spec for any future pairing process using a standard bluetooth interface.
-
-Digital Infrastructure Inc. has also been approved to negotiate global rates for cellular connectivity, and have selected Twilio as the initial connectivity provider, an ISO27001 Certified and GDPR-compliant MVNO. Approved OEMs will be given access to acquire SIMs and bind connectivity agreements at the bulk purchase price and can pass costs along to their customers through purchase and subscription agreements.
-
-Rates will be consistent throughout 2022, and connectivity will be re-auctioned in 2023.
-
-These rates can be applied to any approved device, and manufacturers can choose to go with their own connectivity provider if they choose, although additional integration work may be required to achieve Proof of Movement Certification.&#x20;
-
 ## Implementation&#x20;
 
-If passed, the newly formed DIMO Integrations team will be responsible for the implementation of the programs and procedures introduced in this document.
+If passed, the DIMO Foundation will issue licenses per valid governance votes.
 
 ## Copyright&#x20;
 
