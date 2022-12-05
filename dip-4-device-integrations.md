@@ -37,49 +37,6 @@ The goals of this proposal are to:&#x20;
 
 ## Specifications&#x20;
 
-### Establishing the DIMO Integrations Team&#x20;
-
-If passed, this proposal would formally recognize the DIMO Integrations team on interim basis and delegate certain rights and duties to it.
-
-A larger and more detailed plan and budget will be presented as part of the [Resource Allocation DIP](templates/resource-allocation-template.md) and community presentation and Q\&A coming within the next 90 days.
-
-#### Purpose
-
-DIMO Integrations is a delegate of the greater DIMO community responsible for ensuring the realization of the goals listed in the previous section. Primarily, this team is tasked with:&#x20;
-
-* Recruiting, evaluating, and accepting new hardware manufacturers and software integration providers;&#x20;
-* Monitoring existing connectivity enablers and, when necessary, challenging their stake and/or license (although this is not an exclusive right as any community member may also raise a challenge);&#x20;
-* Researching, developing, and implementing new device types and specifications; and&#x20;
-* Developing and publishing open source device management software.&#x20;
-
-#### Team Composition & Operating Structure&#x20;
-
-The initial team lead is [Brien East](https://www.linkedin.com/in/brien-east-1137516b/) (of Digital Infrastructure Inc.) who will be responsible for assembling other contributors and preparing the upcoming presentation. This team should be composed of trusted mechanical engineers, software developers, supply chain experts, game theorists, finance professionals, and attorneys.
-
-#### Conflicts
-
-In order to mitigate conflicts of interest, team members agree to reject any form of compensation from current or potential device manufacturers, except as otherwise defined in this proposal.&#x20;
-
-#### Authority & Domain&#x20;
-
-DIMO Integrations will have the authority to grant and revoke licenses to integration providers and their devices/software services. However, they cannot lower the staking requirement for manufacturer licenses or the cost of minting new devices.
-
-The $DIMO token holders may overrule DIMO Integrations, amend its powers and responsibilities, and/or extend these powers and responsibilities to other teams with any valid governance vote.&#x20;
-
-#### Budget & Financial Projections&#x20;
-
-DIMO Integrations is seeking an initial budget of 50,000 $DAI which may be used for any purpose and 10,000 $DIMO to use for testing. The directors of the DIMO Foundation will approve and reimburse invoices as needed.
-
-#### Summary of Commitments&#x20;
-
-DIMO Integrations commits to:&#x20;
-
-* Publish the analysis and outcome from every license application and revocation;&#x20;
-* Alert the community, particularly affected users, and provide a post-mortem if there is ever a major issue concerning a licensed integration provider and/or any of their devices;&#x20;
-* Publish metrics as defined in the [Operating Goals & Metrics](dip-4-device-integrations.md#operating-goals-and-metrics) section;&#x20;
-* Refuse any form of compensation from current or potential integration provider as to avoid any conflict of interest, except as otherwise defined above; and&#x20;
-* Always act in good faith and in the best interest of the DIMO community.
-
 ### Integration Providers & Device Licenses
 
 In order to connect to DIMO users, their vehicles, and their data, integration providers must agree to various obligations, apply for a license, submit specifications or code for a specific connection method, receive acceptance from DIMO Integrations, stake 100,000 $DIMO, and deposit $DIMO for each device they sell.

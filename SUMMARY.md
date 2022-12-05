@@ -11,3 +11,4 @@
 
 * [Basic Template](templates/basic-template.md)
 * [Resource Allocation Template](templates/resource-allocation-template.md)
+* [License Approval Template](templates/license-approval-template.md)
