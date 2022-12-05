@@ -57,23 +57,23 @@ Data Consumers may be businesses who pay for User data.
 
 Prospective Clients and Nodes may receive a license by passing a DIP using the [License Approval Template](templates/license-approval-template.md).
 
-Apps and Data Consumers do not require a governance vote to receive a license, but must comply with all terms in the Obligations and Staking & Fees sections in order to interact with DIMO Users and their data.&#x20;
+Apps and Data Consumers do not require a governance vote to receive a license, but must comply with all terms in the Obligations and Staking sections in order to interact with DIMO Users and their data.&#x20;
 
-### Staking & Fees
+### Staking
 
-Clients, Nodes, Apps, and Data Consumers must stake and/or spend $DIMO, or must have someone do it on their behalf. If a staker violates their obligations as specified below, their license may be suspended or revoked. They may renounce their license and receive back their staked deposit six months later.
+Clients, Nodes, Apps, and Data Consumers must stake $DIMO, or must have someone do it on their behalf. If a staker violates their obligations as specified below, their license may be suspended or revoked. They may renounce their license and receive back their staked deposit six months later.
 
 **Clients**: Must stake 20,000 $DIMO as a one-time deposit.
 
 **Nodes**: Must stake 500,000 $DIMO as a one-time deposit.
 
-**Apps**: There is no stake or fee required if the app has fewer than 40,000 Users. After exceeding this threshold, Apps must stake 10,000 $DIMO per 40,000 Users.
+**Apps**: There is no stake required if the app has fewer than 40,000 Users. After exceeding this threshold, Apps must stake 10,000 $DIMO per 40,000 Users.
 
-**Data Consumers**: No stake or fee required.
+**Data Consumers**: No stake required.
 
 Should applicants not have $DIMO or not want to interact with tokens, they may purchase $DIMO from the Foundation and/or have the Foundation put up the stake on their behalf. The price of $DIMO should be 1 USD equivalent paid in a popular fiat currency (e.g., USD, EUR, GBP), ETH, BTC, or DAI.
 
-The amounts for staking and fees, as well as the exchange rate for $DIMO offered by the Foundation, may be altered by any future governance vote.
+The amounts for staking, as well as the exchange rate for $DIMO offered by the Foundation, may be altered by any future governance vote.
 
 ### Obligations
 
@@ -99,7 +99,7 @@ For six months after the passage of this DIP, the following companies are have a
 
 ## Implementation
 
-If passed, the DIMO Foundation will issue licenses per valid governance votes, and will collect and hold stakes and fees.
+If passed, the DIMO Foundation will issue licenses per valid governance votes, and will collect and hold staking deposits.
 
 ## Citation
 
