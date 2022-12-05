@@ -95,7 +95,7 @@ They must:&#x20;
 
 For six months after the passage of this DIP, the following companies are have a temporary license. Following six months, they will need to apply for a permanent license per the process defined above.
 
-* Digital Infrastructure Inc is licensed to operate the [DIMO Mobile](https://onelink.to/dimo) Client and [DIMO Explorer](https://explorer.dimo.zone/) Node.
+* Digital Infrastructure Inc is licensed to operate the Client: [DIMO Mobile](https://onelink.to/dimo) Client and the Node: [DIMO Explorer](https://explorer.dimo.zone/).
 
 ## Implementation
 
