@@ -4,15 +4,15 @@ This is where DIMO improvement proposals (DIPs) are posted. Below, you can see a
 
 **Voting active for:** none
 
-**Community review:** [DIP-1](dip-1-governance-guidelines.md), [DIP-2](dip-2-baseline-issuance.md), [DIP-3](dip-3-marketplace-issuance-and-token-burn.md), [DIP-4](dip-4-device-integrations.md), [DIP-5](dip-5-app-ecosystem.md)
+**Community review:** [DIP-1](dip-1-governance-guidelines.md), [DIP-2](dip-2-baseline-issuance.md), [DIP-3](https://docs.dimo.zone/governance/dip-3-marketplace-issuance-and-token-burn), [DIP-4](dip-4-device-integrations.md), [DIP-5](dip-5-app-ecosystem.md)
 
-| DIP#                                              | Title                             | Status |
-| ------------------------------------------------- | --------------------------------- | ------ |
-| [1](dip-1-governance-guidelines.md)               | Governance Guidelines             | Review |
-| [2](dip-2-baseline-issuance.md)                   | Baseline Issuance                 | Review |
-| [3](dip-3-marketplace-issuance-and-token-burn.md) | Marketplace Issuance & Token Burn | Review |
-| [4](dip-4-device-integrations.md)                 | Device Integrations               | Review |
-| [5](dip-5-app-ecosystem.md)                       | App Ecosystem                     | Review |
+| DIP#                                                                             | Title                             | Status |
+| -------------------------------------------------------------------------------- | --------------------------------- | ------ |
+| [1](dip-1-governance-guidelines.md)                                              | Governance Guidelines             | Review |
+| [2](dip-2-baseline-issuance.md)                                                  | Baseline Issuance                 | Review |
+| [3](https://docs.dimo.zone/governance/dip-3-marketplace-issuance-and-token-burn) | Marketplace Issuance & Token Burn | Review |
+| [4](dip-4-device-integrations.md)                                                | Device Integrations               | Review |
+| [5](dip-5-app-ecosystem.md)                                                      | App Ecosystem                     | Review |
 
 ***
 
