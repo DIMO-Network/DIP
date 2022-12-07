@@ -4,15 +4,15 @@ This is where DIMO improvement proposals (DIPs) are posted. Below, you can see a
 
 **Voting active for:** none
 
-**Community review:** [DIP-1](dip-1-governance-guidelines.md), [DIP-2](dip-2-baseline-issuance.md), [DIP-3](https://docs.dimo.zone/governance/dip-3-marketplace-issuance-and-token-burn), [DIP-4](dip-4-device-integrations.md), [DIP-5](dip-5-app-ecosystem.md)
+**Community review:** [DIP-1](dip1.md), [DIP-2](dip2.md), [DIP-3](https://docs.dimo.zone/governance/dip-3-marketplace-issuance-and-token-burn), [DIP-4](dip4.md), [DIP-5](dip5.md)
 
 | DIP#                                                                             | Title                             | Status |
 | -------------------------------------------------------------------------------- | --------------------------------- | ------ |
-| [1](dip-1-governance-guidelines.md)                                              | Governance Guidelines             | Review |
-| [2](dip-2-baseline-issuance.md)                                                  | Baseline Issuance                 | Review |
+| [1](dip1.md)                                                                     | Governance Guidelines             | Review |
+| [2](dip2.md)                                                                     | Baseline Issuance                 | Review |
 | [3](https://docs.dimo.zone/governance/dip-3-marketplace-issuance-and-token-burn) | Marketplace Issuance & Token Burn | Review |
-| [4](dip-4-device-integrations.md)                                                | Device Integrations               | Review |
-| [5](dip-5-app-ecosystem.md)                                                      | App Ecosystem                     | Review |
+| [4](dip4.md)                                                                     | Device Integrations               | Review |
+| [5](dip5.md)                                                                     | App Ecosystem                     | Review |
 
 ***
 

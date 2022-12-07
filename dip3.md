@@ -24,7 +24,7 @@ It will start off very simple, but can evolve with future DIPs as the ecosystem 
 
 DIMO users and apps should be rewarded based on the value that they generate to create a more direct link between incentives and optimal behaviors. Those who create the most value for the network should have the largest $DIMO rewards and the biggest voice in its future direction.
 
-In the early stages of DIMO's development, the vast majority of rewards will come from [Baseline Issuance](dip-2-baseline-issuance.md), which is designed to simulate market demand for user data in the simplest way possible. As the network matures, this balance will shift so the majority of rewards come from Marketplace Issuance. This is comparable to other web3 networks like Helium, where the rewards from proof of coverage ideally shrink in comparison to rewards from data transfer as adoption increases.
+In the early stages of DIMO's development, the vast majority of rewards will come from [Baseline Issuance](dip2.md), which is designed to simulate market demand for user data in the simplest way possible. As the network matures, this balance will shift so the majority of rewards come from Marketplace Issuance. This is comparable to other web3 networks like Helium, where the rewards from proof of coverage ideally shrink in comparison to rewards from data transfer as adoption increases.
 
 ## Specification
 
@@ -90,7 +90,7 @@ This mechanism should be implemented at a time in the future when DIMO adoption 
 
 ## Implementation
 
-In order to enact the specification above, the DIMO Foundation will issue licenses to DIMO Applications, per [DIP-5](dip-5-app-ecosystem.md), that specify the terms by which those applications handle user data and remit cash or $DIMO.&#x20;
+In order to enact the specification above, the DIMO Foundation will issue licenses to DIMO Applications, per [DIP-5](dip5.md), that specify the terms by which those applications handle user data and remit cash or $DIMO.&#x20;
 
 DIMO apps may burn and distribute $DIMO directly. In cases where DIMO apps do not have or wish to use $DIMO, or do not wish to handle the distribution directly, the DIMO Foundation will assist in conversions and distributions. To assist in this matter, the DIMO Foundation has engaged Digital Infrastructure Inc. to process data and calculate distributions. As is the case with Baseline Issuance, user are not eligible for rewards if their wallets are flagged by Chainalysis' [AML tools](https://www.chainalysis.com/free-cryptocurrency-sanctions-screening-tools/) as risky or fraudulent.
 

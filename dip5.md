@@ -91,7 +91,7 @@ They must:&#x20;
 * Comply with all local regulations;&#x20;
 * Only share data with recipients that the user has opted into sharing with per the parameters of the DIMO protocol;
 * Use best practices to protect User's and their data; and
-* Comply with [dip-3-marketplace-issuance-and-token-burn.md](dip-3-marketplace-issuance-and-token-burn.md "mention") wherever applicable.
+* Comply with [dip3.md](dip3.md "mention") wherever applicable.
 
 ### Temporary Licenses
 
