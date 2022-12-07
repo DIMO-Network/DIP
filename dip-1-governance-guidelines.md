@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review
+> **Status**: Review (until December 12th, 2022 at 5:00 UTC)
 >
 > **Voting URL**: Pending
 
@@ -37,7 +37,7 @@ It is required that all DIPs include the following in a format similar to this o
 *   **Status**: Options include:&#x20;
 
     * _Review_ - for review and discussion by community (the author may still make changes);&#x20;
-    * _Voting_ - in the process of being voted on — must also specify when that period ends by adding "(until Month Day, Year at 24hr Clock UTC Time)." E.g., **Status**: Voting (until January 20th, 2023 at 22:00:00 UTC);
+    * _Voting_ - in the process of being voted on;
     * _Approved_ - vote concluded and proposal passed, but not been implemented yet;&#x20;
     * _Deployed -_ vote concluded and proposal passed and implemented;
     * _Failed_ - vote concluded and proposal failed to reach majority and/or quorum; or
@@ -84,7 +84,7 @@ After seven days of deliberation, the DIP goes to a vote. Once a vote beings, th
 **Terms**
 
 * **Venue**: All voting will occur on [Snapshot](https://snapshot.org/#/dimo.eth).
-* **Duration**: Voting will be open for seven days (168 hours). Voters may change their votes during the seven day window.
+* **Duration**: Voting will be open for seven days (168 hours) for off-chain votes or 268,800 blocks on the Polygon PoS chain for on-chain votes (roughly 7 days). Voters may change their votes during this window.
 * **Withdrawal**: Once in _Voting_, the proposal may not be withdrawn by the sponsors. It will either pass or fail.
 * **Delegation**: $DIMO holders can delegate their voting power to themselves (allowing them to vote directly) or to someone else without having to transfer their tokens. To do this, click [here](https://www.tally.xyz/gov/eip155:137:0xD203e37D96cC0b9b7Dc00fC3fDfcf1b1A2E8c547), connect your wallet, and click "Delegate Tokens". Then enter the 0x address of the person you'd like to delegate your tokens to.  You remain in control of your $DIMO and can revoke or redelegate your tokens at any times. This action will require Matic tokens on the Polygon blockchain.
 * **Weighting**: Voting is directly proportional to the amount of $DIMO a user has been delegated (by themselves or others);
