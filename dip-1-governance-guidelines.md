@@ -9,6 +9,10 @@
 > **Status**: Review (until December 12th, 2022 at 5:00 UTC)
 >
 > **Voting URL**: Pending
+>
+> **Discussion Forum**: [Discord](https://chat.dimo.zone) #🗳️governance forum
+>
+> **Vote Type**: Level 3
 
 ## Abstract
 
@@ -31,21 +35,23 @@ Governance proposals are called DIMO Improvement Proposals (DIP). They are forma
 It is required that all DIPs include the following in a format similar to this one. Various types of DIPs may require additional fields (see the [Templates folder](https://github.com/DIMO-Network/DIP/tree/main/templates)). DIPs may add additional sections as needed, so long as they include the following:
 
 * **Title**: "DIP\[#]: Title Name"
-* **Headline**: A brief, one sentence TLDR explaining the proposal.
-* **Author**: The name of the entity(ies) responsible for creating the proposal. This can be pseudonyms.
-* **Submitter**: The name of the entity(ies) responsible for submitting the proposal. This can be pseudonyms. They must include the 0x address of the wallet that held sufficient voting power at the time of submission in brackets (see example above).
-*   **Status**: Options include:&#x20;
+* **Header:**
+  * **Headline**: A brief, one sentence TLDR explaining the proposal.
+  * **Author**: The name of the entity(ies) responsible for creating the proposal. This can be pseudonyms.
+  * **Submitter**: The name of the entity(ies) responsible for submitting the proposal. This can be pseudonyms. They must include the 0x address of the wallet that held sufficient voting power at the time of submission in brackets (see example above).
+  *   **Status**: Options include:&#x20;
 
-    * _Review_ - for review and discussion by community (the author may still make changes);&#x20;
-    * _Voting_ - in the process of being voted on;
-    * _Approved_ - vote concluded and proposal passed, but not been implemented yet;&#x20;
-    * _Deployed -_ vote concluded and proposal passed and implemented;
-    * _Failed_ - vote concluded and proposal failed to reach majority and/or quorum; or
-    * _Withdrawn_ - sponsor(s) withdrew the proposal while it was in the _Review_ stage, prior to voting.
+      * _Review_ - for review and discussion by community (the author may still make changes);&#x20;
+      * _Voting_ - in the process of being voted on;
+      * _Approved_ - vote concluded and proposal passed, but not been implemented yet;&#x20;
+      * _Deployed -_ vote concluded and proposal passed and implemented;
+      * _Failed_ - vote concluded and proposal failed to reach majority and/or quorum; or
+      * _Withdrawn_ - sponsor(s) withdrew the proposal while it was in the _Review_ stage, prior to voting.
 
-    _Review_ and _Voting_ must also specify when that period ends by adding "(until Month Day, Year at 24hr Clock UTC Time)." E.g., **Status**: Voting (until January 20th, 2022 at 22:00:00 UTC).
-* **Discord forum URL**: A link to the #🗳️governance thread in [Discord ](https://discord.com/invite/dimonetwork)for discussing this DIP.
-* **Voting URL**: A link to the vote on [Snapshot](https://snapshot.org/#/dimo.eth). For proposals in _Review_ status, write "Pending".
+      _Review_ and _Voting_ must also specify when that period ends by adding "(until Month Day, Year at 24hr Clock UTC Time)." E.g., **Status**: Voting (until January 20th, 2022 at 22:00:00 UTC).
+  * **Voting URL**: A link to the vote on [Snapshot](https://snapshot.org/#/dimo.eth). For proposals in _Review_ status, write "Pending".
+  * **Discussion Forum**: Where the community is encouraged to discuse the proposal.
+  * **Vote Type**: Either a vote level 1, 2, or 3. See types below, under **Terms**.
 * **Abstract**: This is a slightly longer 3-5 sentence summary of the proposal.
 * **Motivation**: This explains the rationale and goals for the DIP.
 * **Specification**: The highly detailed description of the DIP including precise terms, protocol updates, blockchain transactions and smart contract code that will be executed with comments, and more.

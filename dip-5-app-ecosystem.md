@@ -9,6 +9,10 @@
 > **Status**: Review (until December 12th, 2022 at 5:00 UTC)
 >
 > **Voting URL**: Pending
+>
+> **Discussion Forum**: [Discord](https://chat.dimo.zone) #🗳️governance forum
+>
+> **Vote Type**: Level 3
 
 ## Abstract
 
