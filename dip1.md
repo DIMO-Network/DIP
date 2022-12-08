@@ -141,7 +141,7 @@ Dec 7, 2022: adjusted review date to give people more time to claim the Airdrop 
 
 Dec 7, 2022: added clarifying language to the section on voting limits.
 
-Dec 8, 2022: altered quorum thresholds and definition based on data points from other projects.
+Dec 8, 2022: altered quorum thresholds based on data points from other projects.
 
 Dec 8, 2022: added clarity to the definition of circulating supply.
 
