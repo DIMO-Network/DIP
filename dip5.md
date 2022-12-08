@@ -111,7 +111,9 @@ The DIMO Foundation, "DIP-5: App Ecosystem", no. 5, December 2022. \[Online seri
 
 ## Changelog
 
-None
+Dec 7, 2022: added discussion forum and voting type to the DIP header.
+
+Dec 7, 2022: adjusted review date to give people more time to claim the Airdrop prior to voting going live.
 
 ## Disclaimer
 

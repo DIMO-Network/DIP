@@ -76,6 +76,12 @@ Please cite this document as:
 
 The DIMO Foundation, "DIP-2: Baseline Issuance", no. 2, November 2022. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
 
+## Changelog
+
+Dec 7, 2022: added discussion forum and voting type to the DIP header.
+
+Dec 7, 2022: adjusted review date to give people more time to claim the Airdrop prior to voting going live.
+
 ## Token Disclaimer
 
 The contract address for $DIMO is [0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b](https://etherscan.io/token/0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b) on Ethereum and [0xE261D618a959aFfFd53168Cd07D12E37B26761db](https://polygonscan.com/token/0xE261D618a959aFfFd53168Cd07D12E37B26761db) on Polygon. Please always confirm that you are interacting with this contract address and not that of a fraudulent imitator. This proposal may not be enacted if it violates Cayman Islands law. Please triple check that any communications are authentic as it’s common for scammers to try to trick you into sending them crypto or into revealing your private keys.

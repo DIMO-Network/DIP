@@ -114,7 +114,7 @@ After seven days of deliberation, the DIP goes to a vote. Once a vote beings, th
       Quorum = 5% of circulating supply\
       Acceptable Voting Formats = Basic Voting, Ranked Choice, Multiple Selection
 * **Implementation**: There will be a four day (96 hour) timelock after the vote is completed before execution. This gives various stakeholders the opportunity to make any necessary preparations based on the outcome (e.g., connecting or disconnecting a car, staking or unstaking their tokens, etc.).
-* **Voting Limits**: No individual voter shall vote with more than 5% of the circulating supply of $DIMO.
+* **Voting Limits**: No individual voter shall vote with more than 5% of the circulating supply of $DIMO. Where possible, such as with off-chain votes on Snapshot, wallets that vote with more than 5% will have their vote weight reduced to disregard overages.
 * **Invalid Proposals**: Proposals may not be enacted if doing so will result in the contravention of Cayman Islands laws or regulations, if it is non-compliant with the DIMO Foundation Memorandum & Articles and Bylaws, or causes clear harm to the Foundation. Transfers of $DIMO may be contingent on the recipient completing a Know Your Customer (KYC) process in the case of large grants.
 
 To determine the outcome, we only look at the state of the vote at the moment the vote closes. If a vote has majority and quorum at the exact end of seven days, then the status changes to _Final_ and the four day timelock prior to execution begins. If a vote does not meet that criteria, the DIP fails to pass and the status changes to "Failed".
@@ -135,7 +135,11 @@ The DIMO Foundation, "DIP-1: DIMO Governance Guidelines", no. 1, November 2023. 
 
 ## Changelog
 
-None
+Dec 7, 2022: added discussion forum and voting type to the DIP header.
+
+Dec 7, 2022: adjusted review date to give people more time to claim the Airdrop prior to voting going live.
+
+Dec 7, 2022: added clarifying language to the section on voting limits.
 
 ## Disclaimer
 

@@ -176,7 +176,9 @@ The DIMO Foundation, "DIP-4: Device Integration", no. 4, December 2022. \[Online
 
 ## Changelog
 
-None
+Dec 7, 2022: added discussion forum and voting type to the DIP header.
+
+Dec 7, 2022: adjusted review date to give people more time to claim the Airdrop prior to voting going live.
 
 ## Disclaimer
 
