@@ -80,7 +80,7 @@ After seven days of deliberation, the DIP goes to a vote. Once a vote beings, th
 
 **Definitions**
 
-* **Circulating Supply**: Equals the total supply of $DIMO minus the amount held by the Foundation as treasury or for baseline issuance.
+* **Circulating Supply**: Equals the 1) total supply of $DIMO minus the amount held by the Foundation as treasury or for baseline issuance. This is calculated as of the block that the vote is launched.
 * **Voting Formats**: The only allowable formats are:&#x20;
   * Basic Voting: the only voting options are Approve, Reject, and Abstain and the vote is either approved or rejected at the end of the voting period.&#x20;
   * Ranked Choice: an instant runoff method whereby users rank their choices in order. If any option is ranked first by the required majority of voters, that options wins. If no option reaches majority, the option that received the fewest top rank choices by voters is eliminated and the nullified votes for that option are redistributed to each voter's second choice. This process repeats until one option reaches the required majority (and that options wins) or until there are two options left that both fail to reach the majority (e.g., if required majority is 60% and options 1 and 2 have 50% each and there is no winner). These votes must be done as off-chain poles on Snapshot.
@@ -99,23 +99,23 @@ After seven days of deliberation, the DIP goes to a vote. Once a vote beings, th
 
       Majority = 70%
 
-      Quorum = 15% of circulating supply\
+      Quorum = 10% of circulating supply\
       Acceptable Voting Formats = Basic Voting, Ranked Choice
   *   **Level 2 Votes**: For somewhat impactful votes that entail transferring or committing between 5,000,000 to 15,000,000 $DIMO; removing a DIMO Foundation director; altering the DIMO Foundation Bylaws; or other meaningful decisions as may be determined by the DIMO Foundation:
 
       Majority = 60%
 
-      Quorum = 10% of circulating supply\
+      Quorum = 5% of circulating supply\
       Acceptable Voting Formats = Basic Voting, Ranked Choice
   *   **Level 1 Votes**: For other votes that are less impactful in nature than those listed above, such as issuing non-exclusive licenses to core intellectual property that do not inhibit the DIMO network; transferring under 5,000,000 $DIMO (often for grants); delegating other resources and authority to individuals or groups who are helping to build $DIMO (e.g., recognizing a new DIMO Integrations team and granting it the right to issue licenses to device manufacturers):
 
       Majority = 50%
 
-      Quorum = 5% of circulating supply\
+      Quorum = 3% of circulating supply\
       Acceptable Voting Formats = Basic Voting, Ranked Choice, Multiple Selection
 * **Implementation**: There will be a four day (96 hour) timelock after the vote is completed before execution. This gives various stakeholders the opportunity to make any necessary preparations based on the outcome (e.g., connecting or disconnecting a car, staking or unstaking their tokens, etc.).
 * **Voting Limits**: No individual voter shall vote with more than 5% of the circulating supply of $DIMO. Where possible, such as with off-chain votes on Snapshot, wallets that vote with more than 5% will have their vote weight reduced to disregard overages.
-* **Invalid Proposals**: Proposals may not be enacted if doing so will result in the contravention of Cayman Islands laws or regulations, if it is non-compliant with the DIMO Foundation Memorandum & Articles and Bylaws, or causes clear harm to the Foundation. Transfers of $DIMO may be contingent on the recipient completing a Know Your Customer (KYC) process in the case of large grants.
+* **Invalid Proposals**: Proposals may not be enacted if doing so will result in the contravention of Cayman Islands laws or regulations, if it is non-compliant with the DIMO Foundation Memorandum & Articles and Bylaws, or causes clear harm to the Foundation. Transfers of $DIMO, other crypto, or fiat may be contingent on the recipient completing a Know Your Customer (KYC) process in the case of large grants.
 
 To determine the outcome, we only look at the state of the vote at the moment the vote closes. If a vote has majority and quorum at the exact end of seven days, then the status changes to _Final_ and the four day timelock prior to execution begins. If a vote does not meet that criteria, the DIP fails to pass and the status changes to "Failed".
 
@@ -140,6 +140,12 @@ Dec 7, 2022: added discussion forum and voting type to the DIP header.
 Dec 7, 2022: adjusted review date to give people more time to claim the Airdrop prior to voting going live.
 
 Dec 7, 2022: added clarifying language to the section on voting limits.
+
+Dec 8, 2022: altered quorum thresholds and definition based on data points from other projects.
+
+Dec 8, 2022: added clarity to the definition of circulating supply.
+
+Dec 8, 2022: added additional clarification invalid proposals related to money transfer.
 
 ## Disclaimer
 
