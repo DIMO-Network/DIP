@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review (until December 19th, 2022 at 5:00 UTC)
+> **Status**: Review (until January 5th, 2022 at 5:00 UTC)
 >
 > **Voting URL**: Pending
 >
@@ -146,6 +146,8 @@ Dec 8, 2022: altered quorum thresholds based on data points from other projects.
 Dec 8, 2022: added clarity to the definition of circulating supply.
 
 Dec 8, 2022: added additional clarification invalid proposals related to money transfer.
+
+Dec 26: adjusted review data again to allow for fixes to delegation strategy prior to voting.
 
 ## Disclaimer
 

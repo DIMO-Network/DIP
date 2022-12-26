@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review (until December 19th, 2022 at 5:00 UTC)
+> **Status**: Review (until January 5th, 2022 at 5:00 UTC)
 >
 > **Voting URL**: Pending
 >
@@ -109,6 +109,8 @@ The DIMO Foundation, "DIP-3: Marketplace Issuance", no. 3, November 2022. \[Onli
 Dec 7, 2022: added discussion forum and voting type to the DIP header.
 
 Dec 7, 2022: adjusted review date to give people more time to claim the Airdrop prior to voting going live.
+
+Dec 26: adjusted review data again to allow for fixes to delegation strategy prior to voting.
 
 ## Disclaimer
 
