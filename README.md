@@ -1,8 +1,8 @@
 # DIMO Governance Hub
 
-_This page contains information on how holders of the $DIMO token vote to control how the protocol works. Read on to learn how to participate and view proposals you can vote on now, as well as past proposals. For more on why voting is important, click_ [_here_](https://docs.dimo.zone/overview/dimotoken/user-ownership)_._&#x20;
+$DIMO token holders vote on proposals that determine how DIMO works. They're known as DIMO Improvement Proposals ("DIPs" for short) and can upgrade the way the DIMO smart contracts and token work, can grant privileges (e.g., a vote to issue a license to make DIMO Miners to a hardware manufacturer), set tokens aside for grants, and more.
 
-### **Instructions**
+### **Participation Instructions**
 
 There are steps you must take in order to vote. **** To have your tokens counted you must "delegate" your voting power to someone. **Even if you want to vote with your own tokens, you still must delegate them to yourself.**&#x20;
 
