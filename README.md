@@ -1,10 +1,12 @@
 # DIMO Governance Hub
 
-$DIMO token holders vote on proposals that determine how DIMO works. They're known as DIMO Improvement Proposals ("DIPs" for short) and can upgrade the way the DIMO smart contracts and token work, can grant privileges (e.g., a vote to issue a license to make DIMO Miners to a hardware manufacturer), set tokens aside for grants, and more.
+$DIMO token holders vote on proposals that determine how DIMO works. They're known as DIMO Improvement Proposals ("DIPs" for short) and can upgrade the way the DIMO smart contracts and token work, can grant privileges (e.g., a vote to issue a license to make DIMO Miners to a hardware manufacturer), set tokens aside for grants, etc. More on why this matters [here](https://docs.dimo.zone/overview/dimotoken/user-ownership).
 
 ### **Participation Instructions**
 
-There are steps you must take in order to vote. **** To have your tokens counted you must "delegate" your voting power to someone. **Even if you want to vote with your own tokens, you still must delegate them to yourself.**&#x20;
+There are steps you must take in order to vote. **** To have your tokens counted you must "delegate" your voting power to someone. **Even if you want to vote with your own tokens, you still must delegate them to yourself.**
+
+**When you delegate your tokens stay in securely in your wallet.** You always retain full control and can still transfer them. You can change who you've delegated to at any time. Once you delegate, the person you delegate to will be able to vote with your tokens in all future votes until you redelegate to someone else.
 
 We recommend using [this website](https://delegate.dimo.zone/) to easily delegate to yourself or others. On this page click "Connect Wallet" and sign in with a wallet that contains $DIMO. We recommend using a mobile wallet (Metamask desktop is not supported). Then:
 
