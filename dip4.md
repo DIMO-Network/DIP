@@ -32,7 +32,7 @@ As a part of the vision to establish DIMO as a decentralized universal protocol,
 The goals of this proposal are to:&#x20;
 
 * Onboard and retain hardware providers (OEMs), software integrations, retailers, distributors, and support channels that are tightly aligned with the interests of the DIMO protocol and its users;&#x20;
-* Accelerate the development and integration of new device types and integration methods such as dash cameras, micro dongles, embedded hardware, and more; and&#x20;
+* Accelerate the development and integration of new device types and integration methods such as dash cameras, cheaper dongles, embedded hardware, and more; and&#x20;
 * Optimize the operations and financing of device production, fulfillment, and installation.
 
 ## Specifications&#x20;
@@ -68,15 +68,14 @@ _Integration Types_&#x20;
 
 All integrations methods must be categorized as one of the following device types. New device types may be added by token holders with a valid governance vote.
 
-| Device Type             | Concept Image                                                                                                                                                                                                                | Description                                                                                               | Typical Price Point                                                                    |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| Software Only           | N/A                                                                                                                                                                                                                          | Leverages existing vehicle subscription programs and their APIs to establish a baseline of connectivity   | No added charge. Vehicle manufacturer (e.g., Ford, BMW) may charge a subscription fee. |
-| <p>Micro <br>Dongle</p> | <img src=".gitbook/assets/image (5).png" alt="" data-size="line">                                                                                                                                                            | Records vehicle data from the Can bus, piggybacks off user's cellphone                                    | $50                                                                                    |
-| Standard Dongle         | <img src="https://lh4.googleusercontent.com/GRTqY_WLRyeZOLP1pVBYfSYdGVUWt1PkoETQV6RMpp9dv9J6eBachCMRinU0xTLmllv5FqrXc8HwsaIHoxTS3Iu6sz7MmxaB9SELzz2A5lGaXZ7vTFR0DIGKLzBK31NezvVeTh506XH9k-kG6dP8eg" alt="" data-size="line"> | Records vehicle data from the CAN bus, stand-alone connectivity                                           | $350                                                                                   |
-| Hub                     | <img src="https://lh6.googleusercontent.com/cW34tdb4DmfURDEFbWxoxj5ERDEnqZHH2dsUASFow2t-xKnmK1hxqO3rW6PCSvZ6mR5BsoYcbaQk-rJqlDaouSZsjcpehE2iIDjkt0s5syt9VMT1XL0XRlT0qh00mwwVSA-h9io-mOh4EX9Al6Ldpg" alt="" data-size="line"> | IoT hub that enables long term local storage and backup of data, as well as cheaper dongle and dash cams. | $500                                                                                   |
-| Dash Camera             | <img src="https://lh6.googleusercontent.com/iHX9U2U_0JmIAT9N6wWHBLrbaeBgSmAe0BOQl-AidpMPL6sYyUN0-L4glSSDJpbtae7zMV4lDKNqsE1Sno6nt5kvvr1Vq-8Q_XDzT9C-HIh_ySkiKT7ZFjpLnMMohFqSotMraAwn1VgRehEiAHRpYQ" alt="" data-size="line"> | Device that records camera footage and possibly other telemetry                                           | $500                                                                                   |
-| Fleet Device            | <img src="https://lh4.googleusercontent.com/5GZ6wu9JU1rmER4U0qvBEsCdZ4EyCfSwlHNuy7ap1eN807pdaKGttS2RSnNF2Ic0mr73AMnbxgKYiq124gEkfOCQUqwRGDBx66_CajHhfXEXjfBBb9hsb5Leg4OZ5ewSK2uKH_gzjt-RGhyPXECMpg" alt="" data-size="line"> | Telemetry devices designed for commercial use                                                             | $1,000                                                                                 |
-| AI Device               | <img src="https://lh6.googleusercontent.com/wKACXQZGzx-nPAWv3ks_rD0yr36c4W9k470JyfYbijs6RbY6crv0XLXKJ9jET5Eg0nvS_wzsRYtSnQKFpbiLI0c6w8jnl9YUmbVEISXcn3E0nP6LIEwWY1lEUZMVztYiHiCxvpQqY6IUx_kLtu1ECw" alt="" data-size="line"> | Device that supplements enhanced driving features (e.g., Comma AI)                                        | $2,000                                                                                 |
+| Device Type   | Concept Image                                                                                                                                                                                                                | Description                                                                                             | Typical Price Point                                                                    |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Software Only | N/A                                                                                                                                                                                                                          | Leverages existing vehicle subscription programs and their APIs to establish a baseline of connectivity | No added charge. Vehicle manufacturer (e.g., Ford, BMW) may charge a subscription fee. |
+| Dongle        | <img src="https://lh4.googleusercontent.com/GRTqY_WLRyeZOLP1pVBYfSYdGVUWt1PkoETQV6RMpp9dv9J6eBachCMRinU0xTLmllv5FqrXc8HwsaIHoxTS3Iu6sz7MmxaB9SELzz2A5lGaXZ7vTFR0DIGKLzBK31NezvVeTh506XH9k-kG6dP8eg" alt="" data-size="line"> | Records vehicle data from the CAN bus.                                                                  | $350                                                                                   |
+| Hub           | <img src="https://lh6.googleusercontent.com/cW34tdb4DmfURDEFbWxoxj5ERDEnqZHH2dsUASFow2t-xKnmK1hxqO3rW6PCSvZ6mR5BsoYcbaQk-rJqlDaouSZsjcpehE2iIDjkt0s5syt9VMT1XL0XRlT0qh00mwwVSA-h9io-mOh4EX9Al6Ldpg" alt="" data-size="line"> | IoT hub that enables long term local storage and backup of data.                                        | $500                                                                                   |
+| Dash Camera   | <img src="https://lh6.googleusercontent.com/iHX9U2U_0JmIAT9N6wWHBLrbaeBgSmAe0BOQl-AidpMPL6sYyUN0-L4glSSDJpbtae7zMV4lDKNqsE1Sno6nt5kvvr1Vq-8Q_XDzT9C-HIh_ySkiKT7ZFjpLnMMohFqSotMraAwn1VgRehEiAHRpYQ" alt="" data-size="line"> | Device that records camera footage and possibly other telemetry                                         | $500                                                                                   |
+| Fleet Device  | <img src="https://lh4.googleusercontent.com/5GZ6wu9JU1rmER4U0qvBEsCdZ4EyCfSwlHNuy7ap1eN807pdaKGttS2RSnNF2Ic0mr73AMnbxgKYiq124gEkfOCQUqwRGDBx66_CajHhfXEXjfBBb9hsb5Leg4OZ5ewSK2uKH_gzjt-RGhyPXECMpg" alt="" data-size="line"> | Telemetry devices designed for commercial use                                                           | $1,000                                                                                 |
+| AI Device     | <img src="https://lh6.googleusercontent.com/wKACXQZGzx-nPAWv3ks_rD0yr36c4W9k470JyfYbijs6RbY6crv0XLXKJ9jET5Eg0nvS_wzsRYtSnQKFpbiLI0c6w8jnl9YUmbVEISXcn3E0nP6LIEwWY1lEUZMVztYiHiCxvpQqY6IUx_kLtu1ECw" alt="" data-size="line"> | Device that supplements enhanced driving features (e.g., Comma AI)                                      | $2,000                                                                                 |
 
 #### Connection Specifications&#x20;
 
@@ -140,15 +139,14 @@ The DIMO Treasury keeps any $DIMO that isn't returned to the manufacturer.
 
 The amount of DIMO required for device minting varies by device type.
 
-| Type            | Description                                                                                               | Cost (in $DIMO) |
-| --------------- | --------------------------------------------------------------------------------------------------------- | --------------- |
-| Software Only   | Leverages existing vehicle subscription programs and their APIs to establish a baseline of connectivity   | 0               |
-| Micro Dongle    | Records vehicle data from the Can bus, piggybacks off user's cellphone                                    | 30              |
-| Standard Dongle | Records vehicle data from the CAN bus, stand-alone connectivity                                           | 50              |
-| Hub             | IoT hub that enables long term local storage and backup of data, as well as cheaper dongle and dash cams. | 70              |
-| Dash Camera     | Device that records camera footage and possibly other telemetry                                           | 80              |
-| Fleet Device    | Telemetry devices designed for commercial use                                                             | 120             |
-| AI Device       | Device that supplements enhanced driving features (e.g., Comma AI)                                        | 150             |
+| Type          | Description                                                                                             | Cost (in $DIMO) |
+| ------------- | ------------------------------------------------------------------------------------------------------- | --------------- |
+| Software Only | Leverages existing vehicle subscription programs and their APIs to establish a baseline of connectivity | 0               |
+| Dongle        | Records vehicle data from the CAN bus, stand-alone connectivity                                         | 25              |
+| Hub           | IoT hub that enables long term local storage and backup of data.                                        | 50              |
+| Dash Camera   | Device that records camera footage and possibly other telemetry                                         | 50              |
+| Fleet Device  | Telemetry devices designed for commercial use                                                           | 75              |
+| AI Device     | Device that supplements enhanced driving features (e.g., Comma AI)                                      | 75              |
 
 Similar to the stake required for licensing, device minting costs may be covered by financing partners, such as a distributor.&#x20;
 
@@ -181,6 +179,8 @@ Dec 7, 2022: added discussion forum and voting type to the DIP header.
 Dec 7, 2022: adjusted review date to give people more time to claim the Airdrop prior to voting going live.
 
 Dec 26: adjusted review data again to allow for fixes to delegation strategy prior to voting.
+
+Dec 30: combined Micro and Standard Dongle to one category ("Dongle") and decreased minting price on all device categories.
 
 ## Disclaimer
 
