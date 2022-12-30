@@ -6,7 +6,7 @@ $DIMO token holders vote on proposals that determine how DIMO works. They're kno
 
 There are steps you must take in order to vote. **** To have your tokens counted you must "delegate" your voting power to someone. **Even if you want to vote with your own tokens, you still must delegate them to yourself.**
 
-**When you delegate your tokens stay in securely in your wallet.** You always retain full control and can still transfer them. You can change who you've delegated to at any time. Once you delegate, the person you delegate to will be able to vote with your tokens in all future votes until you redelegate to someone else.
+**When you delegate, your tokens stay securely in your wallet.** You always retain full control and can still transfer them. You can change who you've delegated to at any time. Once you delegate, the person you delegate to will be able to vote with your tokens in all future votes until you redelegate to someone else.
 
 We recommend using [this website](https://delegate.dimo.zone/) to easily delegate to yourself or others. On this page click "Connect Wallet" and sign in with a wallet that contains $DIMO. We recommend using a mobile wallet (Metamask desktop is not supported). Then:
 
