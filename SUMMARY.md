@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Governance Hub](README.md)
+* [DIMO Governance Hub](README.md)
 * [DIP-1: Governance Guidelines](dip1.md)
 * [DIP-2: Baseline Issuance](dip2.md)
 * [DIP-3: Marketplace Issuance & Token Burn](dip3.md)
