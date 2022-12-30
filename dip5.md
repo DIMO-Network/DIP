@@ -1,6 +1,6 @@
 # DIP-5: App Ecosystem
 
-> **Headline**: How Clients, Nodes, Apps, and Data Consumers get licensed to access User data.
+> **Headline**: How Clients, Nodes, Apps, and Data Consumers get licensed to access User data
 >
 > **Author**: The DIMO Foundation
 >

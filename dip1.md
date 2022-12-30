@@ -1,6 +1,6 @@
 # DIP-1: Governance Guidelines
 
-> **Headline**: A general procedure for submitting and voting on proposals.
+> **Headline**: A general procedure for submitting and voting on proposals
 >
 > **Author**: The DIMO Foundation
 >
