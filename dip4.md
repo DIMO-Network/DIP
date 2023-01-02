@@ -178,7 +178,7 @@ Dec 7, 2022: added discussion forum and voting type to the DIP header.
 
 Dec 7, 2022: adjusted review date to give people more time to claim the Airdrop prior to voting going live.
 
-Dec 26: adjusted review data again to allow for fixes to delegation strategy prior to voting.
+Dec 26, 2023: adjusted review date again to allow for fixes to delegation strategy prior to voting.
 
 Dec 30: combined Micro and Standard Dongle to one category ("Dongle") and decreased minting price on all device categories.
 

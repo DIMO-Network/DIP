@@ -147,7 +147,9 @@ Dec 8, 2022: added clarity to the definition of circulating supply.
 
 Dec 8, 2022: added additional clarification invalid proposals related to money transfer.
 
-Dec 26: adjusted review data again to allow for fixes to delegation strategy prior to voting.
+Dec 26, 2023: adjusted review date again to allow for fixes to delegation strategy prior to voting.
+
+Jan 2, 2023: adjusted the terms around review period to remove the requirement for a full seven day review.
 
 ## Disclaimer
 
