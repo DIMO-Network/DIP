@@ -133,7 +133,7 @@ This rebate mechanism ensures that both integration providers and DIMO Integrati
 
 The DIMO Treasury keeps any $DIMO that isn't returned to the manufacturer.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Cost of Device Minting
 

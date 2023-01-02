@@ -25,7 +25,7 @@ The DIMO app ecosystem has five main components:&#x20;
 
 This proposal defines how Clients, Node Operators, and Apps & Data Consumers will form, remain in good standing, and interact with Users, their data, and the protocol itself.
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## **Motivation**
 
