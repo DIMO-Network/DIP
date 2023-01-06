@@ -6,7 +6,7 @@
 >
 > **Submitter**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review (until January 5th, 2022 at 5:00 UTC)
+> **Status**: Review (until January 10th, 2022 at 17:00 UTC)
 >
 > **Voting URL**: Pending
 >
@@ -16,7 +16,7 @@
 
 ## Abstract
 
-The DIMO app ecosystem has five main components:&#x20;
+The DIMO app ecosystem has several main parties:&#x20;
 
 * **Users**: connect their vehicles, generate data, use apps, and spend/earn $DIMO;&#x20;
 * **Clients**: provide interfaces for Users to interact with the protocol (e.g., [DIMO Mobile](https://onelink.to/dimo));&#x20;
@@ -91,7 +91,15 @@ They must:&#x20;
 * Comply with all local regulations;&#x20;
 * Only share data with recipients that the user has opted into sharing with per the parameters of the DIMO protocol;
 * Use best practices to protect User's and their data; and
-* Comply with [dip3.md](dip3.md "mention") wherever applicable.
+* Comply with other DIPs, particularly those that cover marketplace issuance and token burn, wherever applicable. As of the time this is written, that pertains to [dip3.md](dip3.md "mention").
+
+### Slashing & License Revocation&#x20;
+
+Through a governance vote, DIMO token holders have the ability alter the staking requirements. Licensees must be given thirty days to adjust their stake to the new level.
+
+Token holders are also able to suspend or revoke a Client, Node Operator, App, or Data Consumer's license through a valid governance vote if they violate the obligations specified above or there is demonstrable and material negligence or malice perpetrated by the licensee that harms users or the DIMO protocol generally.
+
+Any Client, Node Operator, App, or Data Consumer may renounce their license and receive back their staked $DIMO after six months.
 
 ### Temporary Licenses
 
@@ -114,6 +122,10 @@ The DIMO Foundation, "DIP-5: App Ecosystem", no. 5, December 2022. \[Online seri
 Dec 7, 2022: added discussion forum and voting type to the DIP header.
 
 Dec 7, 2022: adjusted review date to give people more time to claim the Airdrop prior to voting going live.
+
+Jan 6, 2023: final adjustment to review date — proposals go to vote on Tuesday Jan 10.
+
+Jan 6, 2023: adding clarifying language on the revocation of the licenses that matches DIP-4
 
 Dec 26, 2023: adjusted review date again to allow for fixes to delegation strategy prior to voting.
 

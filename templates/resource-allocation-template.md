@@ -34,10 +34,6 @@ Describe in detail the team's reason for being. Be as specific as you can withou
 
 Describe in detail your mission (how will you go about working towards your purpose). What is and isn’t in scope? What do you do and in which spaces do you operate? What don’t you do or where don’t you operate?
 
-### Key Risks
-
-What are the key risks associated with your plan? What is at stake in terms of: market position; brand; legal; financial; and community / culture.
-
 ### Execution Plan
 
 What have you executed on already? How will you achieve your goals and hit your financial plan? How will the team pull this off? What experience makes the team qualified? How will you structure and systematize accountability, organize tasks, leverage your connections, and achieve success?
@@ -67,6 +63,10 @@ Do you need any exclusive authorities or domains granted to your team (that woul
 ### Commitments to DIMO
 
 What is your team committing to in terms of performance, reporting, policy adherence, etc. on a temporary and ongoing basis? Examples: _Growth & Marketing_ reporting on impressions and committing to publishing 20 blog posts per quarter; _Core Platform_ committing to open source; _Hardware Ecosystem_ reporting on the performance statistics of licensed hardware providers.
+
+### Key Risks
+
+What are the key risks associated with your plan? What is at stake in terms of: market position; brand; legal; financial; and community / culture.
 
 ## Implementation
 

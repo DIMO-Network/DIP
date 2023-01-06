@@ -29,6 +29,7 @@ Below, you can see active proposals that $DIMO token holders can vote on now, pr
 | [3](https://docs.dimo.zone/governance/dip-3-marketplace-issuance-and-token-burn) | Marketplace Issuance & Token Burn | Review |
 | [4](dip4.md)                                                                     | Device Integrations               | Review |
 | [5](dip5.md)                                                                     | App Ecosystem                     | Review |
+| [6](dip6.md)                                                                     | The DIMO Foundation               | Review |
 
 ***
 

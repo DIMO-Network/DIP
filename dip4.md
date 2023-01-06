@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review (until January 5th, 2022 at 5:00 UTC)
+> **Status**: Review (until January 10th, 2022 at 17:00 UTC)
 >
 > **Voting URL**: Pending
 >
@@ -107,15 +107,17 @@ Licenses are NFTs that can only be minted or transferred by DIMO Integrations. T
 
 While it is preferred that the integration provider is the party putting up the stake, it is also possible for a financing partner, such as a distributor, to put up the stake on behalf of the manufacturer.&#x20;
 
-Should applicants not have $DIMO or not want to interact with tokens, they may purchase $DIMO from the Foundation and/or have the Foundation put up the stake on their behalf. The price of $DIMO should be 1 USD equivalent paid in a popular fiat currency (e.g., USD, EUR, GBP), ETH, BTC, or DAI.
+Should applicants not have $DIMO or not want to interact with tokens, they may purchase $DIMO from the Foundation and/or have the Foundation put up the stake on their behalf.
 
-The staking amount, as well as the exchange rate for $DIMO offered by the Foundation, may be altered by any future governance vote.
+The staking amount may be altered by any future governance vote.
 
 #### Slashing & License Revocation&#x20;
 
-If an integration provider violates their obligations as specified above, their license may be suspended or revoked. Any manufacturer may renounce their license and receive back their staked $DIMO after six months.
+Through a governance vote, DIMO token holders have the ability alter the manufacturer’s staking requirements. Manufacturers must be given thirty days to adjust their stake to the new level.
 
-Through a governance vote, DIMO token holders have the ability to ban devices from the network (e.g., if they’re not secure and provide false data), suspend or revoke a manufacturer’s license at any time, or increase the manufacturer’s staking requirement above the minimum 100,000 $DIMO.
+Token holders are also able to ban devices from the network (e.g., if they’re not secure and provide false data) and/or suspend or revoke a manufacturer’s license through a valid governance vote if they violate the obligations specified above or there is demonstrable and material negligence or malice perpetrated by the manufacturer that harms users or the DIMO protocol generally.
+
+Any manufacturer may renounce their license and receive back their staked $DIMO after six months.
 
 ### Connecting a Device to DIMO&#x20;
 
@@ -181,6 +183,12 @@ Dec 7, 2022: adjusted review date to give people more time to claim the Airdrop 
 Dec 26, 2023: adjusted review date again to allow for fixes to delegation strategy prior to voting.
 
 Dec 30: combined Micro and Standard Dongle to one category ("Dongle") and decreased minting price on all device categories.
+
+Jan 6, 2023: final adjustment to review date — proposals go to vote on Tuesday Jan 10.
+
+Jan 6, 2023: simplified the language on buying tokens from the DIMO Foundation and removed the preset exchange rate. Refer to [dip6.md](dip6.md "mention") for more on exchanging tokens with the Foundation.
+
+Jan 6, 2023: updated the language surrounding revoking a hardware manufacturer's license to include cause.
 
 ## Disclaimer
 

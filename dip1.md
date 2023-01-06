@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review (until January 5th, 2022 at 5:00 UTC)
+> **Status**: Review (until January 10th, 2022 at 17:00 UTC)
 >
 > **Voting URL**: Pending
 >
@@ -43,7 +43,7 @@ It is required that all DIPs include the following in a format similar to this o
 
       * _Review_ - for review and discussion by community (the author may still make changes);&#x20;
       * _Voting_ - in the process of being voted on;
-      * _Approved_ - vote concluded and proposal passed, but not been implemented yet;&#x20;
+      * _Approved_ - vote concluded and proposal passed, but not implemented yet;&#x20;
       * _Deployed -_ vote concluded and proposal passed and implemented;
       * _Failed_ - vote concluded and proposal failed to reach majority and/or quorum; or
       * _Withdrawn_ - sponsor(s) withdrew the proposal while it was in the _Review_ stage, prior to voting.
@@ -68,11 +68,11 @@ Due to current technical limitations, the DIMO Foundation must assist in posting
 
 ### **Proposal deliberation & withdrawal**
 
-DIPs that have been sponsored and introduced will be posted in the DIP Repo ([here](https://github.com/DIMO-Network/DIP)) and announced in the #📣annoucements channel in [Discord](https://discord.com/invite/dimonetwork). After a minimum of seven days (168 hours) of deliberation without withdrawal, the DIP goes to a vote. The sponsor(s) may extend the review period if they choose.
+DIPs that have been sponsored and introduced will be posted in the DIP Repo ([here](https://github.com/DIMO-Network/DIP)) and announced in the #📣announcements channel in [Discord](https://discord.com/invite/dimonetwork). After a the specified review period (ideally seven days) the DIP goes to a vote. The sponsor(s) may extend the review period if they choose.
 
-At any time prior to voting, if the proposals does not maintain the support of at least 5,000,000 $DIMO worth of voting power (because token holders undelegated their tokens from sponsors or sponsors publicly withdraw their support), the proposal status is changed to "Withdrawn". Once the proposal reaches full sponsorship again, if ever, it will go back into _Review_, an announcement will go out in #📣annoucements, and the seven day deliberation window begins again.
+At any time prior to voting, if the proposals does not maintain the support of at least 5,000,000 $DIMO worth of voting power (because token holders undelegated their tokens from sponsors or sponsors publicly withdraw their support), the proposal status is changed to "Withdrawn". Once the proposal reaches full sponsorship again, if ever, it will go back into _Review_, an announcement will go out in #📣announcements, and the review period begins again.
 
-Authors may make edits to a proposal that has already been put into _Review_. Any edits should be summarized in the changelog section. If the edits have major effects on the purpose, interpretation, or implementation of the DIP, it is highly encouraged to reset the seven day review window and notify the community with an update in #📣annoucements. Edits should not completely scrap the original proposal and replace it with something new (e.g., edit the proposal to go from a vote on the DIMO logo to a vote on token issuance). To do this, withdraw the DIP and submit a new one.
+Authors may make edits to a proposal that has already been put into _Review_. Any edits should be summarized in the changelog section. If the edits have major effects on the purpose, interpretation, or implementation of the DIP, it is highly encouraged to reset the seven day review window and notify the community with an update in #📣announcements. Edits should not completely scrap the original proposal and replace it with something new (e.g., edit the proposal to go from a vote on the DIMO logo to a vote on token issuance). To do this, withdraw the DIP and submit a new one.
 
 ### **Voting protocol**
 
@@ -121,7 +121,7 @@ To determine the outcome, we only look at the state of the vote at the moment th
 
 ## Implementation
 
-If passed, this DIP-1 will be in effect immediately after the four day timelock concludes.
+If passed, this DIP will be in effect immediately after the four day timelock concludes.
 
 ## Copyright
 
@@ -146,6 +146,12 @@ Dec 8, 2022: altered quorum thresholds based on data points from other projects.
 Dec 8, 2022: added clarity to the definition of circulating supply.
 
 Dec 8, 2022: added additional clarification invalid proposals related to money transfer.
+
+Dec 26, 2023: adjusted review date again to allow for fixes to delegation strategy prior to voting.
+
+Jan 2, 2023: adjusted the terms around review period to remove the requirement for a full seven day review.
+
+Jan 6, 2023: final adjustment to review date — proposals go to vote on Tuesday Jan 10.
 
 Dec 26, 2023: adjusted review date again to allow for fixes to delegation strategy prior to voting.
 
