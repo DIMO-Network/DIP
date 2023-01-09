@@ -34,23 +34,31 @@ The DIMO Foundation has been formed to help DIMO navigate the challenges of oper
 
 The power and importance of the DIMO Foundation should shrink over time as DIMO matures and regulations evolve.&#x20;
 
-### Execution Plan
+### Execution Plan & Team Operating Structure
 
-The DIMO Foundation has engaged highly qualified directors and experienced professionals to assist in the operation of the Foundation and advancement of DIMO.&#x20;
+The DIMO Foundation is controlled by professional directors registered with the Cayman Islands Monetary Authority (CIMA) with extensive legal, financial, and blockchain experience. More information on the structure of the foundation can be found at [DIMO Foundation Information](https://app.gitbook.com/o/IDM0isB8NflgM8HmoQc9/s/XrD4OPpblYqPDIzou05o/ "mention").
 
 Notably, Digital Infrastructure Inc., the corporation that initially developed DIMO, continues to contribute under a services agreement. The DIMO Foundation and community will continue to engage various contributors across many companies and geographies to build a distributed network of teams helping to build DIMO.
 
-### Operating Goals & Metrics
-
-Coming soon. Check back Monday.
-
 ### Financial Plan & Ask
 
-Coming soon. Check back Monday.
+#### Resources
 
-### Team Operating Structure & Members
+The Foundation currently has 1,127,503.27 $DAI in its [Wallets](https://app.gitbook.com/s/XrD4OPpblYqPDIzou05o/wallets "mention"), which is what remains of the 1,250,000 $DAI donated by Digital Infrastructure Inc.&#x20;
 
-The DIMO Foundation is controlled by professional directors registered with the Cayman Islands Monetary Authority (CIMA) with extensive legal, financial, and blockchain experience. More information on the structure of the foundation can be found at [DIMO Foundation Information](https://app.gitbook.com/o/IDM0isB8NflgM8HmoQc9/s/XrD4OPpblYqPDIzou05o/ "mention").
+The Foundation is actively working to open up a bank account and would convert some of that $DAI to fiat US dollars.
+
+#### Budget
+
+The DIMO Foundation anticipates spending approximately $800,000 in 2023. $200,000 of that would be on administrative overhead, including directors salaries, legal fees, insurance, KYC services, technology subscriptions, and more. Another $600,000 would be to compensate contributors who build and grow the DIMO protocol. Digital Infrastructure Inc. is under contract to provide services at $150 per hour and is expected to be the largest such contributor.
+
+To leave some extra buffer for the unexpected, **this proposal gives the DIMO Foundation the authority to spend up to 1,000,000 in USD equivalent in 2023 for relevant operations**.
+
+#### Treasury Initiatives
+
+Additionally, this proposal authorizes the DIMO Foundation to sell up to 5,000,000 $DIMO tokens and to loan up to 50,000,000 $DIMO tokens to market makers. The Foundation will make its best effort to balance regulatory, financial, and strategic considerations to maximize the long-term health of the DIMO protocol.
+
+These tokens would come from the [unallocated treasury pool](https://docs.dimo.zone/overview/dimotoken/token-details-and-distribution) of 250,000,000 $DIMO.&#x20;
 
 ### Authority & Domain
 
@@ -107,7 +115,7 @@ The DIMO Foundation, "DIP-6: The DIMO Foundation", no. 6, January 2023. \[Online
 
 ## Changelog
 
-
+Jan 9, 2023: added financial ask section and combined execution plan and team operating structure sections
 
 ## Disclaimer
 

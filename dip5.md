@@ -73,7 +73,7 @@ Clients, Nodes, Apps, and Data Consumers must stake $DIMO, or must have someone 
 
 **Data Consumers**: No stake required.
 
-Should applicants not have $DIMO or not want to interact with tokens, they may purchase $DIMO from the Foundation and/or have the Foundation put up the stake on their behalf. The price of $DIMO should be 1 USD equivalent paid in a popular fiat currency (e.g., USD, EUR, GBP), ETH, BTC, or DAI.
+Should applicants not have $DIMO or not want to interact with tokens, they may purchase $DIMO from the Foundation and/or have the Foundation put up the stake on their behalf.
 
 The amounts for staking, as well as the exchange rate for $DIMO offered by the Foundation, may be altered by any future governance vote.
 
@@ -123,11 +123,13 @@ Dec 7, 2022: added discussion forum and voting type to the DIP header.
 
 Dec 7, 2022: adjusted review date to give people more time to claim the Airdrop prior to voting going live.
 
+Dec 26, 2023: adjusted review date again to allow for fixes to delegation strategy prior to voting.
+
 Jan 6, 2023: final adjustment to review date — proposals go to vote on Tuesday Jan 10.
 
 Jan 6, 2023: adding clarifying language on the revocation of the licenses that matches DIP-4
 
-Dec 26, 2023: adjusted review date again to allow for fixes to delegation strategy prior to voting.
+Jan 6, 2023: simplified the language on buying tokens from the DIMO Foundation and removed the preset exchange rate. Refer to [dip6.md](dip6.md "mention") for more on exchanging tokens with the Foundation.
 
 ## Disclaimer
 
