@@ -22,14 +22,14 @@ Below, you can see active proposals that $DIMO token holders can vote on now, pr
 
 **Community review:** [DIP-1](dip1.md), [DIP-2](dip2.md), [DIP-3](https://docs.dimo.zone/governance/dip-3-marketplace-issuance-and-token-burn), [DIP-4](dip4.md), [DIP-5](dip5.md)
 
-| DIP#                                                                             | Title                             | Status |
-| -------------------------------------------------------------------------------- | --------------------------------- | ------ |
-| [1](dip1.md)                                                                     | Governance Guidelines             | Review |
-| [2](dip2.md)                                                                     | Baseline Issuance                 | Review |
-| [3](https://docs.dimo.zone/governance/dip-3-marketplace-issuance-and-token-burn) | Marketplace Issuance & Token Burn | Review |
-| [4](dip4.md)                                                                     | Device Integrations               | Review |
-| [5](dip5.md)                                                                     | Ecosystem                         | Review |
-| [6](dip6.md)                                                                     | The DIMO Foundation               | Review |
+| DIP#                                                                             | Title                             | Status                                                                                                                |
+| -------------------------------------------------------------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| [1](dip1.md)                                                                     | Governance Guidelines             | [Voting](https://snapshot.org/#/dimo.eth/proposal/0x74f67d2da46e74e190063932f7b6a27fdafc7fa368ee5a275335db3a9e666499) |
+| [2](dip2.md)                                                                     | Baseline Issuance                 | [Voting](https://snapshot.org/#/dimo.eth/proposal/0x74f67d2da46e74e190063932f7b6a27fdafc7fa368ee5a275335db3a9e666499) |
+| [3](https://docs.dimo.zone/governance/dip-3-marketplace-issuance-and-token-burn) | Marketplace Issuance & Token Burn | [Voting](https://snapshot.org/#/dimo.eth/proposal/0x74f67d2da46e74e190063932f7b6a27fdafc7fa368ee5a275335db3a9e666499) |
+| [4](dip4.md)                                                                     | Device Integrations               | [Voting](https://snapshot.org/#/dimo.eth/proposal/0x74f67d2da46e74e190063932f7b6a27fdafc7fa368ee5a275335db3a9e666499) |
+| [5](dip5.md)                                                                     | Ecosystem                         | [Voting](https://snapshot.org/#/dimo.eth/proposal/0x74f67d2da46e74e190063932f7b6a27fdafc7fa368ee5a275335db3a9e666499) |
+| [6](dip6.md)                                                                     | The DIMO Foundation               | [Voting](https://snapshot.org/#/dimo.eth/proposal/0x74f67d2da46e74e190063932f7b6a27fdafc7fa368ee5a275335db3a9e666499) |
 
 ***
 
