@@ -42,7 +42,7 @@ A Node is an entity that receives data from devices and, after validating it aga
 
 Nodes may receive data from several protocols, such as UDP, MQTT, or Streamr Network. All data they receive must be encrypted in transit and at rest. Both Nodes and the businesses that they serve must always comply with relevant privacy regulations (e.g., GDPR). **Node operators may only share data with licensed Data Subscribers per the explicit terms of a user's active opt-in**.
 
-Nodes are to DIMO what Infura or Alchemy are to Ethereum.
+Nodes are to DIMO what Infura or Alchemy are to Ethereum. They provide API's and interfaces that can be used to access data, and the on-chain indexer.
 
 ### Data Subscribers&#x20;
 
