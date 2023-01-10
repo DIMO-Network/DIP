@@ -40,9 +40,11 @@ The goal of this proposal is to put in place a framework that can safely and eff
 
 A Node is an entity that receives data from devices and, after validating it against proof of movement, makes it available to Data Subscribers. These entities are responsible for forming and upholding agreements that protect user privacy and enable DIMO applications.&#x20;
 
-Nodes may receive data from several protocols, such as UDP, MQTT, or Streamr Network. All data they receive must be encrypted in transit and at rest. Both Nodes and the businesses that they serve must always comply with relevant privacy regulations (e.g., GDPR). **Node operators may only share data with licensed Data Subscribers per the explicit terms of a user's active opt-in**.
+Nodes may receive data from several protocols, such as UDP, MQTT, or Streamr Network. They provide API's and interfaces that can be used to access data, and the on-chain indexer.
 
-Nodes are to DIMO what Infura or Alchemy are to Ethereum. They provide API's and interfaces that can be used to access data, and the on-chain indexer.
+All data they receive must be encrypted in transit and at rest. Both Nodes and the businesses that they serve must always comply with relevant privacy regulations (e.g., GDPR). **Node operators may only share data with licensed Data Subscribers per the explicit terms of a user's active opt-in**. In other words, any Data Subscriber must receive an explicit signature from a user's wallet in order to receive their data.
+
+Nodes are to DIMO what Infura or Alchemy are to Ethereum.&#x20;
 
 ### Data Subscribers&#x20;
 
