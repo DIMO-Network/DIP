@@ -125,7 +125,7 @@ Any manufacturer may renounce their license and receive back their staked $DIMO 
 
 For physical hardware, licensed manufacturers pay a set amount of $DIMO to mint a device and enable it to connect to the $DIMO network.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The $DIMO payment is set aside. Each month that the connection persists, the integration provider receives some of that $DIMO back as rebate for twenty four months until they earn back 70%.&#x20;
 
@@ -141,14 +141,10 @@ The DIMO Treasury keeps any $DIMO that isn't returned to the manufacturer.
 
 The amount of DIMO required for device minting varies by device type.
 
-| Type          | Description                                                                                             | Cost (in $DIMO) |
-| ------------- | ------------------------------------------------------------------------------------------------------- | --------------- |
-| Software Only | Leverages existing vehicle subscription programs and their APIs to establish a baseline of connectivity | 0               |
-| Dongle        | Records vehicle data from the CAN bus, stand-alone connectivity                                         | 25              |
-| Hub           | IoT hub that enables long term local storage and backup of data.                                        | 50              |
-| Dash Camera   | Device that records camera footage and possibly other telemetry                                         | 50              |
-| Fleet Device  | Telemetry devices designed for commercial use                                                           | 75              |
-| AI Device     | Device that supplements enhanced driving features (e.g., Comma AI)                                      | 75              |
+| Type      | Description                                                                                             | Cost (in $DIMO) |
+| --------- | ------------------------------------------------------------------------------------------------------- | --------------- |
+| Software  | Leverages existing vehicle subscription programs and their APIs to establish a baseline of connectivity | 0               |
+| Hardware  | New hardware that users and purchase and install in their vehicle.                                      | 25              |
 
 Similar to the stake required for licensing, device minting costs may be covered by financing partners, such as a distributor.&#x20;
 
@@ -189,6 +185,8 @@ Jan 6, 2023: final adjustment to review date — proposals go to vote on Tuesday
 Jan 6, 2023: simplified the language on buying tokens from the DIMO Foundation and removed the preset exchange rate. Refer to [dip6.md](dip6.md "mention") for more on exchanging tokens with the Foundation.
 
 Jan 6, 2023: updated the language surrounding revoking a hardware manufacturer's license to include cause.
+
+Jan 9, 2023: made device minting cost 25 $DIMO for all device types for now
 
 ## Disclaimer
 

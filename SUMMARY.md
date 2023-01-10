@@ -5,7 +5,7 @@
 * [DIP-2: Baseline Issuance](dip2.md)
 * [DIP-3: Marketplace Issuance & Token Burn](dip3.md)
 * [DIP-4: Device Integrations](dip4.md)
-* [DIP-5: App Ecosystem](dip5.md)
+* [DIP-5: Ecosystem](dip5.md)
 * [DIP-6: The DIMO Foundation](dip6.md)
 
 ## Templates

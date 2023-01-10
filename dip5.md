@@ -1,4 +1,4 @@
-# DIP-5: App Ecosystem
+# DIP-5: Ecosystem
 
 > **Headline**: How Clients, Nodes, Apps, and Data Consumers get licensed to access User data
 >
@@ -18,60 +18,67 @@
 
 The DIMO app ecosystem has several main parties:&#x20;
 
-* **Users**: connect their vehicles, generate data, use apps, and spend/earn $DIMO;&#x20;
-* **Clients**: provide interfaces for Users to interact with the protocol (e.g., [DIMO Mobile](https://onelink.to/dimo));&#x20;
-* **Nodes**: receive IoT device data from Users and serve it to licensed apps and data customers; and
-* **Apps & Data Consumers**: build products that pay node operators for User data and connectivity.
+* **Data Publishers**: Users connect their devices via hardware and software connections;&#x20;
+* **Nodes**: receive data from users, validate it, issue proofs of data validity, and serve it to licensed apps and data customers; and
+* **Data Subscribers**: Products that make use of user data and connectivity.
 
-This proposal defines how Clients, Node Operators, and Apps & Data Consumers will form, remain in good standing, and interact with Users, their data, and the protocol itself.
+This proposal defines how Nodes, and Data Subscribers will form, remain in good standing, and interact with users, their data, and the protocol itself. Data publishers are addressed in [dip4.md](dip4.md "mention").
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<img src=".gitbook/assets/file.drawing (8).svg" alt="" class="gitbook-drawing">
 
 ## **Motivation**
 
 The goal of this proposal is to put in place a framework that can safely and effectively grow the number of:&#x20;
 
 * Users who will share their data, protect their privacy, spend money in the marketplace and earn rewards;&#x20;
-* App developers who build applications that make use of User data and connectivity; and&#x20;
-* Service Providers who use apps to help Users solve problems and save money.&#x20;
+* Number of node runners that make the data easily accessible and provably valid;
+* App developers who build applications that make use of the data and connectivity;
 
 ## Specifications&#x20;
 
-### Clients&#x20;
-
-A client is a type of application that allows Users to interact directly with the DIMO protocol. Typically, this will mean creating and managing their account, creating and managing their vehicle identity, adding and removing credentials in their identity glovebox (e.g., insurance and registration), adding and removing telemetry devices, and viewing back their own data. Clients are to DIMO what Metamask and Rainbow Wallet are to Ethereum. [DIMO Mobile](https://onelink.to/dimo) is an example of a client.
-
 ### Nodes&#x20;
 
-A Node is an entity that receives data from Users and makes it available to Clients, Apps, and Data Consumers. These entities are responsible for forming and upholding agreements that protect User privacy and enable DIMO applications. Nodes are to DIMO what Infura or Alchemy are to Ethereum. [DIMO Explorer](https://explorer.dimo.zone/) is an example of a Node.
+A Node is an entity that receives data from devices and, after validating it against proof of movement, makes it available to Data Subscribers. These entities are responsible for forming and upholding agreements that protect user privacy and enable DIMO applications.&#x20;
 
-All stored User data must be encrypted in transit and at rest. Both nodes and the businesses that they serve must always comply with relevant privacy regulations (e.g., GDPR). **Node operators may only share data with licensed Clients, Apps, and Data Consumers per the explicit terms of a User's opt-in**.
+Nodes may receive data from several protocols, such as UDP, MQTT, or Streamr Network. All data they receive must be encrypted in transit and at rest. Both Nodes and the businesses that they serve must always comply with relevant privacy regulations (e.g., GDPR). **Node operators may only share data with licensed Data Subscribers per the explicit terms of a user's active opt-in**.
 
-### Apps & Data Consumer&#x20;
+Nodes are to DIMO what Infura or Alchemy are to Ethereum.
 
-Apps & Data Consumers are services that provide utility and rewards to Users.&#x20;
+### Data Subscribers&#x20;
 
-Some examples of Apps include peer-to-peer car rentals, efficient online car marketplaces, defi auto lending, smart insurance, and web3 ride hailing. Uber, Geico, eBay Motors, and Hertz could be rebuilt as leaner, cheaper, and more effective protocols on top of DIMO.&#x20;
+Data Subscribers are entities that offer services to users (e.g., a refinancing app) and/or pay users for data (e.g., an electric vehicle R\&D company).
 
-Data Consumers may be businesses who pay for User data.
+#### Clients&#x20;
+
+A client is a type of application that allows users to interact directly with the DIMO protocol. Typically, this will mean creating and managing their account, creating and managing their vehicle identity, adding and removing credentials in their identity glovebox (e.g., insurance and registration), adding and removing telemetry devices, and viewing back their own data.&#x20;
+
+Clients are to DIMO what Metamask and Rainbow Wallet are to Ethereum. [DIMO Mobile](https://onelink.to/dimo) is an example of a client.
+
+#### Applications&#x20;
+
+An application is a like a light client. It allows users to gain additional value from the protocol by leveraging the data from their vehicle. It will read data and issue commands, but does not mint new vehicles and manage vehicle connections (e.g., pairing a hardware device). Typically this will mean logging in with DIMO to the application and allowing it to access your vehicle data, where the application extends the available insights, enables new savings, or new features on top of the protocol.&#x20;
+
+Some examples of apps include peer-to-peer car rentals, efficient online car marketplaces, defi auto lending, smart insurance, and web3 ride hailing. Uber, Geico, eBay Motors, and Hertz could be rebuilt as leaner, cheaper, and more effective protocols on top of DIMO. [DIMO Explorer](https://explorer.dimo.zone) is an  example of an application.&#x20;
+
+#### Data Consumers
+
+A data consumer is an entity that subscribes to user data. Various businesses will want to purchase traffic, battery, self-driving, video, and other telemetry data. McKinsey published an  overview on the value of data consumption [here](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/unlocking-the-full-life-cycle-value-from-connected-car-data).
 
 ### Licensing
 
 Prospective Clients and Nodes may receive a license by passing a DIP using the [License Approval Template](templates/license-approval-template.md).
 
-Apps and Data Consumers do not require a governance vote to receive a license, but must comply with all terms in the Obligations and Staking sections in order to interact with DIMO Users and their data.&#x20;
+Applications and Data Consumers do not require a governance vote to receive a developer license, but must comply with all terms in the Obligations and Staking sections in order to interact with DIMO Users and their data. The DIMO Foundation is able to issue developer licenses in its discretion.
 
 ### Staking
 
-Clients, Nodes, Apps, and Data Consumers must stake $DIMO, or must have someone do it on their behalf. If a staker violates their obligations as specified below, their license may be suspended or revoked. They may renounce their license and receive back their staked deposit six months later.
-
-**Clients**: Must stake 20,000 $DIMO as a one-time deposit.
+Clients, Nodes, Applications, and Data Consumers must stake $DIMO (or must have someone do it on their behalf) as defined below. If a staker violates their obligations as specified below, their license may be suspended or revoked. They may renounce their license and receive back their staked deposit six months later.
 
 **Nodes**: Must stake 500,000 $DIMO as a one-time deposit.
 
-**Apps**: There is no stake required if the app has fewer than 40,000 Users. After exceeding this threshold, Apps must stake 10,000 $DIMO per 40,000 Users.
+**Clients**: Must stake 20,000 $DIMO as a one-time deposit.
 
-**Data Consumers**: No stake required.
+**Applications & Data Consumers**: Do not need to stake $DIMO for now.
 
 Should applicants not have $DIMO or not want to interact with tokens, they may purchase $DIMO from the Foundation and/or have the Foundation put up the stake on their behalf.
 
@@ -97,15 +104,15 @@ They must:&#x20;
 
 Through a governance vote, DIMO token holders have the ability alter the staking requirements. Licensees must be given thirty days to adjust their stake to the new level.
 
-Token holders are also able to suspend or revoke a Client, Node Operator, App, or Data Consumer's license through a valid governance vote if they violate the obligations specified above or there is demonstrable and material negligence or malice perpetrated by the licensee that harms users or the DIMO protocol generally.
-
-Any Client, Node Operator, App, or Data Consumer may renounce their license and receive back their staked $DIMO after six months.
+Token holders are also able to suspend or revoke licenses through a valid governance vote if the licensee violates the obligations specified above or there is demonstrable and material negligence or malice perpetrated that harms users or the DIMO protocol generally.
 
 ### Temporary Licenses
 
-For six months after the passage of this DIP, the following companies are have a temporary license. Following six months, they will need to apply for a permanent license per the process defined above.
+For six months after the passage of this DIP, the following companies are have a temporary license. Following twelve months, they will need to apply for a permanent license per the process defined above.
 
-* Digital Infrastructure Inc is licensed to operate the Client: [DIMO Mobile](https://onelink.to/dimo) Client and the Node: [DIMO Explorer](https://explorer.dimo.zone/).
+* Digital Infrastructure Inc is licensed to operate:
+  * Node: [DIMO Web Services](https://devices-api.dimo.zone)
+  * Client: [DIMO Mobile](https://onelink.to/dimo)
 
 ## Implementation
 
@@ -130,6 +137,8 @@ Jan 6, 2023: final adjustment to review date — proposals go to vote on Tuesday
 Jan 6, 2023: adding clarifying language on the revocation of the licenses that matches DIP-4
 
 Jan 6, 2023: simplified the language on buying tokens from the DIMO Foundation and removed the preset exchange rate. Refer to [dip6.md](dip6.md "mention") for more on exchanging tokens with the Foundation.
+
+Jan 9, 2023: altered labels and language to increase clarity. Simplified requirements for Applications and Data consumers. Extended the duration of Digital Infrastructure Inc's licenses.
 
 ## Disclaimer
 
