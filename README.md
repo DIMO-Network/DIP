@@ -18,9 +18,9 @@ We recommend using [this website](https://delegate.dimo.zone/) to easily delegat
 
 Below, you can see active proposals that $DIMO token holders can vote on now, proposals that are receiving feedback and aren't ready for voting yet, and the entire index of all DIPs passed and failed. You may view DIPs on [Github](https://github.com/DIMO-Network/DIP) or [Gitbook](https://docs.dimo.zone/dips). The official discussion forum for DIMO governance is the [Discord](https://chat.dimo.zone).
 
-**Voting active for:** none
+**Voting active for:** [DIP-1](dip1.md), [DIP-2](dip2.md), [DIP-3](https://docs.dimo.zone/governance/dip-3-marketplace-issuance-and-token-burn), [DIP-4](dip4.md), [DIP-5](dip5.md), [DIP-6](https://docs.dimo.zone/governance/dip6)
 
-**Community review:** [DIP-1](dip1.md), [DIP-2](dip2.md), [DIP-3](https://docs.dimo.zone/governance/dip-3-marketplace-issuance-and-token-burn), [DIP-4](dip4.md), [DIP-5](dip5.md)
+**Community review**: none
 
 | DIP#                                                                             | Title                             | Status                                                                                                                |
 | -------------------------------------------------------------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
