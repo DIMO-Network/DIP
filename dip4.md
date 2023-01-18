@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Voting (until January 17th, 2022 at 17:00 UTC)
+> **Status**: Deployed
 >
 > **Voting URL**: [Snapshot](https://snapshot.org/#/dimo.eth/proposal/0x74f67d2da46e74e190063932f7b6a27fdafc7fa368ee5a275335db3a9e666499)
 >
@@ -101,7 +101,7 @@ Hardware Only&#x20;
 
 #### Licenses & Staking&#x20;
 
-Licenses are NFTs that can only be minted or transferred by DIMO Integrations. These certify the integration provider meets all required qualifications required and has been whitelisted for the production of compatible devices. After receiving a license, the integration provider is required to submit a deposit of 100,000 $DIMO tokens (the “stake”). For more on how this works, see [License NFT](https://app.gitbook.com/s/fmY0p4toAb7e89toAV2R/protocol/license-nft "mention").
+Licenses are NFTs that can only be minted or transferred by DIMO Integrations. These certify the integration provider meets all required qualifications required and has been whitelisted for the production of compatible devices. After receiving a license, the integration provider is required to submit a deposit of 100,000 $DIMO tokens (the “stake”). For more on how this works, see [License](https://app.gitbook.com/s/fmY0p4toAb7e89toAV2R/smart-contracts/license "mention").
 
 ![](<.gitbook/assets/image (6).png>)
 
