@@ -20,20 +20,21 @@ Below, you can see active proposals that $DIMO token holders can vote on now, pr
 
 **Voting active for:** none
 
-**Community review**: [DIP-1: Amendment 1](amendments/dip-1-amendment-1.md)
+**Community review**: [DIP-1: Amendment 1](amendments/dip1a1.md), [DIP-6: Amendment 1](amendments/dip6a1.md)
 
-| DIP#                                                                             | Title                             | Status   |
-| -------------------------------------------------------------------------------- | --------------------------------- | -------- |
-| [1](dip1.md)                                                                     | Governance Guidelines             | Deployed |
-| [2](dip2.md)                                                                     | Baseline Issuance                 | Deployed |
-| [3](https://docs.dimo.zone/governance/dip-3-marketplace-issuance-and-token-burn) | Marketplace Issuance & Token Burn | Deployed |
-| [4](dip4.md)                                                                     | Device Integrations               | Deployed |
-| [5](dip5.md)                                                                     | Ecosystem                         | Deployed |
-| [6](dip6.md)                                                                     | The DIMO Foundation               | Deployed |
+| Title                                               | Status   |
+| --------------------------------------------------- | -------- |
+| [DIP-1: Governance Guidelines](dip1.md)             | Deployed |
+| [DIP-2: Baseline Issuance](dip2.md)                 | Deployed |
+| [DIP-3: Marketplace Issuance & Token Burn](dip3.md) | Deployed |
+| [DIP-4: Device Integrations](dip4.md)               | Deployed |
+| [DIP-5: Ecosystem](dip5.md)                         | Deployed |
+| [DIP-6: The DIMO Foundation](amendments/dip6a1.md)  | Deployed |
 
-| Amendment          | Status |
-| ------------------ | ------ |
-| DIP-1: Amendment 1 | Review |
+| Amendment                                  | Status |
+| ------------------------------------------ | ------ |
+| [DIP-1: Amendment 1](amendments/dip1a1.md) | Review |
+| [DIP-6: Amendment 1](amendments/dip6a1.md) | Review |
 
 ***
 

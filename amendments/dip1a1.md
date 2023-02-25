@@ -36,7 +36,7 @@ If passed, this proposal would append the following to the end of the DIP-1 Spec
 
 #### <mark style="color:red;">If amending a DIP</mark>
 
-<mark style="color:red;">The proposal must clearly specify exactly where and how the DIP should be amended to leave zero ambiguity as to how changes would be implemented in the original document if the proposal were to pass. The amendment proposal should use a red font to denote the text that will be inserted into the original DIP and red font with a strikethrough to denote the text that will be deleted. See</mark> [dip-1-amendment-1.md](dip-1-amendment-1.md "mention") <mark style="color:red;">for an example of this formatting.</mark>
+<mark style="color:red;">The proposal must clearly specify exactly where and how the DIP should be amended to leave zero ambiguity as to how changes would be implemented in the original document if the proposal were to pass. The amendment proposal should use a red font to denote the text that will be inserted into the original DIP and red font with a strikethrough to denote the text that will be deleted. See</mark> [dip1a1.md](dip1a1.md "mention") <mark style="color:red;">for an example of this formatting.</mark>
 
 <mark style="color:red;">The amendment need not specify the language for the changelog, however the editor must note and link to the amendment in a new changelog entry once implemented.</mark>&#x20;
 
@@ -60,7 +60,7 @@ Copyright and related rights waived via [CC0](https://creativecommons.org/public
 
 Please cite this document as:
 
-The DIMO Foundation, " DIP 1 Amendment 1", no. 1A1, February 2023. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
+The DIMO Foundation, " DIP 1 Amendment 1", February 2023. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
 
 ## Changelog
 

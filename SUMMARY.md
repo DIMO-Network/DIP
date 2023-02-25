@@ -10,7 +10,8 @@
 
 ## Amendments
 
-* [DIP-1: Amendment 1](amendments/dip-1-amendment-1.md)
+* [DIP-1: Amendment 1](amendments/dip1a1.md)
+* [DIP-6: Amendment 1](amendments/dip6a1.md)
 
 ## Templates
 
