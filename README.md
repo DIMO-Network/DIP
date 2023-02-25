@@ -22,7 +22,7 @@ Below, you can see active proposals that $DIMO token holders can vote on now, pr
 
 **Community review**: [DIP-1: Amendment 1](amendments/dip1a1.md), [DIP-6: Amendment 1](amendments/dip6a1.md)
 
-| Title                                               | Status   |
+| DIMO Improvement Proposals                          | Status   |
 | --------------------------------------------------- | -------- |
 | [DIP-1: Governance Guidelines](dip1.md)             | Deployed |
 | [DIP-2: Baseline Issuance](dip2.md)                 | Deployed |
