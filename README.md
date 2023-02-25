@@ -14,13 +14,13 @@ We recommend using [this website](https://delegate.dimo.zone/) to easily delegat
 * _To delegate your voting power to someone we recommend_, click the "Delegate" button under that person name on their card, click "Confirm", then execute the transaction in your wallet
 * _To delegate your voting power to anyone else_, enter their wallet address in the large input field at the top, click the "Delegate" button right next to it, then execute the transaction in your wallet
 
-### Pending and Past Proposals
+### DIMO Improvement Proposals
 
 Below, you can see active proposals that $DIMO token holders can vote on now, proposals that are receiving feedback and aren't ready for voting yet, and the entire index of all DIPs passed and failed. You may view DIPs on [Github](https://github.com/DIMO-Network/DIP) or [Gitbook](https://docs.dimo.zone/dips). The official discussion forum for DIMO governance is the [Discord](https://chat.dimo.zone).
 
 **Voting active for:** none
 
-**Community review**: none
+**Community review**: [DIP-1: Amendment 1](amendments/dip-1-amendment-1.md)
 
 | DIP#                                                                             | Title                             | Status   |
 | -------------------------------------------------------------------------------- | --------------------------------- | -------- |
@@ -30,6 +30,10 @@ Below, you can see active proposals that $DIMO token holders can vote on now, pr
 | [4](dip4.md)                                                                     | Device Integrations               | Deployed |
 | [5](dip5.md)                                                                     | Ecosystem                         | Deployed |
 | [6](dip6.md)                                                                     | The DIMO Foundation               | Deployed |
+
+| Amendment          | Status |
+| ------------------ | ------ |
+| DIP-1: Amendment 1 | Review |
 
 ***
 

@@ -8,6 +8,10 @@
 * [DIP-5: Ecosystem](dip5.md)
 * [DIP-6: The DIMO Foundation](dip6.md)
 
+## Amendments
+
+* [DIP-1: Amendment 1](amendments/dip-1-amendment-1.md)
+
 ## Templates
 
 * [Basic Template](templates/basic-template.md)

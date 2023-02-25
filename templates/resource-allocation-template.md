@@ -9,6 +9,10 @@
 > **Status**: Review
 >
 > **Voting URL**: Pending
+>
+> **Discussion Forum**: [Discord](https://chat.dimo.zone) #🗳️governance forum
+>
+> **Vote Type**: Level \[1-3]
 
 ## Abstract
 
