@@ -34,9 +34,7 @@ If passed, this proposal would edit the following section within the DIP-6 Speci
 
 #### Treasury Initiatives
 
-Additionally, this proposal authorizes the DIMO Foundation to sell up to <mark style="color:red;">25,000,000</mark> <mark style="color:red;"></mark>~~<mark style="color:red;">5,000,000</mark>~~ $DIMO tokens and to loan up to <mark style="color:red;">25,000,000</mark> <mark style="color:red;"></mark>~~<mark style="color:red;">50,000,000</mark>~~ $DIMO tokens to market makers. The Foundation will make its best effort to balance regulatory, financial, and strategic considerations to maximize the long-term health of the DIMO protocol.
-
-These tokens would come from the [unallocated treasury pool](https://docs.dimo.zone/overview/dimotoken/token-details-and-distribution) of 250,000,000 $DIMO.&#x20;
+Additionally, this proposal authorizes the DIMO Foundation to sell up to <mark style="color:red;">25,000,000</mark> <mark style="color:red;"></mark>~~<mark style="color:red;">5,000,000</mark>~~ $DIMO tokens and to loan up to <mark style="color:red;">25,000,000</mark> <mark style="color:red;"></mark>~~<mark style="color:red;">50,000,000</mark>~~ $DIMO tokens to market makers. ...
 
 ## Implementation
 
