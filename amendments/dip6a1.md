@@ -20,7 +20,7 @@ This proposal would repurpose tokens set aside for market making to instead be a
 
 Specifically, DIP-6 previously authorized the DIMO Foundation to sell 5,000,000 $DIMO tokens and loan 50,000,000 $DIMO for market making activity.&#x20;
 
-This proposal would redraw these allocations such that the DIMO Foundation is authorized to sell 25,000,000 $DIMO to investors and strategic partners and is authorized to loan 25,000,000 $DIMO to market makers. The remaining 5,000,000 $DIMO are unallocated and returned the treasury.
+This proposal would redraw these allocations such that the DIMO Foundation is authorized to sell 25,000,000 $DIMO to investors and strategic partners and is authorized to loan 25,000,000 $DIMO to market makers. The 5,000,000 $DIMO left over are unallocated and returned the treasury.
 
 ## Motivation
 
