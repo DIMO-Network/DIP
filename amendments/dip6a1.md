@@ -8,7 +8,7 @@
 >
 > **Status**: Review (until March 3, 2023 at 12:00 UTC)
 >
-> **Voting URL**: [Snapshot](https://snapshot.org/#/dimo.eth/proposal/0x74f67d2da46e74e190063932f7b6a27fdafc7fa368ee5a275335db3a9e666499)
+> **Voting URL**: Pending
 >
 > **Discussion Forum**: [Discord](https://chat.dimo.zone) #🗳️governance forum
 >
@@ -18,9 +18,17 @@
 
 This proposal would repurpose tokens set aside for market making to instead be authorized for direct sale and other initiatives.&#x20;
 
-Specifically, DIP-6 previously authorized the DIMO Foundation to sell 5,000,000 $DIMO tokens and loan 50,000,000 $DIMO for market making activity.&#x20;
+Specifically, DIP-6 previously authorized the DIMO Foundation to sell 5,000,000 $DIMO tokens to bring in resources to fund operations, as well as the ability to loan 50,000,000 $DIMO for market making activity.&#x20;
 
-This proposal would redraw these allocations such that the DIMO Foundation is authorized to sell 25,000,000 $DIMO to investors and strategic partners and is authorized to loan 25,000,000 $DIMO to market makers. The 5,000,000 $DIMO left over are unallocated and returned the treasury.
+This proposal would redraw these allocations. If passed, the DIMO Foundation will be authorized to sell an additional 20,000,000 $DIMO to investors and strategic partners (25,000,000 total). Also, the authorization to loan tokens to market makers is cut in half to 25,000,000 $DIMO.&#x20;
+
+The 5,000,000 $DIMO left over are unallocated and returned the treasury.
+
+|                                        | Previous Allocation | New Allocation |
+| -------------------------------------- | :-----------------: | :------------: |
+| Available to be sold                   |      5,000,000      |   25,000,000   |
+| Available to be used for market making |      50,000,000     |   25,000,000   |
+| Returned back to the treasury          |                     |    5,000,000   |
 
 ## Motivation
 
@@ -34,11 +42,17 @@ If passed, this proposal would edit the following section within the DIP-6 Speci
 
 #### Treasury Initiatives
 
-Additionally, this proposal authorizes the DIMO Foundation to sell up to <mark style="color:red;">25,000,000</mark> <mark style="color:red;"></mark>~~<mark style="color:red;">5,000,000</mark>~~ $DIMO tokens and to loan up to <mark style="color:red;">25,000,000</mark> <mark style="color:red;"></mark>~~<mark style="color:red;">50,000,000</mark>~~ $DIMO tokens to market makers. ...
+Additionally, this proposal authorizes the DIMO Foundation to sell up to <mark style="color:red;">25,000,000</mark> <mark style="color:red;"></mark>~~<mark style="color:red;">5,000,000</mark>~~ $DIMO tokens and to loan up to <mark style="color:red;">25,000,000</mark> <mark style="color:red;"></mark>~~<mark style="color:red;">50,000,000</mark>~~ $DIMO tokens to market makers.
+
+<mark style="color:red;">The DIMO Foundation may not sell tokens below $0.30. A minimum one-year lockup is required on token sales unless there is a bona fide expectation that the purchaser will use a majority of those tokens themselves to use DIMO, such as to produce devices or operate a node.</mark>
+
+The Foundation will make its best effort to balance regulatory, financial, and strategic considerations to maximize the long-term health of the DIMO protocol.
+
+These tokens would come from the [unallocated treasury pool](https://docs.dimo.zone/overview/dimotoken/token-details-and-distribution) of 250,000,000 $DIMO.&#x20;
 
 ## Implementation
 
-If passed, DIP-6 would be updated as specified above after the four day timelock concludes.
+If passed, DIP-6 would be updated as specified above after the four day timelock concludes and only once [dip1a1.md](dip1a1.md "mention") is enacted.
 
 ## Copyright
 
@@ -52,7 +66,7 @@ The DIMO Foundation, " DIP 6 Amendment 1", February 2023. \[Online serial]. Avai
 
 ## Changelog
 
-
+Feb 27, 2023: updated to include additional requirements on sales ($0.30 minimum and lockup).
 
 ## Disclaimer
 

@@ -84,7 +84,7 @@ Dec 7, 2022: adjusted review date to give people more time to claim the Airdrop 
 
 Jan 6, 2023: final adjustment to review date — proposals go to vote on Tuesday Jan 10.
 
-Dec 26, 2023: adjusted review date again to allow for fixes to delegation strategy prior to voting.
+Jan 26, 2023: adjusted review date again to allow for fixes to delegation strategy prior to voting.
 
 ## Token Disclaimer
 

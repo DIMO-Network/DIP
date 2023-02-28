@@ -8,7 +8,7 @@
 >
 > **Status**: Review (until March 3, 2023 at 12:00 UTC)
 >
-> **Voting URL**: [Snapshot](https://snapshot.org/#/dimo.eth/proposal/0x74f67d2da46e74e190063932f7b6a27fdafc7fa368ee5a275335db3a9e666499)
+> **Voting URL**: Pending
 >
 > **Discussion Forum**: [Discord](https://chat.dimo.zone) #🗳️governance forum
 >
