@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review (until March 3, 2023 at 12:00 UTC)
+> **Status**: Review (until March 15, 2023 at 12:00 UTC)
 >
 > **Voting URL**: Pending
 >
@@ -67,6 +67,8 @@ The DIMO Foundation, " DIP 6 Amendment 1", February 2023. \[Online serial]. Avai
 ## Changelog
 
 Feb 27, 2023: updated to include additional requirements on sales ($0.30 minimum and lockup).
+
+Mar 3, 2023: adjusted the date that the proposal is in review from March 3 to March 15. This is to create more time discussion and hopefully the introduction of a fourth proposal related to marketplace issuance that can be voted alongside the three that are currently in review.
 
 ## Disclaimer
 
