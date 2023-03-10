@@ -48,7 +48,7 @@ Additionally, this proposal authorizes the DIMO Foundation to sell up to <mark s
 
 The Foundation will make its best effort to balance regulatory, financial, and strategic considerations to maximize the long-term health of the DIMO protocol.
 
-These tokens would come from the [unallocated treasury pool](https://docs.dimo.zone/overview/dimotoken/token-details-and-distribution) of 250,000,000 $DIMO.&#x20;
+These tokens would come from the [unallocated treasury pool](https://docs.dimo.zone/overview/dimotoken/token-details-and-distribution) of 250,000,000 $DIMO. <mark style="color:red;">This may be amended or deals on other terms (e.g., below $0.30) may be authorized by any valid governance vote.</mark>
 
 ## Implementation
 
@@ -69,6 +69,8 @@ The DIMO Foundation, " DIP 6 Amendment 1", February 2023. \[Online serial]. Avai
 Feb 27, 2023: updated to include additional requirements on sales ($0.30 minimum and lockup).
 
 Mar 3, 2023: adjusted the date that the proposal is in review from March 3 to March 15. This is to create more time discussion and hopefully the introduction of a fourth proposal related to marketplace issuance that can be voted alongside the three that are currently in review.
+
+Mar 9, 2023: added clarification that these conditions may be amended. This was already the case, but extra specificity may reduce confusion.&#x20;
 
 ## Disclaimer
 
