@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review (until March 15, 2023 at 12:00 UTC)
+> **Status**: Review (until March 22, 2023 at 12:00 UTC)
 >
 > **Voting URL**: Pending
 >
@@ -71,6 +71,8 @@ Feb 27, 2023: updated to include additional requirements on sales ($0.30 minimum
 Mar 3, 2023: adjusted the date that the proposal is in review from March 3 to March 15. This is to create more time discussion and hopefully the introduction of a fourth proposal related to marketplace issuance that can be voted alongside the three that are currently in review.
 
 Mar 9, 2023: added clarification that these conditions may be amended. This was already the case, but extra specificity may reduce confusion.&#x20;
+
+Mar 13, 2023: extended the review period from March 15 to March 22. This is to continue to provide more time for discussion and hopefully the introduction of a fourth proposal related to marketplace issuance that can be voted alongside the three that are currently in review.
 
 ## Disclaimer
 
