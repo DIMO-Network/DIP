@@ -7,7 +7,7 @@
 * [DIP-4: Device Integrations](dip4.md)
 * [DIP-5: Ecosystem](dip5.md)
 * [DIP-6: The DIMO Foundation](dip6.md)
-* [DIP-7: Referral Bonus](dip7.md)
+* [DIP-7: Referrals Round 1](dip7.md)
 
 ## Amendments
 

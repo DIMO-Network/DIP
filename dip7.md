@@ -1,4 +1,4 @@
-# DIP-7: Referral Bonus
+# DIP-7: Referrals Round 1
 
 > **Headline**: Allocating a pool of $DIMO to launch a formal referral program&#x20;
 >
@@ -73,6 +73,8 @@ The DIMO Foundation, "DIP-7: Referral Bonus", no. 7, February 2023. \[Online ser
 Mar 3, 2023: adjusted the date that the proposal is in review from March 3 to March 15. This is to create more time discussion and hopefully the introduction of a fourth proposal related to marketplace issuance that can be voted alongside the three that are currently in review.
 
 Mar 13, 2023: extended the review period from March 15 to March 22. This is to continue to provide more time for discussion and hopefully the introduction of a fourth proposal related to marketplace issuance that can be voted alongside the three that are currently in review.
+
+Mar 13, 2023: altered name from "Referral Bonus" to "Referral Round 1" to clarify that future referral programs need not be amendments to this proposal.
 
 ## Disclaimer
 
