@@ -44,7 +44,7 @@ If passed, this proposal would edit the following section within the DIP-6 Speci
 
 Additionally, this proposal authorizes the DIMO Foundation to sell up to <mark style="color:red;">25,000,000</mark> <mark style="color:red;"></mark>~~<mark style="color:red;">5,000,000</mark>~~ $DIMO tokens and to loan up to <mark style="color:red;">25,000,000</mark> <mark style="color:red;"></mark>~~<mark style="color:red;">50,000,000</mark>~~ $DIMO tokens to market makers.
 
-<mark style="color:red;">The DIMO Foundation may not sell tokens below $0.30. A minimum one-year lockup is required on token sales unless there is a bona fide expectation that the purchaser will use a majority of those tokens themselves to use DIMO, such as to produce devices or operate a node.</mark>
+<mark style="color:red;">The DIMO Foundation may not sell this specific pool of tokens below $0.30. A minimum one-year lockup is required on token sales unless there is a bona fide expectation that the purchaser will use a majority of those tokens themselves to use DIMO, such as to produce devices or operate a node.</mark>
 
 The Foundation will make its best effort to balance regulatory, financial, and strategic considerations to maximize the long-term health of the DIMO protocol.
 
@@ -73,6 +73,8 @@ Mar 3, 2023: adjusted the date that the proposal is in review from March 3 to Ma
 Mar 9, 2023: added clarification that these conditions may be amended. This was already the case, but extra specificity may reduce confusion.&#x20;
 
 Mar 13, 2023: extended the review period from March 15 to March 22. This is to continue to provide more time for discussion and hopefully the introduction of a fourth proposal related to marketplace issuance that can be voted alongside the three that are currently in review.
+
+Mar 14, 2023: added clarifying language that the restriction on price and lockup pertains to this pool of authorized tokens specifically.
 
 ## Disclaimer
 
