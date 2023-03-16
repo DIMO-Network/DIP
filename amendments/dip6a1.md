@@ -36,9 +36,7 @@ The DIMO Foundation suggests that 25,000,000 $DIMO is sufficient to facilitate m
 
 ## Specification
 
-If passed, this proposal would edit the following section within the DIP-6 Specification section:&#x20;
-
-\---
+_<mark style="color:green;">// If passed, this proposal would edit the following section within the DIP-6 Specification section:</mark>_&#x20;
 
 #### Treasury Initiatives
 

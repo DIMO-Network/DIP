@@ -49,7 +49,7 @@ _Hypothetical Example:_ You grant DIMO Explorer, a licensed DIMO App, the right 
   * Explorer receives $49,500 USD (1,000,000 x 99% x 5%)
   * Users receive 940,500 $DIMO (1,000,000 x 99% x 95%)
 
-<img src=".gitbook/assets/file.drawing (5).svg" alt="" class="gitbook-drawing">
+<img src=".gitbook/assets/file.drawing (3).svg" alt="" class="gitbook-drawing">
 
 #### Example 2: The sale of disaggregated user data
 
@@ -64,7 +64,7 @@ Verizon subscribes to your cell coverage data so they can map their signal stren
   * DataWiz receives $2.97/month USD (60 x 99% x 5%)
   * You receive 56.43 $DIMO per month (60 x 99% x 95%)
 
-<img src=".gitbook/assets/file.drawing (3).svg" alt="" class="gitbook-drawing">
+<img src=".gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
 #### Example 3: Direct incentives
 
@@ -76,7 +76,7 @@ _Hypothetical Example:_ All Farm Insurance is a DIMO App that gives new customer
 * **Settlement**:&#x20;
   * You receive 500 $DIMO (505.05 x 99%)
 
-<img src=".gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+<img src=".gitbook/assets/file.drawing (1).svg" alt="" class="gitbook-drawing">
 
 ### Market Issuance from transactions involving goods & services
 

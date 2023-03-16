@@ -101,7 +101,7 @@ Hardware Only&#x20;
 
 #### Licenses & Staking&#x20;
 
-Licenses are NFTs that can only be minted or transferred by DIMO Integrations. These certify the integration provider meets all required qualifications required and has been whitelisted for the production of compatible devices. After receiving a license, the integration provider is required to submit a deposit of 100,000 $DIMO tokens (the “stake”). For more on how this works, see [License](https://app.gitbook.com/s/fmY0p4toAb7e89toAV2R/smart-contracts/license "mention").
+Licenses are NFTs that can only be minted or transferred by DIMO Integrations. These certify the integration provider meets all required qualifications required and has been whitelisted for the production of compatible devices. After receiving a license, the integration provider is required to submit a deposit of 100,000 $DIMO tokens (the “stake”). For more on how this works, see [License](https://app.gitbook.com/s/fmY0p4toAb7e89toAV2R/identity-protocol/nodes-and-nfts/license "mention").
 
 ![](<.gitbook/assets/image (6).png>)
 

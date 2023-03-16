@@ -20,7 +20,7 @@ Below, you can see active proposals that $DIMO token holders can vote on now, pr
 
 **Voting active for:** none
 
-**Community review**: [DIP-7: Referrals Round 1](dip7.md), [DIP-1: Amendment 1](amendments/dip1a1.md), [DIP-6: Amendment 1](amendments/dip6a1.md)
+**Community review**: [DIP-7: Referrals Round 1](dip7.md), [DIP-1: Amendment 1](amendments/dip1a1.md), [DIP-3: Amendment 1](amendments/dip3a1.md), [DIP-6: Amendment 1](amendments/dip6a1.md)
 
 | DIMO Improvement Proposals                          | Status   |
 | --------------------------------------------------- | -------- |
@@ -37,6 +37,7 @@ Below, you can see active proposals that $DIMO token holders can vote on now, pr
 | Amendment                                  | Status |
 | ------------------------------------------ | ------ |
 | [DIP-1: Amendment 1](amendments/dip1a1.md) | Review |
+| [DIP-3: Amendment 1](amendments/dip3a1.md) | Review |
 | [DIP-6: Amendment 1](amendments/dip6a1.md) | Review |
 
 ***

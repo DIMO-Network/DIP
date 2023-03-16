@@ -24,9 +24,7 @@ To allow improvement proposals to be revised or repealed without creating unnece
 
 ## Specification
 
-If passed, this proposal would append the following to the end of the DIP-1 Specification section:&#x20;
-
-\---
+_<mark style="color:green;">// If passed, this proposal would append the following to the end of the DIP-1 Specification section:</mark>_&#x20;
 
 ### <mark style="color:red;">**Amending & repealing DIPs**</mark>
 
@@ -42,7 +40,7 @@ If passed, this proposal would append the following to the end of the DIP-1 Spec
 
 \---
 
-This proposal would also add a new Status option under the bullet for "Withdrawn" such that the list in DIP-1 would now read:
+_<mark style="color:green;">// This proposal would also add a new Status option under the bullet for "Withdrawn" such that the list in DIP-1 would now read:</mark>_
 
 * _Failed_ - vote concluded and proposal failed to reach majority and/or quorum; ~~<mark style="color:red;">or</mark>~~
 * _Withdrawn_ - sponsor(s) withdrew the proposal while it was in the _Review_ stage, prior to voting~~<mark style="color:red;">.</mark>~~<mark style="color:red;">; or</mark>
