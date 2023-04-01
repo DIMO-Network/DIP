@@ -16,12 +16,12 @@
 
 ## Abstract
 
-This proposal outlines the method by which hardware manufacturers (like [AutoPi](https://www.autopi.io/)) who produce compatible devices, as well as software developers (like [SmartCar](https://smartcar.com/)) who build digital integrations (collectively referred to as integration providers) stake $DIMO and receive a license.
+This proposal outlines the method by which hardware manufacturers (like [AutoPi](https://www.autopi.io/)) who produce compatible devices, as well as software developers (like [SmartCar](https://smartcar.com/)) who build digital integrations (collectively referred to as integration providers) bond $DIMO and receive a license.
 
 The requirements for any integration providers are that they must:&#x20;
 
 1. Pass a DIP that approves their license application;
-2. Stake 100,000 $DIMO tokens as a security deposit;&#x20;
+2. Bond 100,000 $DIMO tokens as a security deposit;&#x20;
 3. Transfer the applicable amount of $DIMO for each integrations they enable; and
 4. Remain in good standing with the community.&#x20;
 
@@ -39,7 +39,7 @@ The goals of this proposal are to:&#x20;
 
 ### Integration Providers & Device Licenses
 
-In order to connect to DIMO users, their vehicles, and their data, integration providers must agree to various obligations, receive a license by passing a DIP, stake 100,000 $DIMO, and deposit $DIMO for each device they sell.
+In order to connect to DIMO users, their vehicles, and their data, integration providers must agree to various obligations, receive a license by passing a DIP, bond 100,000 $DIMO, and deposit $DIMO for each device they sell.
 
 #### Obligations
 
@@ -99,25 +99,25 @@ Hardware Only&#x20;
 | OTA process                          | To be accepted into the program, the device manufacturer must routinely support and update their devices as new vulnerabilities are found. This must be able to be done via cellular connection.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | 3rd party certifications             | <p>CE Certifications EN 301 489-1 v2.2.0 EN55025:2008 EN 50498 and Directive 2004/104/EC ISO 7637-2:2011 EN 301 489-3 V2.1.1 <img src="https://lh4.googleusercontent.com/E_LfSnGkea7mAmpWINsnajyDt8F4sbSyGW3AYIMMidRF92y6GiV_nJ8tgZMILXp3A4V4IQbAcg3d_6DEhFTHYbb3Aggjnv2STFXto4MhDgPs9SnVVK0n1d1vkJD8mJCkZ5SrLzSYLGR1TSw_XbHjJg" alt="AutoPi.io - CE Certified" data-size="line"></p><p>FCC Certifications Devices certified under the following standards: FCC 47 CFR Part 15, Class A:10–1–17 Edition <img src="https://lh6.googleusercontent.com/OX11obGi-bwDcoF0vgnN1-imk7w_9o6-G9c624gYqDSeOj29p4oxy-8ByicOyEgLGfnP9sXxuOXGEg2HsjE_jwNUt7IEc317ai13cr0bllaOr80iMGfYJHVjuizNQDzx3GcLeX5GfshLYYL5SHnuXg" alt="AutoPi.io - FCC Certified" data-size="line"></p> |
 
-#### Licenses & Staking&#x20;
+#### Licenses & Bonding&#x20;
 
-Licenses are NFTs that can only be minted or transferred by DIMO Integrations. These certify the integration provider meets all required qualifications required and has been whitelisted for the production of compatible devices. After receiving a license, the integration provider is required to submit a deposit of 100,000 $DIMO tokens (the “stake”). For more on how this works, see [License](https://app.gitbook.com/s/fmY0p4toAb7e89toAV2R/identity-protocol/nodes-and-nfts/license "mention").
+Licenses are NFTs that can only be minted or transferred by DIMO Integrations. These certify the integration provider meets all required qualifications required and has been whitelisted for the production of compatible devices. After receiving a license, the integration provider is required to submit a deposit of 100,000 $DIMO tokens (the “bond”). For more on how this works, see [License](http://localhost:5000/s/fmY0p4toAb7e89toAV2R/identity-protocol/nodes-and-nfts/license "mention").
 
 ![](<.gitbook/assets/image (6).png>)
 
-While it is preferred that the integration provider is the party putting up the stake, it is also possible for a financing partner, such as a distributor, to put up the stake on behalf of the manufacturer.&#x20;
+While it is preferred that the integration provider is the party putting up the bond, it is also possible for a financing partner, such as a distributor, to put up the bond on behalf of the manufacturer.&#x20;
 
-Should applicants not have $DIMO or not want to interact with tokens, they may purchase $DIMO from the Foundation and/or have the Foundation put up the stake on their behalf.
+Should applicants not have $DIMO or not want to interact with tokens, they may purchase $DIMO from the Foundation and/or have the Foundation put up the bond on their behalf.
 
-The staking amount may be altered by any future governance vote.
+The bonding amount may be altered by any future governance vote.
 
 #### Slashing & License Revocation&#x20;
 
-Through a governance vote, DIMO token holders have the ability alter the manufacturer’s staking requirements. Manufacturers must be given thirty days to adjust their stake to the new level.
+Through a governance vote, DIMO token holders have the ability alter the manufacturer’s bonding requirements. Manufacturers must be given thirty days to adjust their bond to the new level.
 
 Token holders are also able to ban devices from the network (e.g., if they’re not secure and provide false data) and/or suspend or revoke a manufacturer’s license through a valid governance vote if they violate the obligations specified above or there is demonstrable and material negligence or malice perpetrated by the manufacturer that harms users or the DIMO protocol generally.
 
-Any manufacturer may renounce their license and receive back their staked $DIMO after six months.
+Any manufacturer may renounce their license and receive back their bonded $DIMO after six months.
 
 ### Connecting a Device to DIMO&#x20;
 
@@ -146,7 +146,7 @@ The amount of DIMO required for device minting varies by device type.
 | Software  | Leverages existing vehicle subscription programs and their APIs to establish a baseline of connectivity | 0               |
 | Hardware  | New hardware that users and purchase and install in their vehicle.                                      | 25              |
 
-Similar to the stake required for licensing, device minting costs may be covered by financing partners, such as a distributor.&#x20;
+Similar to the bond required for licensing, device minting costs may be covered by financing partners, such as a distributor.&#x20;
 
 ### Temporary Licenses
 

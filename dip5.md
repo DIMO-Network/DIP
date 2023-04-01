@@ -70,21 +70,21 @@ A data consumer is an entity that subscribes to user data. Various businesses wi
 
 Prospective Clients and Nodes may receive a license by passing a DIP using the [License Approval Template](templates/license-approval-template.md).
 
-Applications and Data Consumers do not require a governance vote to receive a developer license, but must comply with all terms in the Obligations and Staking sections in order to interact with DIMO Users and their data. The DIMO Foundation is able to issue developer licenses in its discretion.
+Applications and Data Consumers do not require a governance vote to receive a developer license, but must comply with all terms in the Obligations and Bonding sections in order to interact with DIMO Users and their data. The DIMO Foundation is able to issue developer licenses in its discretion.
 
-### Staking
+### Bonding
 
-Clients, Nodes, Applications, and Data Consumers must stake $DIMO (or must have someone do it on their behalf) as defined below. If a staker violates their obligations as specified below, their license may be suspended or revoked. They may renounce their license and receive back their staked deposit six months later.
+Clients, Nodes, Applications, and Data Consumers must bond $DIMO (or must have someone do it on their behalf) as defined below. If a licensee violates their obligations as specified below, their license may be suspended or revoked. They may renounce their license and receive back their bonded deposit six months later.
 
-**Nodes**: Must stake 500,000 $DIMO as a one-time deposit.
+**Nodes**: Must bond 500,000 $DIMO as a one-time deposit.
 
-**Clients**: Must stake 20,000 $DIMO as a one-time deposit.
+**Clients**: Must bond 20,000 $DIMO as a one-time deposit.
 
-**Applications & Data Consumers**: Do not need to stake $DIMO for now.
+**Applications & Data Consumers**: Do not need to bond $DIMO for now.
 
-Should applicants not have $DIMO or not want to interact with tokens, they may purchase $DIMO from the Foundation and/or have the Foundation put up the stake on their behalf.
+Should applicants not have $DIMO or not want to interact with tokens, they may purchase $DIMO from the Foundation and/or have the Foundation put up the bond on their behalf.
 
-The amounts for staking, as well as the exchange rate for $DIMO offered by the Foundation, may be altered by any future governance vote.
+The amounts for bonding, as well as the exchange rate for $DIMO offered by the Foundation, may be altered by any future governance vote.
 
 ### Obligations
 
@@ -104,7 +104,7 @@ They must:&#x20;
 
 ### Slashing & License Revocation&#x20;
 
-Through a governance vote, DIMO token holders have the ability alter the staking requirements. Licensees must be given thirty days to adjust their stake to the new level.
+Through a governance vote, DIMO token holders have the ability alter the bonding requirements. Licensees must be given thirty days to adjust their bond to the new level.
 
 Token holders are also able to suspend or revoke licenses through a valid governance vote if the licensee violates the obligations specified above or there is demonstrable and material negligence or malice perpetrated that harms users or the DIMO protocol generally.
 
@@ -118,7 +118,7 @@ For six months after the passage of this DIP, the following companies are have a
 
 ## Implementation
 
-If passed, the DIMO Foundation will issue licenses per valid governance votes, and will collect and hold staking deposits.
+If passed, the DIMO Foundation will issue licenses per valid governance votes, and will collect and hold bonding deposits.
 
 ## Citation
 

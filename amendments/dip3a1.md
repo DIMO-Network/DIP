@@ -6,9 +6,9 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review (until March 22, 2023 at 12:00 UTC)
+> **Status**: Deployed
 >
-> **Voting URL**: Pending
+> **Voting URL**: [Snapshot](https://snapshot.org/#/dimo.eth/proposal/0x32cf0478a7f154d908a7e6295d8333e2cbd997acc9e07f0574972688f11eda94)
 >
 > **Discussion Forum**: [Discord](https://chat.dimo.zone) #🗳️governance forum
 >
@@ -49,7 +49,7 @@ _Hypothetical Example:_ You grant DIMO Explorer, a licensed DIMO App, the right 
   * Explorer receives $49,500 USD (<mark style="color:red;">$</mark>1,000,000 x 99% x 5%)
   * <mark style="color:red;">Users receive 94,050 $DIMO ($1,000,000 / 10 $perDIMO x 99% x 95%)</mark> <mark style="color:red;"></mark>~~<mark style="color:red;">Users receive 940,500 $DIMO (1,000,000 x 99% x 95%)</mark>~~
 
-<img src="../.gitbook/assets/file.drawing (3).svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.drawing (1).svg" alt="" class="gitbook-drawing">
 
 #### Example 2: The sale of disaggregated user data
 
@@ -63,7 +63,6 @@ Verizon subscribes to your cell coverage data so they can map their signal stren
 * **Settlement**:&#x20;
   * DataWiz receives $2.97/month USD (<mark style="color:red;">$</mark>60 x 99% x 5%)
   * <mark style="color:red;">You receive 5.64 $DIMO per month ($60 / 10 $perDIMO x 99% x 95%)</mark> <mark style="color:red;"></mark>~~<mark style="color:red;">You receive 56.43 $DIMO per month (60 x 99% x 95%)</mark>~~
-* **Burn**: 0.60 $DIMO each month (60 x 1%)
 
 <img src="../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
@@ -77,7 +76,7 @@ _Hypothetical Example:_ All Farm Insurance is a DIMO App that gives new customer
 * **Settlement**:&#x20;
   * <mark style="color:red;">You receive 500 $DIMO (50.50 x 99%)</mark> <mark style="color:red;"></mark>~~<mark style="color:red;">500 $DIMO (505.05 x 99%)</mark>~~
 
-<img src="../.gitbook/assets/file.drawing (1).svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.drawing (1) (2).svg" alt="" class="gitbook-drawing">
 
 \---
 

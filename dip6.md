@@ -36,7 +36,7 @@ The power and importance of the DIMO Foundation should shrink over time as DIMO 
 
 ### Execution Plan & Team Operating Structure
 
-The DIMO Foundation is controlled by professional directors registered with the Cayman Islands Monetary Authority (CIMA) with extensive legal, financial, and blockchain experience. More information on the structure of the foundation can be found at [DIMO Foundation Information](https://app.gitbook.com/o/IDM0isB8NflgM8HmoQc9/s/XrD4OPpblYqPDIzou05o/ "mention").
+The DIMO Foundation is controlled by professional directors registered with the Cayman Islands Monetary Authority (CIMA) with extensive legal, financial, and blockchain experience. More information on the structure of the foundation can be found at [DIMO Foundation Information](http://localhost:5000/o/IDM0isB8NflgM8HmoQc9/s/XrD4OPpblYqPDIzou05o/ "mention").
 
 Notably, Digital Infrastructure Inc., the corporation that initially developed DIMO, continues to contribute under a services agreement. The DIMO Foundation and community will continue to engage various contributors across many companies and geographies to build a distributed network of teams helping to build DIMO.
 
@@ -44,7 +44,7 @@ Notably, Digital Infrastructure Inc., the corporation that initially developed D
 
 #### Resources
 
-The Foundation currently has 1,127,503.27 $DAI in its [Wallets](https://app.gitbook.com/s/XrD4OPpblYqPDIzou05o/wallets "mention"), which is what remains of the 1,250,000 $DAI donated by Digital Infrastructure Inc.&#x20;
+The Foundation currently has 1,127,503.27 $DAI in its [Wallets](http://localhost:5000/s/XrD4OPpblYqPDIzou05o/wallets "mention"), which is what remains of the 1,250,000 $DAI donated by Digital Infrastructure Inc.&#x20;
 
 The Foundation is actively working to open up a bank account and would convert some of that $DAI to fiat US dollars.
 
@@ -56,15 +56,19 @@ To leave some extra buffer for the unexpected, **this proposal gives the DIMO Fo
 
 #### Treasury Initiatives
 
-Additionally, this proposal authorizes the DIMO Foundation to sell up to 5,000,000 $DIMO tokens and to loan up to 50,000,000 $DIMO tokens to market makers. The Foundation will make its best effort to balance regulatory, financial, and strategic considerations to maximize the long-term health of the DIMO protocol.
+Additionally, this proposal authorizes the DIMO Foundation to sell up to 25,000,000 $DIMO tokens and to loan up to 25,000,000 $DIMO tokens to market makers.
 
-These tokens would come from the [unallocated treasury pool](https://docs.dimo.zone/overview/dimotoken/token-details-and-distribution) of 250,000,000 $DIMO.&#x20;
+The DIMO Foundation may not sell this specific pool of tokens below $0.30. A minimum one-year lockup is required on token sales unless there is a bona fide expectation that the purchaser will use a majority of those tokens themselves to use DIMO, such as to produce devices or operate a node.
+
+The Foundation will make its best effort to balance regulatory, financial, and strategic considerations to maximize the long-term health of the DIMO protocol.
+
+These tokens would come from the [unallocated treasury pool](https://docs.dimo.zone/overview/dimotoken/token-details-and-distribution) of 250,000,000 $DIMO. This may be amended or deals on other terms (e.g., below $0.30) may be authorized by any valid governance vote.
 
 ### Authority & Domain
 
 #### Smart contract admin
 
-The DIMO Foundation Gnosis Safe [Wallets](https://app.gitbook.com/s/XrD4OPpblYqPDIzou05o/wallets "mention") are the admins on various protocol [smart contracts](https://dimo.zone/transparency) such the token itself, baseline issuance, governance, and registry contracts. These permissions allow smart contracts to be upgraded.&#x20;
+The DIMO Foundation Gnosis Safe [Wallets](http://localhost:5000/s/XrD4OPpblYqPDIzou05o/wallets "mention") are the admins on various protocol [smart contracts](https://dimo.zone/transparency) such the token itself, baseline issuance, governance, and registry contracts. These permissions allow smart contracts to be upgraded.&#x20;
 
 The DIMO Foundation may only utilize this administrative privilege as authorized by governance votes. Eventually, all administrative privileges should be transitioned to on-chain governance contracts.
 

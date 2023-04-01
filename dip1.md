@@ -119,6 +119,18 @@ After seven days of deliberation, the DIP goes to a vote. Once a vote beings, th
 
 To determine the outcome, we only look at the state of the vote at the moment the vote closes. If a vote has majority and quorum at the exact end of seven days, then the status changes to _Final_ and the four day timelock prior to execution begins. If a vote does not meet that criteria, the DIP fails to pass and the status changes to "Failed".
 
+### **Amending & repealing DIPs**
+
+After a DIP has been passed, future proposals may amend or repeal that DIP. Such a proposal is subject to the same requirements as a standard DIP. This means that the requirements for proposal submission, voting, and all other specifications still apply. This also includes the requirement to follow the same structural format as any other DIP, complete with a header, abstract, motivation, specification, implementation, copyright, citation, changelog, and disclaimer section.
+
+Any proposal amending or repealing a DIP need only amend or repeal the original DIP. In other words, it does not need to make updates to prior amendments. An amendment may alter multiple DIPs so long as it precisely clear what the changes are (e.g., to change terminology used across several DIPs).
+
+#### If amending a DIP
+
+The proposal must clearly specify exactly where and how the DIP(s) should be amended to leave zero ambiguity as to how changes would be implemented in the original document if the proposal were to pass. The amendment proposal should use a red font to denote the text that will be inserted into the original DIP(s) and red font with a strikethrough to denote the text that will be deleted. See [dip1a1.md](amendments/dip1a1.md "mention") for an example of this formatting.
+
+The amendment need not specify the language for the changelog, however the editor must note and link to the amendment in a new changelog entry once implemented.&#x20;
+
 ## Implementation
 
 If passed, this DIP will be in effect immediately after the four day timelock concludes.
