@@ -4,7 +4,7 @@ $DIMO token holders vote on proposals that determine how DIMO works. They're kno
 
 ### **Participation Instructions**
 
-There are steps you must take in order to vote. **** To have your tokens counted you must "delegate" your voting power to someone. **Even if you want to vote with your own tokens, you still must delegate them to yourself.**
+There are steps you must take in order to vote. To have your tokens counted you must "delegate" your voting power to someone. **Even if you want to vote with your own tokens, you still must delegate them to yourself.**
 
 **When you delegate, your tokens stay securely in your wallet.** You always retain full control and can still transfer them. You can change who you've delegated to at any time. Once you delegate, the person you delegate to will be able to vote with your tokens in all future votes until you redelegate to someone else.
 
@@ -20,7 +20,7 @@ Below, you can see active proposals that $DIMO token holders can vote on now, pr
 
 **Voting active for:** none
 
-**Community review**: none
+**Community review**: [DIP-8](dip8.md), [DIP-9](dip9.md)
 
 | DIMO Improvement Proposals                          | Status   |
 | --------------------------------------------------- | -------- |
@@ -31,10 +31,12 @@ Below, you can see active proposals that $DIMO token holders can vote on now, pr
 | [DIP-5: Ecosystem](dip5.md)                         | Deployed |
 | [DIP-6: The DIMO Foundation](amendments/dip6a1.md)  | Deployed |
 | [DIP-7: Referrals Round 1](dip7.md)                 | Deployed |
+| [DIP-8: The Ignite Team](dip8.md)                   | Review   |
+| [DIP-9: The Velocity Team](dip9.md)                 | Review   |
 
 
 
-| Amendment                                            | Status   |
+| Amendments                                           | Status   |
 | ---------------------------------------------------- | -------- |
 | [DIP-1: Amendment 1](amendments/dip1a1.md)           | Deployed |
 | [DIP-3: Amendment 1](amendments/dip3a1.md)           | Deployed |
