@@ -9,7 +9,7 @@
 * [DIP-6: The DIMO Foundation](dip6.md)
 * [DIP-7: Referrals Round 1](dip7.md)
 * [DIP-8: The Ignite Team](dip8.md)
-* [DIP-9: The Velocity Team](dip9.md)
+* [DIP-9: Marketing Grant #1](dip9.md)
 
 ## Amendments
 

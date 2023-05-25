@@ -22,26 +22,11 @@ Below, you can see active proposals that $DIMO token holders can vote on now, pr
 
 **Community review**: [DIP-8](dip8.md), [DIP-9](dip9.md)
 
-| DIMO Improvement Proposals                          | Status   |
-| --------------------------------------------------- | -------- |
-| [DIP-1: Governance Guidelines](dip1.md)             | Deployed |
-| [DIP-2: Baseline Issuance](dip2.md)                 | Deployed |
-| [DIP-3: Marketplace Issuance & Token Burn](dip3.md) | Deployed |
-| [DIP-4: Device Integrations](dip4.md)               | Deployed |
-| [DIP-5: Ecosystem](dip5.md)                         | Deployed |
-| [DIP-6: The DIMO Foundation](amendments/dip6a1.md)  | Deployed |
-| [DIP-7: Referrals Round 1](dip7.md)                 | Deployed |
-| [DIP-8: The Ignite Team](dip8.md)                   | Review   |
-| [DIP-9: The Velocity Team](dip9.md)                 | Review   |
+<table><thead><tr><th width="543">DIMO Improvement Proposals</th><th width="115.66666666666674">Status</th></tr></thead><tbody><tr><td><a href="dip1.md">DIP-1: Governance Guidelines</a></td><td>Deployed</td></tr><tr><td><a href="dip2.md">DIP-2: Baseline Issuance</a></td><td>Deployed</td></tr><tr><td><a href="dip3.md">DIP-3: Marketplace Issuance &#x26; Token Burn</a></td><td>Deployed</td></tr><tr><td><a href="dip4.md">DIP-4: Device Integrations</a></td><td>Deployed</td></tr><tr><td><a href="dip5.md">DIP-5: Ecosystem</a></td><td>Deployed</td></tr><tr><td><a href="amendments/dip6a1.md">DIP-6: The DIMO Foundation</a></td><td>Deployed</td></tr><tr><td><a href="dip7.md">DIP-7: Referrals Round 1</a></td><td>Deployed</td></tr><tr><td><a href="dip8.md">DIP-8: The Ignite Team</a></td><td>Review</td></tr><tr><td><a href="dip9.md">DIP-9: Marketing Grants #1</a></td><td>Review</td></tr></tbody></table>
 
 
 
-| Amendments                                           | Status   |
-| ---------------------------------------------------- | -------- |
-| [DIP-1: Amendment 1](amendments/dip1a1.md)           | Deployed |
-| [DIP-3: Amendment 1](amendments/dip3a1.md)           | Deployed |
-| [DIP-4 & 5: Amendment 1](amendments/dip4-and-5a1.md) | Deployed |
-| [DIP-6: Amendment 1](amendments/dip6a1.md)           | Deployed |
+<table><thead><tr><th width="543">Amendments</th><th width="115.66666666666674">Status</th></tr></thead><tbody><tr><td><a href="amendments/dip1a1.md">DIP-1: Amendment 1</a></td><td>Deployed</td></tr><tr><td><a href="amendments/dip3a1.md">DIP-3: Amendment 1</a></td><td>Deployed</td></tr><tr><td><a href="amendments/dip4-and-5a1.md">DIP-4 &#x26; 5: Amendment 1</a></td><td>Deployed</td></tr><tr><td><a href="amendments/dip6a1.md">DIP-6: Amendment 1</a></td><td>Deployed</td></tr></tbody></table>
 
 ***
 
