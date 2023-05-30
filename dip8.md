@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review (at least until May 23, 2022 18:00 UTC)
+> **Status**: Review (at least until June 7, 2023 18:00 UTC)
 >
 > **Voting URL**: Pending
 >
@@ -98,11 +98,7 @@ Grant applications will be primarily judged on the following criteria:
 
 The application process to claim grants:
 
-| Headline      | Steps                                                                                                                                   | Time Commitment |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| Quick Pitch   | Applicants fill out applications to get early feedback on their proposal.                                                               | < 20 mins       |
-| Full Proposal | Applicants are invited to present a full proposal if their concept meets the guiding criteria and is viewed as potentially high impact. | 1-2 hrs         |
-| Accepted      | Ignite team works with Applicants to set exit criteria, provide feedback, and set them up for success.                                  | TBD             |
+<table><thead><tr><th>Headline</th><th width="371.3333333333333">Steps</th><th>Time Commitment</th></tr></thead><tbody><tr><td>Quick Pitch</td><td>Applicants fill out applications to get early feedback on their proposal. </td><td>&#x3C; 20 mins</td></tr><tr><td>Full Proposal</td><td>Applicants are invited to present a full proposal if their concept meets the guiding criteria and is viewed as potentially high impact.</td><td>1-2 hrs</td></tr><tr><td>Accepted</td><td>Ignite team works with Applicants to set exit criteria, provide feedback, and set them up for success. </td><td>TBD</td></tr></tbody></table>
 
 
 

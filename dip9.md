@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review (at least until June 1, 2023 18:00 UTC)
+> **Status**: Review (at least until June 7, 2023 18:00 UTC)
 >
 > **Voting URL**: Pending
 >
