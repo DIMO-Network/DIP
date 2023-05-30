@@ -46,10 +46,9 @@ The following team was carefully chosen for their expertise in web3 ecosystem de
 2. [Rob Solomon](https://www.linkedin.com/in/robertsolomon1/) - CFO Digital Infrastructure Inc. (Director)
 3. [Yev Khessin](https://www.linkedin.com/in/yevgeny-khessin/) - CTO Digital Infrastructure Inc. (Director)
 4. [Andy Chatham](https://www.linkedin.com/in/andy-chatham-a5a45825/) - CEO Digital Infrastructure Inc. (Director)
-5. [Aaron Marz](https://www.linkedin.com/in/aaron-marz-10832314/) - Tech Lead Digital Infrastructure Inc. (Contributor)
-6. [Bryan Peters](https://twitter.com/BryanPetes) - Cofounder Sobol (Contributor)
-7. [MoreReese](https://twitter.com/more\_reese) - DAO Builder (Contributor)
-8. [Avi Atkin](https://www.linkedin.com/in/aviatkin/) - Product Manager, 3Box Labs, ex-Ford (Contributor)
+5. [Bryan Peters](https://twitter.com/BryanPetes) - Cofounder Sobol (Contributor)
+6. [MoreReese](https://twitter.com/more\_reese) - DAO Builder (Contributor)
+7. [Avi Atkin](https://www.linkedin.com/in/aviatkin/) - Product Manager, 3Box Labs, ex-Ford (Contributor)
 
 **Organizing and leading meetings:** Sam Lewis
 
@@ -237,7 +236,7 @@ The DIMO Foundation, "DIP-8: The Ignite Team", no. 8, May 2023. \[Online serial]
 
 ## Changelog
 
-Any changes made while the DIP is the Review stage must be summarized in this section including the date and time of the change.
+May 30, 2023: updated members and added detail to the OTC sale terms.
 
 ## Disclaimer
 

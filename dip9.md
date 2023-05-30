@@ -115,7 +115,7 @@ The DIMO Foundation, "DIP - 9: DIMO Marketing Funds", no. 9, May 2023. \[Online 
 
 ## Changelog
 
-Any changes made while the DIP is the Review stage must be summarized in this section including the date and time of the change.
+May 30, 2023: added detail to the OTC sale terms.
 
 ## Disclaimer
 
