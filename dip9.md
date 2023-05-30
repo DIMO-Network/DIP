@@ -61,7 +61,7 @@ Some key initiatives include additional user token incentive programs; affiliate
 
 **Funding Initiatives:** This proposal sets aside a pool of up to 40,000,000 $DIMO and 700,000 in stable tokens. For the avoidance of doubt, this pool of funds is for marketing initiatives and not to be used for payment to Digital Infrastructure Inc with the exception of the compensation specified below.
 
-These tokens would come from the[ unallocated treasury pool](https://docs.dimo.zone/overview/dimotoken/token-details-and-distribution) of $DIMO and any additional future funding would require another DIP. In order to acquire the stable tokens to fund this proposal, the DIMO Foundation will sell $DIMO from the treasury with 10% of the market price at the time using an over-the-counter service or a private party sale (not on a public exchange).
+These tokens would come from the[ unallocated treasury pool](https://docs.dimo.zone/overview/dimotoken/token-details-and-distribution) of $DIMO and any additional future funding would require another DIP. In order to acquire the stable tokens to fund this proposal, the DIMO Foundation will sell $DIMO from the treasury within 10% of the market price at the time using an over-the-counter service or a private party sale.
 
 **Compensating the team:** For 12 months, or until amended by a governance vote, Digital Infrastructure Inc. will receive $10,000 as a flat monthly fee for providing this service ($120,000 total). This will come out of the budget specified above and will come in place of the $150/hr compensation that could have been paid to Digital Infrastructure growth team personnel as specified in [DIP-6](https://docs.dimo.zone/governance/dip6).
 
