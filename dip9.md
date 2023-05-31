@@ -20,7 +20,7 @@ This DIP allocates funds from the DIMO Treasury to Digital Infrastructure Inc. t
 
 It also allocates a maximum pool of tokens that can be used for "learn" or "quest" related programming.
 
-While [DIP-8](dip8.md) establishes a team for issuing grants, this proposal is being voted on separately due to its magnitude. The combined size of the grants allocation is up to $700,000 in stable tokens and up to 40,000,000 $DIMO split into tranches contingent on hitting specific milestones.
+While [DIP-8](dip8.md) establishes a team for issuing grants, this proposal is being voted on separately due to its magnitude. The combined size of the grants allocation is up to 44,000,000 $DIMO split into tranches contingent on hitting specific milestones.
 
 ## Motivation
 
@@ -59,15 +59,15 @@ Some key initiatives include additional user token incentive programs; affiliate
 
 #### **Budget**
 
-**Funding Initiatives:** This proposal sets aside a pool of up to 40,000,000 $DIMO and 700,000 in stable tokens. For the avoidance of doubt, this pool of funds is for marketing initiatives and not to be used for payment to Digital Infrastructure Inc with the exception of the compensation specified below.
+**Funding Initiatives:** This proposal sets aside a pool of up to 44,000,000 $DIMO. For the avoidance of doubt, this pool of funds is for marketing initiatives and not to be used for payment to Digital Infrastructure Inc with the exception of the compensation specified below.
 
-These tokens would come from the[ unallocated treasury pool](https://docs.dimo.zone/overview/dimotoken/token-details-and-distribution) of $DIMO and any additional future funding would require another DIP. In order to acquire the stable tokens to fund this proposal, the DIMO Foundation will sell $DIMO from the treasury within 10% of the market price at the time using an over-the-counter service or a private party sale.
+These tokens would come from the[ unallocated treasury pool](https://docs.dimo.zone/overview/dimotoken/token-details-and-distribution) of $DIMO and any additional future funding would require another DIP. If Digital Infrastructure Inc. wishes to fund marketing initiatives with a mix of $DIMO and stable tokens/fiat, they may sell a portion of their $DIMO allocation, so long as they do so at market price on exchange or within 10% of current market price OTC / private placement.
 
-**Compensating the team:** For 12 months, or until amended by a governance vote, Digital Infrastructure Inc. will receive $10,000 as a flat monthly fee for providing this service ($120,000 total). This will come out of the budget specified above and will come in place of the $150/hr compensation that could have been paid to Digital Infrastructure growth team personnel as specified in [DIP-6](https://docs.dimo.zone/governance/dip6).
+**Compensating the team:** For 12 months, or until amended by a governance vote, Digital Infrastructure Inc. will receive $10,000 USD equivalent in $DIMO as a flat monthly fee for providing this service ($120,000 USD equivalent total). This will come out of the budget specified above and will come in place of the $150/hr compensation that could have been paid to Digital Infrastructure growth team personnel as specified in [DIP-6](https://docs.dimo.zone/governance/dip6).
 
 Funding for ecosystem marketing initiatives will be unlocked in tranches as described below.
 
-<table><thead><tr><th width="155">Tranche 1</th><th width="136.33333333333331">Amount</th><th>Unlock Criteria</th></tr></thead><tbody><tr><td>Tranche 1</td><td><p>5M $DIMO</p><p>350k Stables</p></td><td>Unlocked once DIP-9 Passes.</td></tr><tr><td>Tranche 2</td><td><p>5M $DIMO</p><p>350k Stables</p></td><td>Unlocked once 50,000 vehicles IDs minted on-chain.</td></tr><tr><td>Tranche 3</td><td>30M $DIMO</td><td>To be unlocked if and when Coinbase Learning Rewards launches. Coinbase Learning Rewards allows the roughly 100,000,000 Coinbase users to earn $DIMO by completing informative quizzes and quests (e.g., mint your car, share your car, use an app).</td></tr></tbody></table>
+<table><thead><tr><th width="155">Tranche 1</th><th width="136.33333333333331">Amount</th><th>Unlock Criteria</th></tr></thead><tbody><tr><td>Tranche 1</td><td>7M $DIMO</td><td>Unlocked once DIP-9 Passes.</td></tr><tr><td>Tranche 2</td><td>7M $DIMO</td><td>Unlocked once 50,000 vehicles IDs minted on-chain.</td></tr><tr><td>Tranche 3</td><td>30M $DIMO</td><td>To be unlocked if and when Coinbase Learning Rewards launches. Coinbase Learning Rewards allows the roughly 100,000,000 Coinbase users to earn $DIMO by completing informative quizzes and quests (e.g., mint your car, share your car, use an app).</td></tr></tbody></table>
 
 ### Authority & Domain
 
@@ -101,7 +101,7 @@ There is an element of uncertainty regarding the impact of various initiatives o
 
 ## Implementation
 
-If passed, the team will immediately begin working towards its mandates. The initial token allocation of 5,000,000 $DIMO & $350,000 in stables will be allocated via the DIMO Foundation after the four day timelock concludes.
+If passed, the team will immediately begin working towards its mandates. The initial token allocation of 7,000,000 $DIMO will be allocated via the DIMO Foundation after the four-day timelock concludes.
 
 ## Copyright
 
@@ -116,6 +116,8 @@ The DIMO Foundation, "DIP - 9: DIMO Marketing Funds", no. 9, May 2023. \[Online 
 ## Changelog
 
 May 30, 2023: added detail to the OTC sale terms.
+
+May 31, 2023: altered the budget to exclude a mandated OTC sale for increased flexibility.
 
 ## Disclaimer
 

@@ -18,7 +18,7 @@
 
 This DIP proposes the creation of a grants team called ‘Ignite’ and describes its role as a catalyst for the DIMO ecosystem. It will fund builders contributing to infrastructure and apps that make DIMO more useful and scalable. This proposal explains who team members are, how they plan to operationalize their goals, and their responsibility to the community.&#x20;
 
-The DIP proposes allocating $1,000,000 in stable tokens and 10M $DIMO (1% of total supply) to fund grants, bounties, and operations.&#x20;
+The DIP proposes allocating 16M $DIMO (1.6% of total supply) to fund grants, bounties, and operations.&#x20;
 
 ## Motivation
 
@@ -194,11 +194,11 @@ For bug & security bounties, the Ignite team will likely leverage one of the wel
 
 #### **Budget**
 
-**Funding initiatives:** This proposal sets aside a pool of $1,000,000 in stable tokens and 10,000,000 $DIMO tokens as the total allocation for Ignite. Except as specified below, these resources may only be used to fund grants and bounties.
+**Funding initiatives:** This proposal sets aside a pool of 16,000,000 $DIMO tokens as the total allocation for Ignite. Except as specified below, these resources may only be used to fund grants and bounties.
 
-These tokens would come from the[ unallocated treasury pool](https://docs.dimo.zone/overview/dimotoken/token-details-and-distribution) of $DIMO and OTC token sales. After all funds have been allocated, Ignite may file another proposal at a later date to continue operating. This proposal will require authorization for the DIMO Foundation to convert DIMO with an OTC partner to fund stable tokens.&#x20;
+These tokens would come from the[ unallocated treasury pool](https://docs.dimo.zone/overview/dimotoken/token-details-and-distribution) of $DIMO. After all funds have been allocated, Ignite may file another proposal at a later date to continue operating. If the Ignite Team wishes to issue grants with a mix of $DIMO and stable tokens, they may sell a portion of their $DIMO allocation, so long as they do so at market price on exchange or within 10% of current market price OTC / private placement.
 
-**Compensating the team:** For 12 months, or until amended by a governance vote, the Ignite team will receive $7,500 per month in $DIMO tokens as compensation for their efforts. This amount will come out of the pool of 10,000,000 $DIMO specified above. The chair and directors will set the compensation for each team member.
+**Compensating the team:** For 12 months, or until amended by a governance vote, the Ignite team will receive $7,500 USD equivalent per month in $DIMO tokens as compensation for their efforts. This amount will come out of the pool of 16,000,000 $DIMO specified above. The chair and directors will set the compensation for each team member.
 
 ### Authority & Domain
 
@@ -222,7 +222,7 @@ The only material risk is that the allocated funds do not generate their full po
 
 ## Implementation
 
-If and when this proposal passes, the team will immediately begin meeting and working towards our mandates. This includes putting in place the proper back office infrastructure and process. The initial token allocation of 10M $DIMO and $1,000,000 in stable tokens will be allocated via the DIMO Foundation.
+If and when this proposal passes, the team will immediately begin meeting and working towards our mandates. This includes putting in place the proper back office infrastructure and process. The initial token allocation of 16M $DIMO in stable tokens will be allocated via the DIMO Foundation.
 
 ## Copyright
 
@@ -237,6 +237,8 @@ The DIMO Foundation, "DIP-8: The Ignite Team", no. 8, May 2023. \[Online serial]
 ## Changelog
 
 May 30, 2023: updated members and added detail to the OTC sale terms.
+
+May 31, 2023: altered the budget to exclude a mandated OTC sale for increased flexibility.
 
 ## Disclaimer
 
