@@ -130,7 +130,7 @@ Similar to the bond required for licensing, device minting costs may be covered 
 
 ### Temporary Licenses
 
-For six months after the passage of this DIP, the following companies are have a temporary license. Following six months, they will need to apply for a permanent license per the process defined above.
+For six months after the passage of this DIP, the following companies have a temporary license. Following six months, they will need to apply for a permanent license per the process defined above.
 
 * [AutoPi Aps](https://www.autopi.io/) is licensed to produce it's [DIMO x AutoPi Data Miner](https://shop.dimo.zone/products/dimo-data-device?title=default%2520title)
 * [Smartcar](https://smartcar.com/) is licensed to offer a software connection
