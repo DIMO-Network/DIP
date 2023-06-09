@@ -198,6 +198,8 @@ For bug & security bounties, the Ignite team will likely leverage one of the wel
 
 These tokens would come from the[ unallocated treasury pool](https://docs.dimo.zone/overview/dimotoken/token-details-and-distribution) of $DIMO. After all funds have been allocated, Ignite may file another proposal at a later date to continue operating. If the Ignite Team wishes to issue grants with a mix of $DIMO and stable tokens, they may sell a portion of their $DIMO allocation, so long as they do so at market price on exchange or within 10% of current market price OTC / private placement.
 
+In the event of non-compliance or ineffective performance the DIMO Foundation, acting in good faith, or $DIMO token holders via governance vote, may call this allocation back. The Ignite Team agrees to honor such a request promptly.
+
 **Compensating the team:** For 12 months, or until amended by a governance vote, the Ignite team will receive $7,500 USD equivalent per month in $DIMO tokens as compensation for their efforts. This amount will come out of the pool of 16,000,000 $DIMO specified above. The chair and directors will set the compensation for each team member.
 
 ### Authority & Domain
@@ -239,6 +241,8 @@ The DIMO Foundation, "DIP-8: The Ignite Team", no. 8, May 2023. \[Online serial]
 May 30, 2023: updated members and added detail to the OTC sale terms.
 
 May 31, 2023: altered the budget to exclude a mandated OTC sale for increased flexibility.
+
+June 9, 2023: added provision to request a return of the allocation
 
 ## Disclaimer
 
