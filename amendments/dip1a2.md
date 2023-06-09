@@ -6,9 +6,9 @@
 >
 > **Submitter(s)**: Rob Solomon \[robsolomon.eth]
 >
-> **Status**: Review (at least until June 7, 2023 18:00 UTC)
+> **Status**: Voting (until June 16, 2023 16:00 UTC)
 >
-> **Voting URL**: Pending
+> **Voting URL**: [Snapshot](https://snapshot.org/#/dimo.eth/proposal/0xf10888550c0e443d0aaec0255f2c397227355c564d93e368916541cf27cfb254)
 >
 > **Discussion Forum**: [Discord](https://chat.dimo.zone) #🗳️governance forum
 >
@@ -34,7 +34,9 @@ We recognize that upgrading a smart contract, particularly when inheritance is i
 
 Attached is a security audit report conducted by Sayfer that tested this upgrade as well as a few others.
 
-{% file src="../.gitbook/assets/Smart Contract Audit Report for Dimo.pdf" %}
+{% file src="../.gitbook/assets/Sayfer - 2023 - Smart Contract Auditing DIMO CFD.pdf" %}
+
+{% file src="../.gitbook/assets/Smart Contract Audit Report for Dimo (1).pdf" %}
 
 #### Amendments to DIP-1
 

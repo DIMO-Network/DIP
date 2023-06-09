@@ -18,9 +18,9 @@ We recommend using [this website](https://delegate.dimo.zone/) to easily delegat
 
 Below, you can see active proposals that $DIMO token holders can vote on now, proposals that are receiving feedback and aren't ready for voting yet, and the entire index of all DIPs passed and failed. You may view DIPs on [Github](https://github.com/DIMO-Network/DIP) or [Gitbook](https://docs.dimo.zone/dips). The official discussion forum for DIMO governance is the [Discord](https://chat.dimo.zone).
 
-**Voting active for:** none
+**Voting active for:** [DIP-8](dip8.md), [DIP-9](dip9.md), [DIP-1a2](amendments/dip1a2.md)
 
-**Community review**: [DIP-8](dip8.md), [DIP-9](dip9.md), [DIP-1a2](amendments/dip1a2.md)
+**Community review**: none&#x20;
 
 <table><thead><tr><th width="543">DIMO Improvement Proposals</th><th width="115.66666666666674">Status</th></tr></thead><tbody><tr><td><a href="dip1.md">DIP-1: Governance Guidelines</a></td><td>Deployed</td></tr><tr><td><a href="dip2.md">DIP-2: Baseline Issuance</a></td><td>Deployed</td></tr><tr><td><a href="dip3.md">DIP-3: Marketplace Issuance &#x26; Token Burn</a></td><td>Deployed</td></tr><tr><td><a href="dip4.md">DIP-4: Device Integrations</a></td><td>Deployed</td></tr><tr><td><a href="dip5.md">DIP-5: Ecosystem</a></td><td>Deployed</td></tr><tr><td><a href="amendments/dip6a1.md">DIP-6: The DIMO Foundation</a></td><td>Deployed</td></tr><tr><td><a href="dip7.md">DIP-7: Referrals Round 1</a></td><td>Deployed</td></tr><tr><td><a href="dip8.md">DIP-8: The Ignite Team</a></td><td>Review</td></tr><tr><td><a href="dip9.md">DIP-9: Marketing Grants #1</a></td><td>Review</td></tr></tbody></table>
 
