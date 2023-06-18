@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: Rob Solomon \[robsolomon.eth]
 >
-> **Status**: Voting (until June 16, 2023 16:00 UTC)
+> **Status**: Approved
 >
 > **Voting URL**: [Snapshot](https://snapshot.org/#/dimo.eth/proposal/0xf10888550c0e443d0aaec0255f2c397227355c564d93e368916541cf27cfb254)
 >
