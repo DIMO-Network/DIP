@@ -121,6 +121,8 @@ The DIMO Foundation, "DIP-6: The DIMO Foundation", no. 6, January 2023. \[Online
 
 Jan 9, 2023: added financial ask section and combined execution plan and team operating structure sections
 
+Mar 29, 2023: passed [DIP-6: Amendment 1](amendments/dip6a1.md)
+
 ## Disclaimer
 
 The contract addresses for $DIMO are [0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b](https://etherscan.io/token/0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b) on Ethereum and [0xE261D618a959aFfFd53168Cd07D12E37B26761db](https://polygonscan.com/token/0xE261D618a959aFfFd53168Cd07D12E37B26761db) on Polygon. Please always confirm that you are interacting with these contract addresses and not those of a fraudulent imitator. This proposal may not be enacted if it violates Cayman Islands law. Please triple check that any communications are authentic as it’s common for scammers to try to trick you into sending them crypto or into revealing your private keys.
