@@ -16,7 +16,7 @@
 
 ## Abstract
 
-Hashdog ([hashdog.ai](https://hashdog.ai)) is an electronics manufacturer based in China. Hashdog is a part of the holding company JDI, which is also the parent company of Bobcat ([bobber.com](https://www.bobber.com/)). Bobcat has shipped over 400,000 Helium miners to date, and shares the same engineering team and experience. Hashdog is applying for a Manufacturing License to produce a DIMO compatible OBD dongle that uses the Helium LoRaWAN network along with Bluetooth.&#x20;
+Hashdog is an electronics manufacturer based in China. Hashdog is a part of the holding company JDI, which is also the parent company of Bobcat. Bobcat has shipped over 400,000 Helium miners to date, and shares the same engineering team and experience. Hashdog is applying for a Manufacturing License to produce a DIMO compatible OBD dongle that uses the Helium LoRaWAN network along with Bluetooth.&#x20;
 
 ## Motivation
 
