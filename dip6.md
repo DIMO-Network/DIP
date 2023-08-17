@@ -36,7 +36,7 @@ The power and importance of the DIMO Foundation should shrink over time as DIMO 
 
 ### Execution Plan & Team Operating Structure
 
-The DIMO Foundation is controlled by professional directors registered with the Cayman Islands Monetary Authority (CIMA) with extensive legal, financial, and blockchain experience. More information on the structure of the foundation can be found at [DIMO Foundation Information](http://localhost:5000/o/IDM0isB8NflgM8HmoQc9/s/XrD4OPpblYqPDIzou05o/ "mention").
+The DIMO Foundation is controlled by professional directors registered with the Cayman Islands Monetary Authority (CIMA) with extensive legal, financial, and blockchain experience. More information on the structure of the foundation can be found at [DIMO Foundation Information](http://127.0.0.1:5000/o/IDM0isB8NflgM8HmoQc9/s/XrD4OPpblYqPDIzou05o/ "mention").
 
 Notably, Digital Infrastructure Inc., the corporation that initially developed DIMO, continues to contribute under a services agreement. The DIMO Foundation and community will continue to engage various contributors across many companies and geographies to build a distributed network of teams helping to build DIMO.
 
@@ -44,7 +44,7 @@ Notably, Digital Infrastructure Inc., the corporation that initially developed D
 
 #### Resources
 
-The Foundation currently has 1,127,503.27 $DAI in its [Wallets](http://localhost:5000/s/XrD4OPpblYqPDIzou05o/wallets "mention"), which is what remains of the 1,250,000 $DAI donated by Digital Infrastructure Inc.&#x20;
+The Foundation currently has 1,127,503.27 $DAI in its [Wallets](http://127.0.0.1:5000/s/XrD4OPpblYqPDIzou05o/wallets "mention"), which is what remains of the 1,250,000 $DAI donated by Digital Infrastructure Inc.&#x20;
 
 The Foundation is actively working to open up a bank account and would convert some of that $DAI to fiat US dollars.
 
@@ -68,7 +68,7 @@ These tokens would come from the [unallocated treasury pool](https://docs.dimo.z
 
 #### Smart contract admin
 
-The DIMO Foundation Gnosis Safe [Wallets](http://localhost:5000/s/XrD4OPpblYqPDIzou05o/wallets "mention") are the admins on various protocol [smart contracts](https://dimo.zone/transparency) such the token itself, baseline issuance, governance, and registry contracts. These permissions allow smart contracts to be upgraded.&#x20;
+The DIMO Foundation Gnosis Safe [Wallets](http://127.0.0.1:5000/s/XrD4OPpblYqPDIzou05o/wallets "mention") are the admins on various protocol [smart contracts](https://dimo.zone/transparency) such the token itself, baseline issuance, governance, and registry contracts. These permissions allow smart contracts to be upgraded.&#x20;
 
 The DIMO Foundation may only utilize this administrative privilege as authorized by governance votes. Eventually, all administrative privileges should be transitioned to on-chain governance contracts.
 

@@ -12,7 +12,7 @@
 >
 > **Discussion Forum**: [Discord](https://chat.dimo.zone) #🗳️governance forum
 >
-> **Vote Type**: Level 3
+> **Vote Type**: [Level 3](../dip1.md#voting-protocol)
 
 ## Abstract
 
@@ -32,7 +32,7 @@ Users are able to opt-in to sharing data with licensed DIMO Apps. These apps mus
 
 For all transactions involving the sale of user data or access, the amount will be translated to $DIMO tokens and the portion owed to the user will be distributed in $DIMO and 1% of the transaction will be burned.
 
-If the <mark style="color:red;">the transaction is denominated</mark>~~<mark style="color:red;">end data customer pays</mark>~~ <mark style="color:red;"></mark><mark style="color:red;"></mark> in $DIMO, the calculation is obvious. If <mark style="color:red;">denominated or paid</mark>~~<mark style="color:red;">they pay</mark>~~ in fiat (USD, EUR, GBP) or other assets (DAI, BTC, ETH), <mark style="color:red;">amounts are converted to $DIMO at the current market price at the time of the transaction. The node operator may choose between CoinMarketCap and CoinGecko for the price oracle.</mark>~~<mark style="color:red;">$1 USD of value will translate to 1 $DIMO. This exchange rate may be altered by any future governance vote.</mark>~~
+If the <mark style="color:red;">the transaction is denominated</mark>~~<mark style="color:red;">end data customer pays</mark>~~ in $DIMO, the calculation is obvious. If <mark style="color:red;">denominated or paid</mark>~~<mark style="color:red;">they pay</mark>~~ in fiat (USD, EUR, GBP) or other assets (DAI, BTC, ETH), <mark style="color:red;">amounts are converted to $DIMO at the current market price at the time of the transaction. The node operator may choose between CoinMarketCap and CoinGecko for the price oracle.</mark>~~<mark style="color:red;">$1 USD of value will translate to 1 $DIMO. This exchange rate may be altered by any future governance vote.</mark>~~
 
 The easiest way to understand this mechanism is through examples of various transaction types, all listed below.&#x20;
 
