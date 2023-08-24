@@ -4,11 +4,11 @@
 >
 > **Author:** The DIMO Foundation
 >
-> **Submitter:** The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
+> **Submitter(s):** The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status:** Review
+> **Status:** Voting (until August 31, 2023 16:19 UTC)
 >
-> **Voting URL:**[ ](https://snapshot.org/#/dimo.eth/proposal/0x74f67d2da46e74e190063932f7b6a27fdafc7fa368ee5a275335db3a9e666499)Pending
+> **Voting URL:**[ ](https://snapshot.org/#/dimo.eth/proposal/0x74f67d2da46e74e190063932f7b6a27fdafc7fa368ee5a275335db3a9e666499)[Snapshot](https://snapshot.org/#/dimo.eth/proposal/0xa9e9c01c66c776e53b06b384782e6302de29201b14a050cb6be2f511143d4ba5)
 >
 > **Discussion Forum:**[ Discord](https://chat.dimo.zone/) #🗳️governance forum
 >
