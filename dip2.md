@@ -50,17 +50,17 @@ Lastly, user wallets must not be flagged by Chainalysis' [AML tools](https://www
 
 Points are calculated as follows:
 
-<figure><img src=".gitbook/assets/Points.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-09-05 at 1.31.22 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Users who fail to connect for three consecutive weeks will fall back one level.
 
-In the example shown in the table above, Alice earns 2,000 points for having been connected between 20 to 36 weeks, 1,000 points for her SmartCar software connection, and 6,000 points for having a [DIMO Data Miner](https://shop.dimo.zone) installed in her vehicle.
+In the example shown in the table above, Alice earns 2,000 points for having been connected between 20 to 36 weeks, 1,000 points for her Smartcar software connection, and 6,000 points for having a Full-Size OBD Dongle installed in her vehicle.
 
 Here there are 10,000 cars connected to DIMO and each car generates an average of 6,000 points that week, for a total of 60,000,000 points. Alice's 9,000 points represent 0.015% of the points for that week (9,000 ÷ 60,000,000). Therefore, she earns 165.75 out of the 1,105,000 tokens from this pool (1,105,000 \* 0.015%).
 
 Curious how this would play out for people besides Alice? The table below shows earnings for a small sample of hypothetical drivers in the same hypothetical week. This is meant to be illustrative using a small handful of made up users, not an exhaustive list of every combination of attributes.
 
-<figure><img src=".gitbook/assets/Baseline Hypotheticals.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-09-05 at 1.31.53 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Implementation
 
@@ -85,6 +85,8 @@ Dec 7, 2022: adjusted review date to give people more time to claim the Airdrop 
 Jan 6, 2023: final adjustment to review date — proposals go to vote on Tuesday Jan 10.
 
 Jan 26, 2023: adjusted review date again to allow for fixes to delegation strategy prior to voting.
+
+Aug 31, 2023: passed [DIP-2: Amendment 1](amendments/dip2a1.md)
 
 ## Token Disclaimer
 

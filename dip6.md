@@ -50,19 +50,19 @@ The Foundation is actively working to open up a bank account and would convert s
 
 #### Budget
 
-The DIMO Foundation anticipates spending approximately $800,000 in 2023. $200,000 of that would be on administrative overhead, including directors salaries, legal fees, insurance, KYC services, technology subscriptions, and more. Another $600,000 would be to compensate contributors who build and grow the DIMO protocol. Digital Infrastructure Inc. is under contract to provide services at $150 per hour and is expected to be the largest such contributor.
+The DIMO Foundation anticipates spending approximately $1,800,000 in 2023. $200,000 of that would be on administrative overhead, including directors salaries, legal fees, insurance, KYC services, technology subscriptions, and more. Another $600,000 would be to compensate contributors who build and grow the DIMO protocol. Digital Infrastructure Inc. is under contract to provide services at $150 per hour and is expected to be the largest such contributor. Up to $1,000,000 will be used to increase the availability of $DIMO on exchanges.
 
-To leave some extra buffer for the unexpected, **this proposal gives the DIMO Foundation the authority to spend up to 1,000,000 in USD equivalent in 2023 for relevant operations**.
+To leave some extra buffer for the unexpected, **this proposal gives the DIMO Foundation the authority to spend up to 2,000,000 in USD equivalent in 2023 for relevant operations**.
 
 #### Treasury Initiatives
 
-Additionally, this proposal authorizes the DIMO Foundation to sell up to 25,000,000 $DIMO tokens and to loan up to 25,000,000 $DIMO tokens to market makers.
+This proposal authorizes the DIMO Foundation to loan up to 40,000,000 $DIMO tokens to market makers.
 
-The DIMO Foundation may not sell this specific pool of tokens below $0.30. A minimum one-year lockup is required on token sales unless there is a bona fide expectation that the purchaser will use a majority of those tokens themselves to use DIMO, such as to produce devices or operate a node.
+Additionally, for a period of 120 days following the passage of this proposal, the DIMO Foundation is authorized to sell up to 48,000,000 $DIMO to Digital Infrastructure Inc. for $0.11 per token for a total sum of up to $5,280,000 USD. These tokens would be subject to a mutually agreeable lockup. The purpose of this sale is to diversify the DIMO treasury and provide resources for long-term development.
 
-The Foundation will make its best effort to balance regulatory, financial, and strategic considerations to maximize the long-term health of the DIMO protocol.
+The DIMO Foundation has already sold 833,333.33 $DIMO tokens at $0.30 in accordance with the original language of this governance proposal.
 
-These tokens would come from the [unallocated treasury pool](https://docs.dimo.zone/overview/dimotoken/token-details-and-distribution) of 250,000,000 $DIMO. This may be amended or deals on other terms (e.g., below $0.30) may be authorized by any valid governance vote.
+The Foundation will make its best effort to balance regulatory, financial, and strategic considerations to maximize the long-term health of the DIMO protocol. These tokens would come from the [unallocated treasury pool](https://docs.dimo.zone/overview/dimotoken/token-details-and-distribution) of 250,000,000 $DIMO.
 
 ### Authority & Domain
 
@@ -122,6 +122,8 @@ The DIMO Foundation, "DIP-6: The DIMO Foundation", no. 6, January 2023. \[Online
 Jan 9, 2023: added financial ask section and combined execution plan and team operating structure sections
 
 Mar 29, 2023: passed [DIP-6: Amendment 1](amendments/dip6a1.md)
+
+Aug 31, 2023: passed [DIP-6: Amendment 2](amendments/dip6a2.md) and [DIP-6: Amendment 3](amendments/dip6a3.md)
 
 ## Disclaimer
 
