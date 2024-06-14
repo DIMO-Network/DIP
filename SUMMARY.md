@@ -28,7 +28,3 @@
 * [Basic Template](templates/basic-template.md)
 * [Resource Allocation Template](templates/resource-allocation-template.md)
 * [License Approval Template](templates/license-approval-template.md)
-
-***
-
-* [DIMO Nodes & Token Upgrades](dimo-nodes-and-token-upgrades.md)
