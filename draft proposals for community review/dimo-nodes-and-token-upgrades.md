@@ -111,10 +111,10 @@ Running a node on DIMO is fairly straightforward. Node operators must:
 
 #### **Penalties**
 
-As previously described in [Using DCX for vehicle data access fees](dimo-nodes-and-token-upgrades.md#using-dcx-for-vehicle-data-access-fees), a node and user only earn the full amount of DCX when there is 3% or less downtime in a given month. Above this threshold, nodes and users will miss out on DCX in proportion to the downtime percentage. Additionally, when downtime is at or above 10%, nodes are subject to additional slashing penalties per the simple formula dB \* 1%, where d is the percent downtime for the month and B is the required bond amount set by the DIMO protocol for node operators (currently 100,000 $DIMO).
+As previously described in [Using DCX for vehicle data access fees](dimo-nodes-and-token-upgrades.md#using-dcx-for-vehicle-data-access-fees), a node and user only earn the full amount of DCX when there is 3% or less downtime in a given month. Above this threshold, nodes and users will miss out on DCX in proportion to the downtime percentage. Additionally, when downtime is at or above 10%, nodes are subject to additional slashing penalties per the simple formula dB * 1%, where d is the percent downtime for the month and B is the required bond amount set by the DIMO protocol for node operators (currently 100,000 $DIMO).
 
 This would result in the following slashing penalties for downtime for a given month.
 <br></br>
 <p align=center><img src="../.gitbook/assets/Chart_3.png" width=900 alt=""></p>
 <br></br>
-If a Node’s bonded amount drops below 80% of the required amount (currently that’s 100,000 \* 80% = 80,000 $DIMO), they will have two months to replenish their bond before their license is revoked.
+If a Node’s bonded amount drops below 80% of the required amount (currently that’s 100,000 * 80% = 80,000 $DIMO), they will have two months to replenish their bond before their license is revoked.
