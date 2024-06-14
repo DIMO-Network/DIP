@@ -116,5 +116,3 @@ This would result in the following slashing penalties for downtime for a given m
 <figure><img src=".gitbook/assets/Chart_3.png" alt=""><figcaption></figcaption></figure>
 
 If a Node’s bonded amount drops below 80% of the required amount (currently that’s 100,000 \* 80% = 80,000 $DIMO), they will have two months to replenish their bond before their license is revoked.
-
-\
