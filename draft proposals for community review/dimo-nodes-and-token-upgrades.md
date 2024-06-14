@@ -1,6 +1,6 @@
 # DIMO Nodes & Token Upgrades
 
-The following outlines a **possible** tokenomic upgrade to the DIMO protocol. **This change is not guaranteed to be implemented and this post is shared for feedback and reference purposes only.**
+The following outlines a **possible** tokenomic upgrade to the DIMO protocol. **This change is not guaranteed to be implemented and this post is shared for feedback and reference purposes only. You are encouraged to provide add any questions, concerns, or other feedback [here](https://github.com/DIMO-Network/DIP/issues/7).**
 
 It specifies how applications built on DIMO can pay for access to user vehicle data, once they are authorized by the user, using a stable DIMO Credit (DCX) or $DIMO. It also specifies how DCX is used in other types of transactions, how $DIMO tokens are converted into DCX, and how some of that $DIMO is recycled and rewarded back to both users and the nodes that store their data. This model draws inspiration from Helium, particularly the relationship of HNT to Data Credits and Data Transfer rewards.
 
