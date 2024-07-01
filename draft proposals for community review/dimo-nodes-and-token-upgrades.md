@@ -53,7 +53,8 @@ DCX gives us the opportunity to provide a stable price for hardware minting and 
 <br></br>
 <p align=center><img src="../.gitbook/assets/image (20).png" width=900 alt=""></p>
 <br></br>
-As is this case with paying for API access, users can pay all fees in either DCX or $DIMO, which **includes the blockchain gas cost** covered by the paymaster, meaning that users and apps never need MATIC, ETH, or any other gas token. Applications can also sponsor the cost of all fees paid in DCX or $DIMO if they want to provide the user with a streamlined, entirely gasless and paymentless experience**.**
+
+As is this case with paying for API access, users can pay all fees in either DCX or $DIMO, which **includes the blockchain gas cost** covered by the paymaster, meaning that users and apps never need MATIC, ETH, or any other gas token. Applications can also sponsor the cost of all fees paid in DCX or $DIMO if they want to provide the user with a streamlined, entirely gasless and paymentless experience.
 
 $DIMO token holders can always vote to add and adjust fees in the future as the network matures. Some examples include fees to: transfer a digital vehicle title; issue credentials related to maintenance; or register a car with the DMV onchain.
 
