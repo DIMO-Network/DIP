@@ -16,7 +16,7 @@
 
 ## Abstract
 
-This amendment to [DIP-2 ](../dip2.md)adds baseline rewards eligibility for a new category of DIMO compatible hardware, the Mini OBD Dongle. This device will earn 2,000 points per car week, plus a streak bonus. It also renames the DIMO Data Miner to the Full-size OBD Dongle to distinguish the two categories.
+This amendment to [DIP-2 ](../improvement-proposals/dip2.md)adds baseline rewards eligibility for a new category of DIMO compatible hardware, the Mini OBD Dongle. This device will earn 2,000 points per car week, plus a streak bonus. It also renames the DIMO Data Miner to the Full-size OBD Dongle to distinguish the two categories.
 
 It also corrects a few old typos… oops!
 

@@ -12,7 +12,7 @@
 >
 > **Discussion Forum**: [Discord](https://chat.dimo.zone) #🗳️governance forum
 >
-> **Vote Type**: [Level 3](../dip1.md#voting-protocol)
+> **Vote Type**: [Level 3](../improvement-proposals/dip1.md#voting-protocol)
 
 ## Abstract
 
@@ -64,7 +64,7 @@ Verizon subscribes to your cell coverage data so they can map their signal stren
   * DataWiz receives $2.97/month USD (<mark style="color:red;">$</mark>60 x 99% x 5%)
   * <mark style="color:red;">You receive 5.64 $DIMO per month ($60 / 10 $perDIMO x 99% x 95%)</mark> <mark style="color:red;"></mark>~~<mark style="color:red;">You receive 56.43 $DIMO per month (60 x 99% x 95%)</mark>~~
 
-<img src="../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.drawing (3).svg" alt="" class="gitbook-drawing">
 
 #### Example 3: Direct incentives
 
