@@ -6,9 +6,9 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review (until July 15th, 2024 at 16:00:00 UTC)
+> **Status**: Voting (until July 22nd, 2024 at 16:29:00 UTC)
 >
-> **Voting URL**: Pending
+> **Voting URL**: [Snapshot](https://snapshot.org/#/dimo.eth/proposal/0x55391ec05a9d5db152f945110008217fa7f7c0ad3af37a3fb6de333e3c9b2c7f)
 >
 > **Discussion Forum**: [Discord](https://chat.dimo.zone) #🗳️governance forum
 >

@@ -6,9 +6,9 @@
 >
 > **Submitter(s):** The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review (until July 15th, 2024 at 16:00:00 UTC)
+> **Status**: Voting (until July 22nd, 2024 at 16:32:00 UTC)
 >
-> **Voting URL**: Pending
+> **Voting URL**: [Snapshot](https://snapshot.org/#/dimo.eth/proposal/0xe4d15a73dddd0570a6ee4a97e3574786f0fd888639632a942eae0b265bc86917)
 >
 > **Discussion Forum**: [Discord](https://chat.dimo.zone) #🗳️governance forum
 >
@@ -44,7 +44,7 @@ _<mark style="color:green;">// And would make the following changes to the Speci
 
 ~~<mark style="color:red;">The Foundation is actively working to open up a bank account and would convert some of that $DAI to fiat US dollars.</mark>~~
 
-<mark style="color:red;">As of the July 5th 2024, the DIMO Treasury contains  $10,276,785.64</mark> <mark style="color:red;"></mark><mark style="color:red;">in USD and stablecoins, as well as</mark> <mark style="color:red;"></mark><mark style="color:red;">472,045,031 $DIMO tokens (141,513,446 of which are not yet earmarked for any purpose). Except for the $2,348,070.45 in cash held in a legacy bank account, balances can be found in the DIMO Foundation wallets posted</mark> [<mark style="color:red;">here</mark>](https://docs.dimo.zone/foundation/wallets)<mark style="color:red;">.</mark>
+<mark style="color:red;">As of the July 5th 2024, the DIMO Treasury contains  $10,276,785.64 in USD and stablecoins, as well as 472,045,031 $DIMO tokens (141,513,446 of which are not yet earmarked for any purpose). Except for the $2,348,070.45 in cash held in a legacy bank account, balances can be found in the DIMO Foundation wallets posted</mark> [<mark style="color:red;">here</mark>](https://docs.dimo.zone/foundation/wallets)<mark style="color:red;">.</mark>
 
 <mark style="color:red;">A breakdown of $DIMO token treasury allocations is shown below.</mark>
 
