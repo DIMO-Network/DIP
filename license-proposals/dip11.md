@@ -6,7 +6,7 @@
 >
 > **Submitter(s):** The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Voting (until July 22nd, 2024 at 18:00:00 UTC)
+> **Status**: Approved
 >
 > **Voting URL**: [Snapshot](https://snapshot.org/#/dimo.eth/proposal/0x9d93ab79916c69c1cbb3356877fb08b8d12f216511115a0572767bc4eba6c32e)
 >
