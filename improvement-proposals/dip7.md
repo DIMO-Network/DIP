@@ -62,7 +62,7 @@ Copyright and related rights waived via [CC0](https://creativecommons.org/public
 
 Please cite this document as:
 
-The DIMO Foundation, "DIP-7: Referral Bonus", no. 7, February 2023. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
+The DIMO Foundation, "DIP-7: Referrals", no. 7, February 2023. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
 
 ## Changelog
 

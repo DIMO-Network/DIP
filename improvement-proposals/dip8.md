@@ -234,7 +234,7 @@ Copyright and related rights waived via[ CC0](https://creativecommons.org/public
 
 Please cite this document as:
 
-The DIMO Foundation, "DIP-8: The Ignite Team", no. 8, May 2023. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
+The DIMO Foundation, "DIP-8: Ignite Grants", no. 8, May 2023. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
 
 ## Changelog
 
