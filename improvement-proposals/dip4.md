@@ -16,13 +16,13 @@
 
 ## Abstract
 
-This proposal outlines the method by which hardware manufacturers (like [AutoPi](https://www.autopi.io/)) who produce compatible devices, as well as software developers (like [SmartCar](https://smartcar.com/)) who build digital integrations (collectively referred to as integration providers) bond $DIMO and receive a license.
+This proposal outlines the method by which hardware manufacturers (like [AutoPi](https://www.autopi.io/)) who produce compatible devices, as well as software developers (like Digital Infrastructure Inc.) who build digital integrations (collectively referred to as integration providers) bond $DIMO and receive a license.
 
 The requirements for any integration providers are that they must:&#x20;
 
-1. Pass a DIP that approves their license application;
-2. Bond 100,000 $DIMO tokens as a security deposit;&#x20;
-3. Transfer the applicable amount of $DIMO for each integrations they enable; and
+1. Pass a DLP that approves their license application;
+2. Bond $DIMO tokens as a security deposit;&#x20;
+3. Pay the applicable amount of DIMO Credits (DCX) for each integration they enable; and
 4. Remain in good standing with the community.&#x20;
 
 ## Motivation&#x20;
@@ -39,7 +39,7 @@ The goals of this proposal are to:&#x20;
 
 ### Integration Providers & Device Licenses
 
-In order to connect to DIMO users, their vehicles, and their data, integration providers must agree to various obligations, receive a license by passing a DIP, bond 100,000 $DIMO, and deposit $DIMO for each device they sell.
+In order to connect to DIMO users, their vehicles, and their data, integration providers must agree to various obligations, receive a license by passing a DLP, bond the required amount, and pay DCX for each device they sell.
 
 #### Obligations
 
@@ -60,15 +60,9 @@ Connection methods must:&#x20;
 
 #### Application&#x20;
 
-Prospective integration providers may receive a license by passing a DIP using the [License Approval Template](../templates/license-approval-template.md). The application must provide details about their business, their operating history, as well as specifications for the initial devices they intend to manufacture and/or software services they intend to provide.&#x20;
+Prospective integration providers may receive a license by passing a DLP using the [License Approval Template](../templates/license-approval-template.md). The application must provide details about their business, their operating history, as well as specifications for the initial devices they intend to manufacture and/or software services they intend to provide.&#x20;
 
-The DIP must contain specifications for at least one device design, test units, and data samples and/or a code repository and a functioning demo. Licensed providers are able to submit additional and simplified applications for new devices and software methods at any time.
-
-_Integration Types_&#x20;
-
-All integrations methods must be categorized as one of the following device types. New device types may be added by token holders with a valid governance vote.
-
-<table><thead><tr><th width="150">Device Type</th><th width="154">Concept Image</th><th width="180.02149740548558">Description</th><th width="173">Typical Price Point</th></tr></thead><tbody><tr><td>Software Only</td><td>N/A</td><td>Leverages existing vehicle subscription programs and their APIs to establish a baseline of connectivity</td><td>No added charge. Vehicle manufacturer (e.g., Ford, BMW) may charge a subscription fee.</td></tr><tr><td>Dongle</td><td><img src="https://lh4.googleusercontent.com/GRTqY_WLRyeZOLP1pVBYfSYdGVUWt1PkoETQV6RMpp9dv9J6eBachCMRinU0xTLmllv5FqrXc8HwsaIHoxTS3Iu6sz7MmxaB9SELzz2A5lGaXZ7vTFR0DIGKLzBK31NezvVeTh506XH9k-kG6dP8eg" alt="" data-size="line"></td><td>Records vehicle data from the CAN bus.</td><td>$350</td></tr><tr><td>Hub</td><td><img src="https://lh6.googleusercontent.com/cW34tdb4DmfURDEFbWxoxj5ERDEnqZHH2dsUASFow2t-xKnmK1hxqO3rW6PCSvZ6mR5BsoYcbaQk-rJqlDaouSZsjcpehE2iIDjkt0s5syt9VMT1XL0XRlT0qh00mwwVSA-h9io-mOh4EX9Al6Ldpg" alt="" data-size="line"></td><td>IoT hub that enables long term local storage and backup of data.</td><td>$500</td></tr><tr><td>Dash Camera</td><td><img src="https://lh6.googleusercontent.com/iHX9U2U_0JmIAT9N6wWHBLrbaeBgSmAe0BOQl-AidpMPL6sYyUN0-L4glSSDJpbtae7zMV4lDKNqsE1Sno6nt5kvvr1Vq-8Q_XDzT9C-HIh_ySkiKT7ZFjpLnMMohFqSotMraAwn1VgRehEiAHRpYQ" alt="" data-size="line"></td><td>Device that records camera footage and possibly other telemetry</td><td>$500</td></tr><tr><td>Fleet Device</td><td><img src="https://lh4.googleusercontent.com/5GZ6wu9JU1rmER4U0qvBEsCdZ4EyCfSwlHNuy7ap1eN807pdaKGttS2RSnNF2Ic0mr73AMnbxgKYiq124gEkfOCQUqwRGDBx66_CajHhfXEXjfBBb9hsb5Leg4OZ5ewSK2uKH_gzjt-RGhyPXECMpg" alt="" data-size="line"></td><td>Telemetry devices designed for commercial use</td><td>$1,000</td></tr><tr><td>AI Device</td><td><img src="https://lh6.googleusercontent.com/wKACXQZGzx-nPAWv3ks_rD0yr36c4W9k470JyfYbijs6RbY6crv0XLXKJ9jET5Eg0nvS_wzsRYtSnQKFpbiLI0c6w8jnl9YUmbVEISXcn3E0nP6LIEwWY1lEUZMVztYiHiCxvpQqY6IUx_kLtu1ECw" alt="" data-size="line"></td><td>Device that supplements enhanced driving features (e.g., Comma AI)</td><td>$2,000</td></tr></tbody></table>
+The DLP must contain specifications for at least one device design, test units, and data samples and/or a code repository and a functioning demo. Licensed providers are able to submit additional and simplified applications for new devices and software methods at any time.
 
 #### Connection Specifications&#x20;
 
@@ -84,15 +78,25 @@ Hardware Only&#x20;
 
 #### Licenses & Bonding&#x20;
 
-Licenses are NFTs that can only be minted or transferred by DIMO Integrations. These certify the integration provider meets all required qualifications required and has been whitelisted for the production of compatible devices. After receiving a license, the integration provider is required to submit a deposit of 100,000 $DIMO tokens (the “bond”). For more on how this works, see [License](https://app.gitbook.com/s/fmY0p4toAb7e89toAV2R/identity-protocol/nodes-and-nfts/license "mention").
+Licenses are NFTs that can only be minted or transferred by DIMO Integrations. These certify the integration provider meets all required qualifications required and has been whitelisted for the production of compatible devices. After receiving a license, the integration provider is required to submit a deposit of $DIMO tokens (the “bond”). For more on how this works, see [License](https://app.gitbook.com/s/fmY0p4toAb7e89toAV2R/identity-protocol/nodes-and-nfts/license "mention").
+
+Periodically, or with a significant change in price of $DIMO, the amount required to bond will rebase automatically. Every year on January 1st, the bond amount automatically adjusts to whatever the amount of $DIMO is that is equivalent to $10,000 USD. Rebasing can also happen within the year, whenever the 7 day token weighted average price (TWAP) of $DIMO changes by 50% or more relative to the price last used to calculate the deposit amount. For example, if $DIMO is worth $2.00 on January 1st, the bond requirement is 5,000 $DIMO. If the price of $DIMO increases to $2.80, there is no change in the deposit amount. Once the token weighted average price over 7 days increases to $3.00, then the bond requirement is rebased to 3,333 $DIMO.
+
+If the bond amount is ever decreased, existing license holders have the option to withdraw the excess amount by notifying the DIMO Foundation of their desire to do so. If the bond amount ever increases, the license holder is grandfathered in and not obligated to add additional $DIMO.
+
+This DIP may be updated without passing an amendment to update the bond amount below per the rules described herein.
+
+**As of the last rebasing on July 5, 2024, the bond amount is 77,101 $DIMO.**
+
+Past bond amounts were:
+
+* December 12, 2022: 100,000 $DIMO
 
 ![](<../.gitbook/assets/image (6).png>)
 
 While it is preferred that the integration provider is the party putting up the bond, it is also possible for a financing partner, such as a distributor, to put up the bond on behalf of the manufacturer.&#x20;
 
 Should applicants not have $DIMO or not want to interact with tokens, they may purchase $DIMO from the Foundation and/or have the Foundation put up the bond on their behalf.
-
-The bonding amount may be altered by any future governance vote.
 
 #### Slashing & License Revocation&#x20;
 
@@ -106,35 +110,9 @@ Any manufacturer may renounce their license and receive back their bonded $DIMO 
 
 #### Device Payment Requirements&#x20;
 
-For physical hardware, licensed manufacturers pay a set amount of $DIMO to mint a device and enable it to connect to the $DIMO network.
+For physical hardware, licensed manufacturers pay 4,000 DIMO Credits (DCX) to mint a device and enable it to connect to the DIMO network.
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-The $DIMO payment is set aside. Each month that the connection persists, the integration provider receives some of that $DIMO back as rebate for twenty four months until they earn back 70%.&#x20;
-
-Why add this complexity? It's to align incentives.
-
-This rebate mechanism ensures that both integration providers and DIMO Integrations are long-term holders of $DIMO and that they have an incentive to produce resilient devices and services that users will love and want to keep connected.
-
-The DIMO Treasury keeps any $DIMO that isn't returned to the manufacturer.
-
-<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
-
-#### Cost of Device Minting
-
-The amount of DIMO required for device minting varies by device type.
-
-<table><thead><tr><th width="150">Type</th><th width="312">Description</th><th>Cost (in $DIMO)</th></tr></thead><tbody><tr><td>Software </td><td>Leverages existing vehicle subscription programs and their APIs to establish a baseline of connectivity</td><td>0</td></tr><tr><td>Hardware</td><td>New hardware that users and purchase and install in their vehicle.</td><td>25</td></tr></tbody></table>
-
-Similar to the bond required for licensing, device minting costs may be covered by financing partners, such as a distributor.&#x20;
-
-### Temporary Licenses
-
-For six months after the passage of this DIP, the following companies have a temporary license. Following six months, they will need to apply for a permanent license per the process defined above.
-
-* [AutoPi Aps](https://www.autopi.io/) is licensed to produce it's [DIMO x AutoPi Data Miner](https://shop.dimo.zone/products/dimo-data-device?title=default%2520title)
-* [Smartcar](https://smartcar.com/) is licensed to offer a software connection
-* Digital Infrastructure Inc is licensed to offer a software connection.
 
 ## Implementation&#x20;
 
@@ -170,6 +148,10 @@ Jan 9, 2023: made device minting cost 25 $DIMO for all device types for now
 
 Mar 29, 2023: passed [DIP-4 & 5: Amendment 1](../amendments/dip4-and-5a1.md)
 
+July 6, 2024: disclaimer adjusted, updated for DLPs, and updated per [DIP-4 & 5: Amendment 2](../amendments/dip4-5a2.md)
+
 ## Disclaimer
 
 The contract addresses for $DIMO are [0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b](https://etherscan.io/token/0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b) on Ethereum and [0xE261D618a959aFfFd53168Cd07D12E37B26761db](https://polygonscan.com/token/0xE261D618a959aFfFd53168Cd07D12E37B26761db) on Polygon. Please always confirm that you are interacting with these contract addresses and not those of a fraudulent imitator. This proposal may not be enacted if it violates Cayman Islands law. Please triple check that any communications are authentic as it’s common for scammers to try to trick you into sending them crypto or into revealing your private keys.
+
+Certain statements in this document constitute forward-looking statements. The words “may,” “will,” “should,” “project,” “anticipate,” “believe,” “estimate,” “intend,” “expect,” “continue,” and similar expressions or the negatives thereof are generally intended to identify forward-looking statements. Such forward-looking statements, including the intended actions and performance objectives, involve known and unknown risks, uncertainties, and other important factors that could cause the actual results, performance, or achievements to differ materially from any future results, performance, or achievements expressed or implied by such forward-looking statements. There can be no assurance that such statements will prove to be accurate as actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking statements and nothing in this document represents a promise of specific work to be completed in the future.

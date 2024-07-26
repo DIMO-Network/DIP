@@ -10,16 +10,16 @@
 * [DIP-4: Device Integrations](improvement-proposals/dip4.md)
 * [DIP-5: Ecosystem](improvement-proposals/dip5.md)
 * [DIP-6: The DIMO Foundation](improvement-proposals/dip6.md)
-* [DIP-7: Referrals Round 1](improvement-proposals/dip7.md)
-* [DIP-8: The Ignite Team](improvement-proposals/dip8.md)
-* [DIP-9: Marketing Grant #1](improvement-proposals/dip9.md)
+* [DIP-7: Referrals](improvement-proposals/dip7.md)
+* [DIP-8: Ignite Grants](improvement-proposals/dip8.md)
+* [DIP-9: Marketing](improvement-proposals/dip9.md)
 
 ## License Proposals
 
-* [DIP-10: Hashdog Hardware License Approval](license-proposals/dip10.md)
-* [DIP-11: AutoPi Device Integration](license-proposals/dip11.md)
-* [DIP-12: Digital Infrastructure Inc. Node](license-proposals/dip12.md)
-* [DIP-13: Digital Infrastructure Inc.  Device Integration](license-proposals/dip13.md)
+* [DLP-1: Hashdog Hardware License](license-proposals/dip10.md)
+* [DLP-2: AutoPi Device Integration](license-proposals/dip11.md)
+* [DLP-3: Digital Infrastructure Inc. Node](license-proposals/dip12.md)
+* [DLP-4: Digital Infrastructure Inc.  Device Integration](license-proposals/dip13.md)
 
 ## Amendments
 

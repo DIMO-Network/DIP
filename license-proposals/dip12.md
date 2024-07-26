@@ -1,4 +1,4 @@
-# DIP-12: Digital Infrastructure Inc. Node
+# DLP-3: Digital Infrastructure Inc. Node
 
 > **Headline**: DIMO node operator license for Digital Infrastructure Inc.
 >
@@ -82,7 +82,7 @@ Digital Infrastructure Inc. commits to upholding high standards for security, pe
 
 ## Implementation
 
-If passed, this DIP will be in effect immediately after the four day timelock concludes and the required bond is posted. This DIP will be updated, with history noted in the [Changelog](dip12.md#changelog), once the bond is posted or updated.
+If passed, this DLP will be in effect immediately after the four day timelock concludes and the required bond is posted. This DLP will be updated, with history noted in the [Changelog](dip12.md#changelog), once the bond is posted or updated.
 
 ## Copyright
 
@@ -92,7 +92,7 @@ Copyright and related rights waived via [CC0](https://creativecommons.org/public
 
 Please cite this document as:
 
-Yev Khessin & Rob Solomon, "DIP - 12: Digital Infrastructure Inc. Node", no. 12, June 2024. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
+Yev Khessin & Rob Solomon, "DLP - 3: Digital Infrastructure Inc. Node", no. 12, June 2024. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
 
 ## Changelog
 
@@ -100,6 +100,6 @@ Yev Khessin & Rob Solomon, "DIP - 12: Digital Infrastructure Inc. Node", no. 12,
 
 ## Disclaimer <a href="#disclaimer" id="disclaimer"></a>
 
-Certain statements in this document constitute forward-looking statements. The words “may,” “will,” “should,” “project,” “anticipate,” “believe,” “estimate,” “intend,” “expect,” “continue,” and similar expressions or the negatives thereof are generally intended to identify forward-looking statements. Such forward-looking statements, including the intended actions and performance objectives, involve known and unknown risks, uncertainties, and other important factors that could cause the actual results, performance, or achievements to differ materially from any future results, performance, or achievements expressed or implied by such forward-looking statements. There can be no assurance that such statements will prove to be accurate as actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking statements and nothing in this document represents a promise of specific work to be completed in the future.&#x20;
-
 The contract addresses for $DIMO are [0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b](https://etherscan.io/token/0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b) on Ethereum and [0xE261D618a959aFfFd53168Cd07D12E37B26761db](https://polygonscan.com/token/0xE261D618a959aFfFd53168Cd07D12E37B26761db) on Polygon. Please always confirm that you are interacting with these contract addresses and not those of a fraudulent imitator. This proposal may not be enacted if it violates Cayman Islands law. Please triple check that any communications are authentic as it’s common for scammers to try to trick you into sending them crypto or into revealing your private keys.
+
+Certain statements in this document constitute forward-looking statements. The words “may,” “will,” “should,” “project,” “anticipate,” “believe,” “estimate,” “intend,” “expect,” “continue,” and similar expressions or the negatives thereof are generally intended to identify forward-looking statements. Such forward-looking statements, including the intended actions and performance objectives, involve known and unknown risks, uncertainties, and other important factors that could cause the actual results, performance, or achievements to differ materially from any future results, performance, or achievements expressed or implied by such forward-looking statements. There can be no assurance that such statements will prove to be accurate as actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking statements and nothing in this document represents a promise of specific work to be completed in the future.
