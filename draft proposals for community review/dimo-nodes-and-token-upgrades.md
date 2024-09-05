@@ -2,28 +2,33 @@
 
 The following outlines a **possible** tokenomic upgrade to the DIMO protocol. **This change is not guaranteed to be implemented and this post is shared for feedback and reference purposes only. You are encouraged to provide add any questions, concerns, or other feedback [here](https://github.com/DIMO-Network/DIP/issues/7).**
 
-It specifies how applications built on DIMO can pay for access to user vehicle data, once they are authorized by the user, using a stable DIMO Credit (DCX) or $DIMO. It also specifies how DCX is used in other types of transactions, how $DIMO tokens are converted into DCX, and how some of that $DIMO is recycled and rewarded back to both users and the nodes that store their data. This model draws inspiration from Helium, particularly the relationship of HNT to Data Credits and Data Transfer rewards.
+It specifies how applications built on DIMO can pay for access to user vehicle data, once they are authorized by the user, using a stable DIMO Credit (DCX) or $DIMO. It also specifies how DCX is used in other types of transactions, how $DIMO tokens are converted into DCX, and how some of that $DIMO is recycled and rewarded back to both users and the nodes that enable their vehicles connection to DIMO. This model draws inspiration from Helium, particularly the relationship of HNT to Data Credits and Data Transfer rewards.
 
-For convenience, this is written in the style of a post implementation blog post – describing the DIMOverse as if these changes have already been approved and implemented. A governance vote and additional engineering would be necessary to implement what is described below.
+For convenience, this is written in the style of a post implementation blog post – describing the DIMOverse as if these changes have already been approved and implemented. A governance vote and additional engineering are necessary to implement what is described below.
 
-### What is a node
+### What is DIMO
 
-DIMO puts users in control of their data, including where it’s stored. A storage provider on DIMO is known as a “node”, and each one plays a key role in storing, verifying, securing, and transmitting data across the network. Users can choose any public node to store their data with and they can even run their own node and store their own data if they prefer. Nodes are rewarded for performing this function and penalized for excessive downtime.
+DIMO is the _easiest_ and _most trusted_ way to connect to any car, unlocking innovation in connected mobility and vehicle commerce. Drivers create an onchain digital twin of their vehicle (an NFT); connect their car to the DIMO network to enable the sending data, commands (e.g., unlock, engine on), and payments to and from their car; and grant access to the apps and services they choose. This allows insurance companies, dealers, fleets, ridehailing platforms, rental companies, mechanics, banks, cities, and more to access vehicles from any automaker and build innovative products.
 
-Developers who build on DIMO (e.g., a usage based insurance policy that users share their location, speed, and vehicle data with) have the experience of interacting with a centralized database, despite the distributed architecture. To help understand, consider other decentralized protocols that feel unified: you submit a transaction to the Ethereum Mainnet regardless of which validator mines it; you simply email anyone regardless of whether you, or they, use Gmail, Outlook, Proton, or your own home server; and you open your browser and access the internet not caring which server a website lives on. This architecture gives users control and adds resiliency and neutrality to the DIMO Network, without compromising usability.
+DIMO is a protocol, and like any true protocol, it harnesses a decentralized network of entities to make it accessible to users. For example, simple mail transfer protocol (better known as email) wouldn't be what it is without Gmail, Outlook, Apple, Proton, and many others making it usable. These are the "nodes" in the email ecosystem; they store emails, relay messages, and provide visual interfaces to users.
 
-With DIMO, vehicles transmit secure information such as odometer, location, speed, and fuel level to their selected node. Vehicles and drivers also receive credentials from various apps built on DIMO, such as “vehicle is registered”, “insured up to $1,000,000”, “title is clean”, and “licensed to drive taxis in New York”, that are verifiable and digital. Nodes store all of this data for users offchain and make it available to others when the user grants permission. As data is encrypted, nodes aren’t able to read the data that they’re storing; only the user and the apps and individuals that users share their data with can read it.
+### What is a DIMO node
+
+DIMO features three different node types that each perform a disctinct function for the network. Automakers and device manufacturers that enable the streaming data and commands to and from the car are known as _integration nodes_; businesses that store all of the data for a vehicle and enforce secure access to data and vehicle commands are _connection nodes_; and any entity that analyzes user data for the express purpose of issuing credentials (e.g., the VIN is verified, the movement data suggests this is a real car driving in the real world) is a _validator node_. Nodes are compensated for performing their given functions and penalized for specified types of failures. 
+
+Compare this to a monolithic SaaS offering where only one company has the privilege to control the data ingest (integration node), storage and access (connection node), and validity (validation node). In the traditional SaaS web2.0 model, this centralization would grant the network owner monopoly control over what is offered, how it is offered, and at what price. Any other business relying on this connected mobility system would depend entirely on the trust and reliability of this single party. It would also mean that progress and innovation could only happen if and when the network owner makes it happen. DIMO's protocol model eliminates the need for these trust assumptions, decentralizes power, and enables open innovation accross the ecosystem.
 <br></br>
-<p align=center> <img src="../.gitbook/assets/image (15).png" width=900 alt=""></p>
+<p align=center> <img src="../.gitbook/assets/nodes.png" alt=""></p>
 <br></br>
+Although DIMO operates on a distributed architecture, developers interact with it as if it were a centralized system. Connection nodes run a compatible DIMO client, ensuring that data ingestion from integration nodes and vehicle access APIs follow standardized processes. The VehicleID NFT exposes the root path to the connection node. Combined with with cryptographic access control enforcement and uniform endpoints across the network, this provides a consistent and secure structure for developers. To help understand, consider other decentralized protocols that feel unified: you submit a transaction to the Ethereum Mainnet regardless of which validator mines it, and you open your browser and access the internet not caring which server a website lives on. This architecture gives users control and adds resiliency and neutrality to the DIMO Network, without compromising usability.
 
 ### DCX & $DIMO
 
-DIMO apps and other businesses wishing to acquire DIMO user data and commands (e.g., remote vehicle lock/unlock) can access it from via API, but only when a user gives their consent and only when they pay for it. The DIMO Vehicle ID NFT has a built in permissioning system and contains a URI that points to the location of the node storing the data.
+DIMO apps and other businesses wishing to access vehicle data and commands can access it via API, but only when a user gives their consent and only when they pay for it.
 <br></br>
-<p align=center><img src="../.gitbook/assets/image (16).png" width=600 alt=""></p>
+<p align=center><img src="../.gitbook/assets/VehicleID.png" width=600 alt=""></p>
 <br></br>
-All payments for user data, as well as all other DIMO protocol fees (e.g., the fee to mint a car), requires spending DIMO Credits (DCX) or $DIMO. DCX is always worth $0.001 USD, and the only way to generate DCX is by trading in $DIMO, which converts at the market price. E.g., if $DIMO is currently at $10, swapping 1 $DIMO generates 10,000 DCX. When $DIMO is spent to acquire DCX, some is rewarded back to users and node operators and some is burned. A DCX cannot be converted back into $DIMO and when it is spent, it is burned forever. More on this in [Rewards & burn](dimo-nodes-and-token-upgrades.md#rewards-and-burn) below.
+All payments for such access, as well as for other DIMO protocol fees (e.g., the fee to mint a car), require spending DIMO Credits (DCX) or $DIMO. DCX is always worth $0.001 USD, and the only way to generate DCX is by trading in $DIMO, which converts at the market price. E.g., if $DIMO is currently at $10, swapping 1 $DIMO generates 10,000 DCX. When $DIMO is spent to acquire DCX, some is issued to DIMO nodes and some is burned. A DCX cannot be converted back into $DIMO and when it is spent, it is burned forever. More on this in [Rewards & burn](dimo-nodes-and-token-upgrades.md#rewards-and-burn) below.
 
 This conversion process is administered by a series of smart contracts that allows anyone to generate DCX permissionlessly. A combination of Uniswap and Chainlink oracles are used to provide the $DIMO price that is needed to calculate the conversion. To prevent manipulation or system failures, the contract is temporarily halted if these two oracles get out of sync with one another.
 <br></br>
@@ -37,13 +42,13 @@ Also, DIMO’s wallet as a service includes account abstraction and an ERC-4337 
 
 ### Using DCX for vehicle data access fees
 
-Once an app developer has a license and a user grants them onchain permission to access their vehicle data, they simply ping the node network and pay the required amount of DCX to access the data they need. The payment gives the app the ability to pull data via API a set number of times per vehicle per data category for one month.&#x20;
+Once an app developer has a license and a user grants them onchain permission to access their vehicle, they simply use the DIMO SDK to ping the connection node network and pay the required amount of DCX to access the data they need. The payment gives the app the ability to pull data via API a set number of times per vehicle per data category for one month.&#x20;
 <br></br>
 <p align=center><img src="../.gitbook/assets/image (19).png" width=900 alt=""></p>
 <br></br>
-Additional data types may be added in the future (e.g., video). The price to connect to one car per month is shown below. While apps may only work for certain regions, vehicle types, and users, they may not block access to users based on the node operator they’ve chosen.
+Additional data types may be added in the future (e.g., video). The price to connect to one car per month is shown below. While apps may only work for certain regions, vehicle types, and users, they may not block access to users based on the connection node they’ve chosen.
 
-Payments are partially refunded if the node operator fails to maintain the 97% uptime, in direct proportion to the amount of downtime (e.g., 20% downtime means 20% is refunded). See [Penalties](dimo-nodes-and-token-upgrades.md#penalties) for more.&#x20;
+Payments are partially refunded if the connection node operator fails to maintain the 97% uptime, in direct proportion to the amount of downtime (e.g., 20% downtime means 20% is refunded). See [Penalties](dimo-nodes-and-token-upgrades.md#penalties) for more.&#x20;
 
 ### Using DCX for flat protocol fees
 
@@ -62,7 +67,7 @@ $DIMO token holders can always vote to add and adjust fees in the future as the 
 
 When $DIMO is converted into DCX, that $DIMO is sent into a rewards pool known as the Market Issuance Pool. The name of this pool acknowledges the fact that this pool is funded by demand side market activity, as opposed to the preset and temporary Baseline Issuance Pool.&#x20;
 
-**Each month, all $DIMO in the Market Issuance Pool is partly distributed to nodes and users and partly burned**. The relative amounts are determined based on the proportion of DCX accumulated, calculated as follows:
+**Each month, all $DIMO in the Market Issuance Pool is partly distributed to nodes and partly burned**. The relative amounts are determined based on the proportion of DCX accumulated, calculated as follows:
 
 * 60% of all DCX spent on vehicle data access fees goes to the node and/or user whose data is being purchased. How the DCX (and, therefore, the $DIMO reward) is split between the node and user is up to those two parties. Nodes can compete on terms and features and users are free to choose the best one for them, similar to email providers. To give an example, if 1,000,000 $DIMO is set to go out in a month and one specific node operator earned 1% of all DCX spent that month, they receive 10,000 $DIMO. If that node operator agreed to a 50/50 split with their users, then the node operator keeps 5,000 $DIMO and distributes the remaining balance to users. The node client software automates this process.
 * 40% of all DCX spent on vehicle data access fees and 100% of DCX spent on flat protocol fees is reserved for the DIMO Protocol itself. Any $DIMO that is issued to the DIMO Protocol first replenishes the small amount of resources needed to maintain the paymaster service, and then the rest is burned.&#x20;
