@@ -2,7 +2,7 @@
 
 The following outlines a **possible** tokenomic upgrade to the DIMO protocol. **This change is not guaranteed to be implemented and this post is shared for feedback and reference purposes only. You are encouraged to provide add any questions, concerns, or other feedback [here](https://github.com/DIMO-Network/DIP/issues/7).**
 
-It specifies how applications built on DIMO can pay for access to user vehicle data, once they are authorized by the user, using a stable DIMO Credit (DCX) or with $DIMO. It also specifies how DCX is used in other types of transactions, how $DIMO tokens are converted into DCX, and how some of that $DIMO is recycled and rewarded back to both users and the nodes that enable their vehicles connection to DIMO. This model draws inspiration from Helium, particularly the relationship of HNT to Data Credits and Data Transfer rewards.
+It specifies how applications built on DIMO can connect to a vehicle, once they are authorized by the owner, using a stable DIMO Credit (DCX) or with $DIMO. It also specifies how DCX is used in other types of transactions, how $DIMO tokens are converted into DCX, and how some of that $DIMO is recycled and rewarded back to both users and the nodes that enable their vehicles connection to DIMO. This model draws inspiration from Helium, particularly the relationship of HNT to Data Credits and Data Transfer rewards.
 
 For convenience, this is written in the style of a post implementation blog post – describing the DIMOverse as if these changes have already been approved and implemented. A governance vote and additional engineering are necessary to implement what is described below.
 
