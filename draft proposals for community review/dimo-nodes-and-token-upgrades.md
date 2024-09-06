@@ -2,30 +2,31 @@
 
 The following outlines a **possible** tokenomic upgrade to the DIMO protocol. **This change is not guaranteed to be implemented and this post is shared for feedback and reference purposes only. You are encouraged to provide add any questions, concerns, or other feedback [here](https://github.com/DIMO-Network/DIP/issues/7).**
 
-It specifies how applications built on DIMO can connect to a vehicle, once they are authorized by the owner, using a stable DIMO Credit (DCX) or with $DIMO. It also specifies how DCX is used in other types of transactions, how $DIMO tokens are converted into DCX, and how some of that $DIMO is recycled and rewarded back to both users and the nodes that enable their vehicles connection to DIMO. This model draws inspiration from Helium, particularly the relationship of HNT to Data Credits and Data Transfer rewards.
+It specifies how applications built on DIMO can connect to a vehicle, once they are authorized by the owner, using a stable DIMO Credit (DCX) or with $DIMO. It also specifies how DCX is used in other types of transactions, how $DIMO tokens are converted into DCX, and how some of that $DIMO is recycled and issued as a reward. This model draws inspiration from Helium, particularly the relationship of HNT to Data Credits and Data Transfer rewards.
 
 For convenience, this is written in the style of a post implementation blog post – describing the DIMOverse as if these changes have already been approved and implemented. A governance vote and additional engineering are necessary to implement what is described below.
 
 ### What is DIMO
 
-DIMO is the _easiest_ and _most trusted_ way to connect to any car, unlocking innovation in connected mobility and vehicle commerce. Drivers create an onchain digital twin of their vehicle (an NFT); connect their car to the DIMO network to enable the sending data, commands (e.g., unlock, engine on), and payments to and from their car; and grant access to the apps and services they choose. This allows insurance companies, dealers, fleets, ridehailing platforms, rental companies, mechanics, banks, cities, and more to access vehicles from any automaker and build innovative products.
+DIMO is the _easiest_ and _most trusted_ way to connect to any car, unlocking innovation in connected mobility and vehicle commerce. Drivers create an onchain digital twin of their vehicle (an NFT); connect their car to the DIMO network to enable the sending of data, commands (e.g., unlock, engine on), and payments to and from their car; and grant access to the apps and services they choose. This allows insurance companies, dealers, fleets, ridehailing platforms, rental companies, mechanics, banks, trafic lights, parking meters, and more to gather consent and securely access vehicles from any automaker and build innovative products.
 
-DIMO is a protocol, and like any true protocol, it harnesses a decentralized network of entities to make it accessible to users. For example, simple mail transfer protocol (better known as email) wouldn't be what it is without Gmail, Outlook, Apple, Proton, and many others making it usable. These are the "nodes" in the email ecosystem; they store emails, relay messages, and provide visual interfaces to users.
+DIMO is a protocol, and like any true protocol, it harnesses a decentralized network of entities to make itself accessible to users. For example, simple mail transfer protocol (better known as email) wouldn't be what it is without Gmail, Outlook, Apple, Proton, and many others making it usable. These are the "nodes" in the email ecosystem, storing emails, relaying messages, and providing visual interfaces to users.
 
 ### What is a DIMO node
 
 DIMO features three different node types that each perform a disctinct function for the network. 
 
-**Integration nodes** are automakers and device manufacturers that enable the streaming data and commands to and from the car. One car can host multiple integrations at the same time (e.g., an OBD dongle and a dashcam).
+**Integration nodes** are automakers and device manufacturers that enable the streaming of data and commands to and from the car. One car can host multiple integrations at the same time (e.g., an OBD dongle and a dashcam).
 
-**Connection nodes** are businesses that store all of the data for a vehicle and enforce secure access to data and vehicle commands. They receive data from, and issue commands to, vehicles via integrations nodes and make this vehicle data and connectivity available to the applications that vehicle owner has granted access to.
+**Connection nodes** are entities that store all of the data for a vehicle and enforce secure access. They receive data from, and issue commands to, vehicles via integrations nodes, and they make this data and connectivity available to the applications that vehicle owners grant access to.
 
-**Validator nodes** are any entity that analyzes user data for the express purpose of issuing credentials that increase the verifiability of data, add additional context, or both (e.g., the VIN is unique and verified, the movement and cell tower data suggests this is a real car driving in the real world, the data is coming from a licensed DIMO integration, the vehicle is registered, the driver is licensed). 
+**Validator nodes** are any entity that analyzes user data for the express purpose of issuing credentials that increase the verifiability of data, add additional context, or both (e.g., the VIN is unique and verified, the movement and cell tower data verify movement, the vehicle is registered, and the driver is licensed). 
 
-Compare this to a web2 SaaS offering where one company has monopoly control over what is offered, how it's offered, to whom it's offered, and at what price. Any other business relying on this connected mobility system would depend entirely on the trust and reliability of this single party. It would also mean that progress and innovation could only happen if and when the network owner makes it happen. DIMO's protocol model eliminates the need for these trust assumptions, decentralizes power, and enables open innovation accross the ecosystem.
+Compare this to a web2 SaaS offering where one company has monopoly control over what is offered, how it's offered, to whom it's offered, at what price, and what constitutes good data. Any other business relying on this connected mobility system would depend entirely on the trust and reliability of this single party. It would also mean that progress and innovation could only happen if and when the network owner delivers it. DIMO's protocol model eliminates the need for these trust assumptions, decentralizes power, and enables open innovation accross the ecosystem.
 <br></br>
 <p align=center> <img src="../.gitbook/assets/nodes.png" alt=""></p>
 <br></br>
+
 Although DIMO operates on a distributed architecture, the developer experience is standardized within the protocol and easy to use. This is because every connection node runs a compatible DIMO client.
 
 These clients standardize data ingest from integration nodes and ensure that the APIs to connect to a vehile are homogenous. An application will use the same interface to access the data regardless of the connection node, only the address of the storage node, specified in the Vehicle ID metadata, changes. 
