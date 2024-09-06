@@ -84,7 +84,7 @@ When $DIMO is converted into DCX, that $DIMO is sent into a rewards pool known a
 * 60% of all DCX spent on vehicle data access fees goes to the connection node.
 * 40% of all DCX spent on vehicle data access fees and 100% of DCX spent on flat protocol fees is reserved for the DIMO Protocol itself. Any $DIMO that is issued to the DIMO Protocol first replenishes the small amount of resources needed to maintain the paymaster service, and then the rest is burned.
 <br></br>
-<p align=center><img src="../.gitbook/assets/Img_Distribution (1).png" width=900 alt=""></p>
+<p align=center><img src="../.gitbook/assets/dist.png" width=900 alt=""></p>
 <br></br>
 
 Integration nodes, validator nodes, and users are not automatically compensated by the protocol. The integration and validator nodes can either charge the user, charge the connection node, or find some other strategic way to monetize or justify their contribution. Users can choose their connection node, and therefore, may choose a connection node that agrees to split rewards with them.
