@@ -14,13 +14,21 @@ DIMO is a protocol, and like any true protocol, it harnesses a decentralized net
 
 ### What is a DIMO node
 
-DIMO features three different node types that each perform a disctinct function for the network. Automakers and device manufacturers that enable the streaming data and commands to and from the car are known as _integration nodes_; businesses that store all of the data for a vehicle and enforce secure access to data and vehicle commands are _connection nodes_; and any entity that analyzes user data for the express purpose of issuing credentials (e.g., the VIN is verified, the movement data suggests this is a real car driving in the real world) is a _validator node_. Nodes are compensated for performing their given functions and penalized for specified types of failures. 
+DIMO features three different node types that each perform a disctinct function for the network. 
 
-Compare this to a monolithic SaaS offering where only one company has the privilege to control the data ingest (integration node), storage and access (connection node), and validity (validation node). In the traditional SaaS web2.0 model, this centralization would grant the network owner monopoly control over what is offered, how it is offered, and at what price. Any other business relying on this connected mobility system would depend entirely on the trust and reliability of this single party. It would also mean that progress and innovation could only happen if and when the network owner makes it happen. DIMO's protocol model eliminates the need for these trust assumptions, decentralizes power, and enables open innovation accross the ecosystem.
+**Integration nodes** are automakers and device manufacturers that enable the streaming data and commands to and from the car. One car can host multiple integrations at the same time (e.g., an OBD dongle and a dashcam).
+
+**Connection nodes** are businesses that store all of the data for a vehicle and enforce secure access to data and vehicle commands. They receive data from, and issue commands to, vehicles via integrations nodes and make this vehicle data and connectivity available to the applications that vehicle owner has granted access to.
+
+**Validator nodes** are any entity that analyzes user data for the express purpose of issuing credentials (e.g., the VIN is unique and verified, the movement data suggests this is a real car driving in the real world, the data is coming from a licensed DIMO integration). 
+
+Nodes are compensated for performing their given functions and penalized for specified types of failures. 
+
+Compare this to a web2 SaaS offering where one company has monopoly control over what is offered, how it's offered, to whom it's offered, and at what price. Any other business relying on this connected mobility system would depend entirely on the trust and reliability of this single party. It would also mean that progress and innovation could only happen if and when the network owner makes it happen. DIMO's protocol model eliminates the need for these trust assumptions, decentralizes power, and enables open innovation accross the ecosystem.
 <br></br>
 <p align=center> <img src="../.gitbook/assets/nodes.png" alt=""></p>
 <br></br>
-Although DIMO operates on a distributed architecture, developers interact with it as if it were a centralized system. Connection nodes run a compatible DIMO client, ensuring that data ingestion from integration nodes and vehicle access APIs follow standardized processes. The VehicleID NFT exposes the root path to the connection node. Combined with with cryptographic access control enforcement and uniform endpoints across the network, this provides a consistent and secure structure for developers. To help understand, consider other decentralized protocols that feel unified: you submit a transaction to the Ethereum Mainnet regardless of which validator mines it, and you open your browser and access the internet not caring which server a website lives on. This architecture gives users control and adds resiliency and neutrality to the DIMO Network, without compromising usability.
+Although DIMO operates on a distributed architecture, developers interact with it as if it were a centralized system. This is because every connection node runs a compatible DIMO client. These clients standardize data ingest from integration nodes and they ensure that the APIs to connect to a vehile are standardized. An application will use the same endpoint to access the a specified field regardless of the connection node, only the root domain, specified in the Vehicle ID metadata, changes. Combined with with cryptographic access control enforcement and uniform endpoints across the network, this provides a consistent and secure structure for developers. To help understand, consider other decentralized protocols that feel unified: you submit a transaction to the Ethereum Mainnet regardless of which validator mines it, and you open your browser and access the internet not caring which server a website lives on. This architecture gives users control and adds resiliency and neutrality to the DIMO Network, without compromising usability.
 
 ### DCX & $DIMO
 
@@ -28,6 +36,7 @@ DIMO apps and other businesses wishing to access vehicle data and commands can a
 <br></br>
 <p align=center><img src="../.gitbook/assets/VehicleID.png" width=600 alt=""></p>
 <br></br>
+
 All payments for such access, as well as for other DIMO protocol fees (e.g., the fee to mint a car), require spending DIMO Credits (DCX) or $DIMO. DCX is always worth $0.001 USD, and the only way to generate DCX is by trading in $DIMO, which converts at the market price. E.g., if $DIMO is currently at $10, swapping 1 $DIMO generates 10,000 DCX. When $DIMO is spent to acquire DCX, some is issued to DIMO nodes and some is burned. A DCX cannot be converted back into $DIMO and when it is spent, it is burned forever. More on this in [Rewards & burn](dimo-nodes-and-token-upgrades.md#rewards-and-burn) below.
 
 This conversion process is administered by a series of smart contracts that allows anyone to generate DCX permissionlessly. A combination of Uniswap and Chainlink oracles are used to provide the $DIMO price that is needed to calculate the conversion. To prevent manipulation or system failures, the contract is temporarily halted if these two oracles get out of sync with one another.
@@ -42,13 +51,13 @@ Also, DIMO’s wallet as a service includes account abstraction and an ERC-4337 
 
 ### Using DCX for vehicle data access fees
 
-Once an app developer has a license and a user grants them onchain permission to access their vehicle, they simply use the DIMO SDK to ping the connection node network and pay the required amount of DCX to access the data they need. The payment gives the app the ability to pull data via API a set number of times per vehicle per data category for one month.&#x20;
+Once an app developer has a license and a user grants them onchain permission to access their vehicle, they simply use the DIMO SDK to ping the connection nodes and pay the required amount of DCX to access the data they need. The payment gives the app the ability to pull data via API a set number of times per vehicle per data category for one month.
 <br></br>
 <p align=center><img src="../.gitbook/assets/image (19).png" width=900 alt=""></p>
 <br></br>
 Additional data types may be added in the future (e.g., video). The price to connect to one car per month is shown below. While apps may only work for certain regions, vehicle types, and users, they may not block access to users based on the connection node they’ve chosen.
 
-Payments are partially refunded if the connection node operator fails to maintain the 97% uptime, in direct proportion to the amount of downtime (e.g., 20% downtime means 20% is refunded). See [Penalties](dimo-nodes-and-token-upgrades.md#penalties) for more.&#x20;
+Payments are partially refunded if the connection node operator fails to maintain the 97% uptime, in direct proportion to the amount of downtime (e.g., 20% downtime means 20% is refunded). See [Penalties](dimo-nodes-and-token-upgrades.md#penalties) for more.
 
 ### Using DCX for flat protocol fees
 
