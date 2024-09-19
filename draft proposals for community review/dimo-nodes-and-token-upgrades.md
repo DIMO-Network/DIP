@@ -24,7 +24,7 @@ DIMO features three different node types that each perform a disctinct function 
 
 Compare this to a web2 SaaS offering where one company has monopoly control over what is offered, how it's offered, to whom it's offered, at what price, and what constitutes good data. Any other business relying on this connected mobility system would depend entirely on the trust and reliability of this single party. It would also mean that progress and innovation could only happen if and when the network owner delivers it. DIMO's protocol model eliminates the need for these trust assumptions, decentralizes power, and enables open innovation accross the ecosystem.
 <br></br>
-<p align=center> <img src="../.gitbook/assets/Img_Nodes91924.png" alt=""></p>
+<p align=center> <img src="../.gitbook/assets/Img_Nodes.png" alt=""></p>
 <br></br>
 
 Although DIMO operates on a distributed architecture, the developer experience is standardized within the protocol and easy to use. This is because every connection node runs a compatible DIMO client.
