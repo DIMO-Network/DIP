@@ -16,10 +16,10 @@
 
 ## License Proposals
 
-* [DLP-1: Hashdog Hardware License](license-proposals/dlp1.md)
-* [DLP-2: AutoPi Device Integration](license-proposals/dlp2.md)
-* [DLP-3: Digital Infrastructure Inc. Node](license-proposals/dlp3.md)
-* [DLP-4: Digital Infrastructure Inc. Device Integration](license-proposals/dlp4.md)
+* [DLP-1: Hashdog Hardware License](license-proposals/dip10.md)
+* [DLP-2: AutoPi Device Integration](license-proposals/dip11.md)
+* [DLP-3: Digital Infrastructure Inc. Node](license-proposals/dip12.md)
+* [DLP-4: Digital Infrastructure Inc. Device Integration](license-proposals/dip13.md)
 * [DLP-5: Ruptela Device Integration](license-proposals/dlp5.md)
 
 ## Amendments

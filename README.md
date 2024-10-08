@@ -26,7 +26,7 @@ Below, you can see active proposals that $DIMO token holders can vote on now, pr
 
 
 
-<table><thead><tr><th width="543">DIMO Licensing Proposal</th><th width="115.66666666666674">Status</th></tr></thead><tbody><tr><td><a href="license-proposals/dlp1.md">DLP-1: Hashdog Hardware License</a></td><td>Deployed</td></tr><tr><td><a href="license-proposals/dlp2.md">DLP-2: AutoPi Device Integration</a></td><td>Deployed</td></tr><tr><td><a href="license-proposals/dlp3.md">DLP-3: Digital Infrastructure Inc. Node</a></td><td>Approved</td></tr><tr><td><a href="license-proposals/dlp4.md">DLP-4: Digital Infrastructure Inc. Device Integration</a></td><td>Approved</td></tr><tr><td><a href="license-proposals/dlp5.md">DLP-5: Ruptela Device Integration</a></td><td>Review</td></tr></tbody></table>
+<table><thead><tr><th width="543">DIMO Licensing Proposal</th><th width="115.66666666666674">Status</th></tr></thead><tbody><tr><td><a href="license-proposals/dip10.md">DLP-1: Hashdog Hardware License</a></td><td>Deployed</td></tr><tr><td><a href="license-proposals/dip11.md">DLP-2: AutoPi Device Integration</a></td><td>Deployed</td></tr><tr><td><a href="license-proposals/dip12.md">DLP-3: Digital Infrastructure Inc. Node</a></td><td>Approved</td></tr><tr><td><a href="license-proposals/dip13.md">DLP-4: Digital Infrastructure Inc. Device Integration</a></td><td>Approved</td></tr><tr><td><a href="license-proposals/dlp5.md">DLP-5: Ruptela Device Integration</a></td><td>Review</td></tr></tbody></table>
 
 
 

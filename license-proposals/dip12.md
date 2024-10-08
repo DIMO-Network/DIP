@@ -82,7 +82,7 @@ Digital Infrastructure Inc. commits to upholding high standards for security, pe
 
 ## Implementation
 
-If passed, this DLP will be in effect immediately after the four day timelock concludes and the required bond is posted. This DLP will be updated, with history noted in the [Changelog](dlp3.md#changelog), once the bond is posted or updated.
+If passed, this DLP will be in effect immediately after the four day timelock concludes and the required bond is posted. This DLP will be updated, with history noted in the [Changelog](dip12.md#changelog), once the bond is posted or updated.
 
 ## Copyright
 
