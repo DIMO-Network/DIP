@@ -1,4 +1,4 @@
-# DLP-4: Digital Infrastructure Inc.  Device Integration
+# DLP-4: Digital Infrastructure Inc. Device Integration
 
 > **Headline**: DIMO software integration license for Digital Infrastructure Inc.
 >
@@ -64,7 +64,7 @@ Digital Infrastructure Inc. commits to upholding high standards for security, pe
 
 ## Implementation
 
-If passed, this DLP will be in effect immediately after the four day timelock concludes and the required bond is posted. This DLP will be updated, with history noted in the [Changelog](dip13.md#changelog), once the bond is posted or updated.
+If passed, this DLP will be in effect immediately after the four day timelock concludes and the required bond is posted. This DLP will be updated, with history noted in the [Changelog](dlp4.md#changelog), once the bond is posted or updated.
 
 ## Copyright
 
@@ -74,7 +74,7 @@ Copyright and related rights waived via [CC0](https://creativecommons.org/public
 
 Please cite this document as:
 
-Yev Khessin & Rob Solomon, "DIP - 13: Digital Infrastructure Inc. Device Integration", no. 13, June 2024. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
+Yev Khessin & Rob Solomon, "DLP-4: Digital Infrastructure Inc. Device Integration", no. 4, June 2024. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
 
 ## Changelog
 

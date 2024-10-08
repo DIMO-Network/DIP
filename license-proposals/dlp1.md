@@ -91,7 +91,7 @@ Copyright and related rights waived via[ CC0](https://creativecommons.org/public
 
 Please cite this document as:
 
-The DIMO Foundation, "DLP 1: Hashdog Hardware License", no. 10, August 2023. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
+The DIMO Foundation, "DLP 1: Hashdog Hardware License", no. 1, August 2023. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
 
 ## Changelog
 

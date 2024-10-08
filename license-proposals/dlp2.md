@@ -74,7 +74,7 @@ AutoPi is committed to:
 
 ## Implementation
 
-If passed, this DLP will be in effect immediately after the four day timelock concludes. AutoPi will have the ability to mint valid $DIMO devices, so long as they maintain this license. This DLP will be updated, with history noted in the [Changelog](dip11.md#changelog), if the bond is ever updated.
+If passed, this DLP will be in effect immediately after the four day timelock concludes. AutoPi will have the ability to mint valid $DIMO devices, so long as they maintain this license. This DLP will be updated, with history noted in the [Changelog](dlp2.md#changelog), if the bond is ever updated.
 
 ## Copyright
 
@@ -84,7 +84,7 @@ Copyright and related rights waived via [CC0](https://creativecommons.org/public
 
 Please cite this document as:
 
-The DIMO Foundation, "DLP - 2: AutoPi Device Integration", no. 11, June 2024. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
+The DIMO Foundation, "DLP - 2: AutoPi Device Integration", no. 2, June 2024. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
 
 ## Changelog
 
