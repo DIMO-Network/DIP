@@ -28,13 +28,13 @@ Baseline rewards exist to incentivize the development of a large and incentive-a
 
 <mark style="color:green;">// If passed, this proposal would incorporate the following changes to the Specifications section of DIP-2. These changes build off of DIP-2 amendment 3, assuming this passes. If it fails, the related changes to integration methods would be rolled back and only those new changes shown below will be incorporated:</mark>
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-10-07 at 10.50.16 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-10-11 at 11.11.44 PM.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">Note that:</mark>
 
 <mark style="color:red;">**Streak Levels**</mark><mark style="color:red;">: are tied to the vehicle, which means that swapping out an OBD device or transferring a vehicle to another user will preserve the level for that car; a streak cannot be transferred from one car to another; and vehicles that fail to connect for three consecutive weeks will fall back one streak level.</mark>
 
-<mark style="color:red;">**Lock Levels**</mark><mark style="color:red;">: are per vehicle (e.g., it would take 10,000 $DIMO to boost two separate vehicles to level 4); may be assigned and unassigned to any car in your account; and can be upgraded at any time, but cannot be downgraded prematurely (e.g., you can roll 1,000 $DIMO from a level 1 contract that is still locked, add 1,500 more $DIMO, and upgrade it to a new level 2 contract that restarts the lock period).</mark>
+<mark style="color:red;">**Lock Levels**</mark><mark style="color:red;">: are per vehicle (e.g., it would take 8,000 $DIMO to boost two separate vehicles to level 4); may be assigned and unassigned to any car in your account; and can be upgraded at any time, but cannot be downgraded prematurely (e.g., you can roll 500 $DIMO from a level 1 contract that is still locked, add 1,000 more $DIMO, and upgrade it to a new level 2 contract that restarts the lock period).</mark>
 
 <mark style="color:red;">**Connection types**</mark><mark style="color:red;">: to be considered "comprehensive", an integration must send extensive telemetry data in near real-time. As of the last update of this proposal, the AutoPi, LTE R1 and native Tesla connections qualify as "comprehensive" integrations.</mark>
 
@@ -44,7 +44,7 @@ Baseline rewards exist to incentivize the development of a large and incentive-a
 
 ~~<mark style="color:red;">Users who fail to connect for three consecutive weeks will fall back one level.</mark>~~
 
-In the example shown in the table above, Alice earns 2,000 points for having been connected between 21 to 35 weeks, <mark style="color:red;">1,000 points for locking 5,000 $DIMO for 6 months,</mark> 1,000 points for her Limited software connection, and 6,000 points for having comprehensive installed in her vehicle.
+In the example shown in the table above, Alice earns 2,000 points for having been connected between 21 to 35 weeks, <mark style="color:red;">1,000 points for locking 500 $DIMO for 6 months,</mark> 1,000 points for her Limited software connection, and 6,000 points for having comprehensive installed in her vehicle.
 
 Here there are 40,000 cars connected to DIMO and each car generates an average of 6,000 points that week, for a total of 240,000,000 points. Alice's <mark style="color:red;">10</mark>~~<mark style="color:red;">9</mark>~~,000 points represent 0.004% of the points for that week (<mark style="color:red;">10</mark>~~<mark style="color:red;">9</mark>~~,000 ÷ 240,000,000). Therefore, she earns <mark style="color:red;">46.04</mark>~~<mark style="color:red;">41.44</mark>~~ out of the 1,105,000 tokens from this pool (1,105,000 \* 0.004%).
 
@@ -68,7 +68,7 @@ The DIMO Foundation, "DIP-2: Amendment 4", October 2024. \[Online serial]. Avail
 
 ## Changelog
 
-
+Oct 11, 2024: Updated lock level requirements (decreased the amounts).
 
 ## Disclaimer <a href="#disclaimer" id="disclaimer"></a>
 
