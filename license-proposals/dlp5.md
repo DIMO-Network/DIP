@@ -85,7 +85,7 @@ Copyright and related rights waived via [CC0](https://creativecommons.org/public
 
 Please cite this document as:
 
-The DIMO Foundation, "DLP 5: Ruptela Hardware License", no. 5, October 2024. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
+Hayati Ertugrul, "DLP 5: Ruptela Hardware License", no. 5, October 2024. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
 
 ## Changelog
 
