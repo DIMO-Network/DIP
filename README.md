@@ -1,6 +1,6 @@
 # DIMO Governance Hub
 
-IMO token holders vote on proposals that determine how DIMO works. They're known as DIMO Improvement Proposals ("DIPs" for short) and can upgrade the way the DIMO smart contracts and tokens work, can grant privileges (e.g., a vote to issue a license to make DIMO Miners to a hardware manufacturer), set tokens aside for grants, and more. More on why this matters [here](https://docs.dimo.zone/overview/dimotoken/user-ownership).
+DIMO token holders vote on proposals that determine how DIMO works. They're known as DIMO Improvement Proposals ("DIPs" for short) and can upgrade the way the DIMO smart contracts and tokens work, can grant privileges (e.g., a vote to issue a license to make DIMO Miners to a hardware manufacturer), set tokens aside for grants, and more. More on why this matters [here](https://docs.dimo.zone/overview/dimotoken/user-ownership).
 
 ### **Participation Instructions**
 
