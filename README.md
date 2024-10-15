@@ -18,7 +18,7 @@ We recommend using [this website](https://delegate.dimo.zone/) to easily delegat
 
 Below, you can see active proposals that $DIMO token holders can vote on now, proposals that are receiving feedback and aren't ready for voting yet, and the entire index of all DIPs passed and failed. You may view DIPs on [Github](https://github.com/DIMO-Network/DIP) or [Gitbook](https://docs.dimo.zone/dips). The official discussion forum for DIMO governance is the [Discord](https://chat.dimo.zone).
 
-**Voting active for:** DLP-5, DIP-2: Amendment 3, DIP-2: Amendment 4
+**Voting active for:** [DLP-5](license-proposals/dlp5.md), [DIP-2: Amendment 3](amendments/dip2a3.md), [DIP-2: Amendment 4](amendments/dip2a4.md)
 
 **Community review:** none
 
