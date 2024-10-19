@@ -8,7 +8,7 @@
 >
 > **Status**: Voting (until October 22, 2024 at 16:18 UTC)
 >
-> **Voting URL**: Pending
+> **Voting URL**: [Snapshot](https://snapshot.org/#/dimo.eth/proposal/0x1eeeb8a6150af1bb29bcb5a89015d8f23a9337ae001095c9ff82173f574a11f0)
 >
 > **Discussion Forum**: [Discord](https://chat.dimo.zone) #🗳️governance forum
 >
