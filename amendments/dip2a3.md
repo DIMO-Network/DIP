@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Voting (until October 22, 2024 at 16:19 UTC)
+> **Status**: Deployed
 >
 > **Voting URL**: [Snapshot](https://snapshot.org/#/dimo.eth/proposal/0x6169051cbf2aa31226a6c15a2634fbf8907a459cc362cba9e3991a604031cbec)
 >
@@ -44,7 +44,7 @@ Points <mark style="color:red;">for users</mark> are calculated as follows:
 
 Users who fail to connect for three consecutive weeks will fall back one level.
 
-In the example shown in the table above, Alice earns 2,000 points for having been connected between 2<mark style="color:red;">1</mark>~~<mark style="color:red;">0</mark>~~ to 3<mark style="color:red;">5</mark>~~<mark style="color:red;">6</mark>~~ weeks, 1,000 points for her Limited software connection, and 6,000 points for having <mark style="color:red;">comprehensive</mark>~~<mark style="color:red;">a Full-Size OBD Dongle</mark>~~ installed in her vehicle.
+In the example shown in the table above, Alice earns 2,000 points for having been connected between 2<mark style="color:red;">1</mark>~~<mark style="color:red;">0</mark>~~ to 3<mark style="color:red;">5</mark>~~<mark style="color:red;">6</mark>~~ weeks, 1,000 points for her Limited software connection, and 6,000 points for having <mark style="color:red;">comprehensive device</mark>~~<mark style="color:red;">a Full-Size OBD Dongle</mark>~~ installed in her vehicle.
 
 Here there are <mark style="color:red;">4</mark>~~<mark style="color:red;">1</mark>~~0,000 cars connected to DIMO and each car generates an average of 6,000 points that week, for a total of <mark style="color:red;">24</mark>~~<mark style="color:red;">6</mark>~~0,000,000 points. Alice's 9,000 points represent 0.0<mark style="color:red;">04</mark>~~<mark style="color:red;">15</mark>~~% of the points for that week (9,000 ÷ <mark style="color:red;">24</mark>~~<mark style="color:red;">6</mark>~~0,000,000). Therefore, she earns <mark style="color:red;">41.44</mark>~~<mark style="color:red;">165.75</mark>~~ out of the 1,105,000 tokens from this pool (1,105,000 \* 0.0<mark style="color:red;">04</mark>~~<mark style="color:red;">15</mark>~~%).
 

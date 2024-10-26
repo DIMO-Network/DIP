@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Voting (until October 22, 2024 at 16:18 UTC)
+> **Status**: Deployed
 >
 > **Voting URL**: [Snapshot](https://snapshot.org/#/dimo.eth/proposal/0x1eeeb8a6150af1bb29bcb5a89015d8f23a9337ae001095c9ff82173f574a11f0)
 >
@@ -28,7 +28,7 @@ Baseline rewards exist to incentivize the development of a large and incentive-a
 
 <mark style="color:green;">// If passed, this proposal would incorporate the following changes to the Specifications section of DIP-2. These changes build off of DIP-2 amendment 3, assuming this passes. If it fails, the related changes to integration methods would be rolled back and only those new changes shown below will be incorporated:</mark>
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-10-11 at 11.11.44 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-10-26 at 2.20.02 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 <mark style="color:red;">Note that:</mark>
 
@@ -44,7 +44,7 @@ Baseline rewards exist to incentivize the development of a large and incentive-a
 
 ~~<mark style="color:red;">Users who fail to connect for three consecutive weeks will fall back one level.</mark>~~
 
-In the example shown in the table above, Alice earns 2,000 points for having been connected between 21 to 35 weeks, <mark style="color:red;">1,000 points for locking 500 $DIMO for 6 months,</mark> 1,000 points for her Limited software connection, and 6,000 points for having comprehensive installed in her vehicle.
+In the example shown in the table above, Alice earns 2,000 points for having been connected between 21 to 35 weeks, <mark style="color:red;">1,000 points for locking 500 $DIMO for 6 months,</mark> 1,000 points for her Limited software connection, and 6,000 points for having comprehensive device installed in her vehicle.
 
 Here there are 40,000 cars connected to DIMO and each car generates an average of 6,000 points that week, for a total of 240,000,000 points. Alice's <mark style="color:red;">10</mark>~~<mark style="color:red;">9</mark>~~,000 points represent 0.004% of the points for that week (<mark style="color:red;">10</mark>~~<mark style="color:red;">9</mark>~~,000 ÷ 240,000,000). Therefore, she earns <mark style="color:red;">46.04</mark>~~<mark style="color:red;">41.44</mark>~~ out of the 1,105,000 tokens from this pool (1,105,000 \* 0.004%).
 

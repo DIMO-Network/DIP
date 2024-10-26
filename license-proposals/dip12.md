@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: zer0stars.eth & robsolomon.eth
 >
-> **Status**: Approved
+> **Status**: Deployed
 >
 > **Voting URL**: [Snapshot](https://snapshot.org/#/dimo.eth/proposal/0x9d93ab79916c69c1cbb3356877fb08b8d12f216511115a0572767bc4eba6c32e)
 >
