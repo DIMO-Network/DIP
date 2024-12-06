@@ -66,7 +66,7 @@ Licenses are NFTs that can only be minted or transferred by DIMO Integrations. T
 
 <mark style="color:red;">This DIP may be updated without passing an amendment to update the bond amount below per the rules described herein.</mark>
 
-<mark style="color:red;">**As of the last rebasing on July 5, 2024**</mark>**, the bond amount is **<mark style="color:red;">**77,101 $DIMO.**</mark>
+<mark style="color:red;">**As of the last rebasing on July 5, 2024**</mark>**, the bond amount is&#x20;**<mark style="color:red;">**77,101 $DIMO.**</mark>
 
 <mark style="color:red;">Past bond amounts were:</mark>
 
@@ -94,7 +94,7 @@ Any manufacturer may renounce their license and receive back their bonded $DIMO 
 
 For physical hardware, licensed manufacturers pay a <mark style="color:red;">4,000 DIMO Credits (DCX)</mark>~~<mark style="color:red;">set amount of $DIMO</mark>~~ to mint a device and enable it to connect to the ~~<mark style="color:red;">$</mark>~~DIMO network.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ~~<mark style="color:red;">The $DIMO payment is set aside. Each month that the connection persists, the integration provider receives some of that $DIMO back as rebate for twenty four months until they earn back 70%.</mark>~~&#x20;
 
@@ -144,7 +144,7 @@ A Node is an entity that <mark style="color:red;">stores data on behalf of users
 
 Nodes may receive data from several protocols, such as UDP, MQTT, or Streamr Network. They provide API's and interfaces that can be used to access data, and the on-chain indexer.
 
-All data they receive must be encrypted in transit and at rest. Both Nodes and the businesses that they serve must always comply with relevant privacy regulations (e.g., GDPR). **Node operators may only share data with licensed **<mark style="color:red;">**developers**</mark>~~<mark style="color:red;">**Data Subscribers**</mark>~~** per the explicit terms of a user's active opt-in**. In other words, any Data Subscriber must receive an explicit signature from a user's wallet in order to receive their data.
+All data they receive must be encrypted in transit and at rest. Both Nodes and the businesses that they serve must always comply with relevant privacy regulations (e.g., GDPR). **Node operators may only share data with licensed&#x20;**<mark style="color:red;">**developers**</mark>~~<mark style="color:red;">**Data Subscribers**</mark>~~**&#x20;per the explicit terms of a user's active opt-in**. In other words, any Data Subscriber must receive an explicit signature from a user's wallet in order to receive their data.
 
 <mark style="color:red;">Prospective Nodes may receive a license by passing a DIP that follows the</mark> [<mark style="color:red;">License Approval Template</mark>](../templates/license-approval-template.md) <mark style="color:red;">and by depositing the required $DIMO bond.</mark>
 

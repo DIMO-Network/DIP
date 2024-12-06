@@ -12,7 +12,7 @@
 >
 > **Discussion Forum**: [Discord](https://chat.dimo.zone) #🗳️governance forum
 >
-> **Vote Type**: [Level 1](https://docs.dimo.zone/governance/dip1#voting-protocol)
+> **Vote Type**: [Level 3](https://docs.dimo.zone/governance/dip1#voting-protocol)
 
 ## Abstract
 

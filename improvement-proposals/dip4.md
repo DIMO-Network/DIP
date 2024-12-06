@@ -112,7 +112,7 @@ Any manufacturer may renounce their license and receive back their bonded $DIMO 
 
 For physical hardware, licensed manufacturers pay 4,000 DIMO Credits (DCX) to mint a device and enable it to connect to the DIMO network.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Implementation&#x20;
 

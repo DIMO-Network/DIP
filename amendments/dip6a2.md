@@ -38,7 +38,7 @@ _<mark style="color:green;">// If passed, this proposal would edit the following
 
 The DIMO Foundation anticipates spending approximately <mark style="color:red;">$1,800,000</mark> <mark style="color:red;"></mark>~~<mark style="color:red;">$800,000</mark>~~ in 2023. $200,000 of that would be on administrative overhead, including directors salaries, legal fees, insurance, KYC services, technology subscriptions, and more. Another $600,000 would be to compensate contributors who build and grow the DIMO protocol. Digital Infrastructure Inc. is under contract to provide services at $150 per hour and is expected to be the largest such contributor. <mark style="color:red;">Up to $1,000,000 will be used to increase the availability of $DIMO on exchanges.</mark>
 
-To leave some extra buffer for the unexpected, **this proposal gives the DIMO Foundation the authority to spend up to **<mark style="color:red;">**$2,000,000**</mark><mark style="color:red;">** **</mark>~~<mark style="color:red;">**$1,000,000**</mark>~~** in USD equivalent in 2023 for relevant operations.**
+To leave some extra buffer for the unexpected, **this proposal gives the DIMO Foundation the authority to spend up to&#x20;**<mark style="color:red;">**$2,000,000**</mark><mark style="color:red;">**&#x20;**</mark>~~<mark style="color:red;">**$1,000,000**</mark>~~**&#x20;in USD equivalent in 2023 for relevant operations.**
 
 #### Treasury Initiatives
 
