@@ -35,7 +35,7 @@
 * [DIP-2: Amendment 4](amendments/dip2a4.md)
 * [DIP-2: Amendment 5](amendments/dip2a5hidden.md)
 * [DIP-3: Amendment 1](amendments/dip3a1.md)
-* [DIP-3: Amendment 2](amendments/dip3a1-1.md)
+* [DIP-3: Amendment 2](amendments/dip3a2.md)
 * [DIP-4 & 5: Amendment 1](amendments/dip4-and-5a1.md)
 * [DIP-4 & 5: Amendment 2](amendments/dip4-5a2.md)
 * [DIP-6: Amendment 1](amendments/dip6a1.md)

@@ -36,7 +36,7 @@ As of November 23, 2024, the DIMO Treasury contains $6,900,206 in USD and stable
 
 **Expense Budget**
 
-The DIMO Foundation is authorized to spend a maximum of $6,768,000 USD equivalent on operations and development in the calendar year 2025. Note that this is an expense budget only and [revenue](dip3a1-1.md) may decrease or entirely erase the net operating loss.
+The DIMO Foundation is authorized to spend a maximum of $6,768,000 USD equivalent on operations and development in the calendar year 2025. Note that this is an expense budget only and [revenue](dip3a2.md) may decrease or entirely erase the net operating loss.
 
 All intellectual property produced for hire must either be owned by the DIMO Foundation, perpetually licensed to the DIMO Foundation, or open sourced. All spending from this budget of any sort must be primarily for the benefit of the DIMO protocol.
 
@@ -52,7 +52,7 @@ Any payments to Digital Infrastructure Inc., a labs entity that originally creat
 
 Rather than charge users for their monthly connectivity costs of AutoPi cloud, Smartcar, and Tesla connectivity fees, the DIMO Foundation agrees to fully or partially cover up to $1,680,000 USD worth of monthly vehicle costs at its discretion.
 
-This expense budget line item is only unlocked if [DIP-3 Amendment 2](dip3a1-1.md) passes, as this proposal requires applications, such as DIMO Mobile, to pay per month to access vehicles. _These fees could partially or entirely offset this expense._
+This expense budget line item is only unlocked if [DIP-3 Amendment 2](dip3a2.md) passes, as this proposal requires applications, such as DIMO Mobile, to pay per month to access vehicles. _These fees could partially or entirely offset this expense._
 
 The goal of this is to keep things cheaper for developers who don't have to worry about connectivity as much, or to prevent developers from having to pass costs on to users too early, limiting growth. When the quantity and quality of apps in the DIMO ecosystem increases, it will become easier to build profitable applications and/or more practical to pass these costs on to drivers. This proposal authorizes this expense for 2025 only; it's neither guaranteed nor expected that this subsidy would continue into 2026.
 
