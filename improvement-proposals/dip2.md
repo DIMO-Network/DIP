@@ -34,7 +34,7 @@ It is also designed to: reward and give control to those who show long-term supp
 
 Per this DIP, the weekly issuance will be allocated per the following methodology. $DIMO token holders can vote to alter these rewards formulas, alter the issuance amounts, and make other changes in subsequent DIPs.
 
-In year one, DIMO will issue 1,105,000 $DIMO per week to all qualified DIMO users at 5 AM UTC each Monday. This issuance amount will automatically decrease by 15% every 52 weeks following the anniversary of the December 12, 2024 mainnet launch, with Baseline Issuance ending in 40 years, unless modified by a future DIP.
+In year one, DIMO will issue 1,105,000 $DIMO per week to all qualified DIMO users at 5 AM UTC each Monday. This issuance amount will automatically decrease by 15% every 52 weeks following the anniversary of the December 12, 2022 mainnet launch, with Baseline Issuance ending in 40 years, unless modified by a future DIP.
 
 <figure><img src="../.gitbook/assets/Issuance Schedule.png" alt=""><figcaption></figcaption></figure>
 
@@ -96,7 +96,9 @@ Jan 26, 2023: adjusted review date again to allow for fixes to delegation strate
 
 Aug 31, 2023: passed [DIP-2: Amendment 1](../amendments/dip2a1.md)
 
-July 6, 2024: disclaimer adjusted
+Jul 6, 2024: disclaimer adjusted
+
+Dec 9, 2024: fixed typo — the mainnet launch was 2022 not 2024
 
 ## Disclaimer
 
