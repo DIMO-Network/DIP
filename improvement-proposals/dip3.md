@@ -18,11 +18,11 @@
 
 Developers accessing vehicle data pay a simple fee per vehicle per month. Proceeds are partially distributed to the nodes that store the offchain vehicle data and partially kept by the DIMO protocol treasury as profit. This treasury can be reinvested or burned per future governance votes.
 
+## Motivation
 
+This proposal is designed to fairly compensate the DIMO protocol, as well as the node that stores the offchain data that is being accessed by the developer, in the simplest and fairest terms possible.
 
-
-
-_<mark style="color:green;">// and would replace the Specifications with:</mark>_
+## Specification
 
 ### Fees
 
@@ -39,12 +39,6 @@ Modifications and new fees can be added with future amendments. Some likely exam
 * Per action fees such as updating vehicle permissions, pairing and unpairing a device, etc.
 
 While fees are the same, whether a developer is just getting started or a large enterprise, the [Ignite Grants team](dip8.md) is equipped to offer grants to hobbyists and startups.
-
-## Motivation
-
-This proposal is designed to fairly compensate the DIMO protocol, as well as the node that stores the offchain data that is being accessed by the developer, in the simplest and fairest terms possible.
-
-## Specification
 
 ### Compensating nodes
 
