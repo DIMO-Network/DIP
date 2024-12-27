@@ -6,7 +6,7 @@
 
 * [DIP-1: Governance Guidelines](improvement-proposals/dip1.md)
 * [DIP-2: Baseline Issuance](improvement-proposals/dip2.md)
-* [DIP-3: Marketplace Issuance & Token Burn](improvement-proposals/dip3.md)
+* [DIP-3: Vehicle Data Access Fees](improvement-proposals/dip3.md)
 * [DIP-4: Device Integrations](improvement-proposals/dip4.md)
 * [DIP-5: Ecosystem](improvement-proposals/dip5.md)
 * [DIP-6: The DIMO Foundation](improvement-proposals/dip6.md)

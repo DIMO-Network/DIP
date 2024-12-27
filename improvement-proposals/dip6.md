@@ -42,21 +42,43 @@ Notably, Digital Infrastructure Inc., the corporation that initially developed D
 
 ### Financial Plan & Ask
 
-#### Resources
+**Resources**
 
-As of the July 5th 2024, the DIMO Treasury contains  $10,276,785.64 in USD and stablecoins, as well as 472,045,031 $DIMO tokens (141,513,446 of which are not yet earmarked for any purpose). Except for the $2,348,070.45 in cash held in a legacy bank account, balances can be found in the DIMO Foundation wallets posted [here](https://docs.dimo.zone/foundation/wallets).
+As of November 23, 2024, the DIMO Treasury contains $6,900,206 in USD and stablecoins, as well as 4541,926,792 $DIMO tokens (144,411,970 of which are not yet earmarked for any purpose). DIMO Foundation onchain wallet balances can be found [here](https://docs.dimo.zone/foundation/wallets).
 
-A breakdown of $DIMO token treasury allocations is shown below.
+<figure><img src="../.gitbook/assets/Screenshot 2024-11-24 at 10.07.12 PM.png" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="327"></th><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td><strong>Starting $DIMO treasury &#x26; rewards</strong></td><td align="center"></td><td align="center"><strong>700,000,000</strong></td></tr><tr><td></td><td align="center"></td><td align="center"></td></tr><tr><td></td><td align="center"><strong>Spent</strong></td><td align="center"><strong>Reserved</strong></td></tr><tr><td>Airdrop</td><td align="center">41,336,260</td><td align="center">0</td></tr><tr><td>Baseline (<a href="dip2.md">DIP-2</a>)</td><td align="center">83,542,040</td><td align="center">299,726,463</td></tr><tr><td>Loaned (<a href="dip6.md">DIP-6</a>)</td><td align="center">13,000,000</td><td align="center">0</td></tr><tr><td>Sold (<a href="dip6.md">DIP-6</a>)</td><td align="center">57,809,672</td><td align="center">0</td></tr><tr><td>Operations (<a href="dip6.md">DIP-6</a>)</td><td align="center">572,119</td><td align="center">0</td></tr><tr><td>Referrals (<a href="dip7.md">DIP-7</a>)</td><td align="center">518,400</td><td align="center">1,981,600</td></tr><tr><td>Grants (<a href="dip8.md">DIP-8</a>)</td><td align="center">1,176,478</td><td align="center">14,823,522</td></tr><tr><td>Marketing (<a href="dip9.md">DIP-9</a>)</td><td align="center">30,000,000</td><td align="center">14,000,000</td></tr><tr><td><strong>Total</strong></td><td align="center"><strong>227,954,969</strong></td><td align="center"><strong>330,531,585</strong></td></tr><tr><td></td><td align="center"></td><td align="center"></td></tr><tr><td><strong>Remaining $DIMO in treasury</strong></td><td align="center"></td><td align="center"><strong>472,045,031</strong></td></tr><tr><td><strong>Remaining unreserved $DIMO</strong></td><td align="center"></td><td align="center"><strong>141,513,446</strong></td></tr></tbody></table>
+**Expense Budget**
 
-#### Budget
+The DIMO Foundation is authorized to spend a maximum of $6,768,000 USD equivalent on operations and development in the calendar year 2025. Note that this is an expense budget only and [revenue](../amendments/dip3a2.md) may decrease or entirely erase the net operating loss.
 
-The DIMO Foundation is authorized to spend a maximum of $4,000,000 USD equivalent on operations and development in the calendar year 2024. This includes roughly $1,308,729.40 in expenses incurred January through May 2024, but not yet paid. All intellectual property produced for hire must either be owned by the DIMO Foundation, perpetually licensed to the DIMO Foundation, or open sourced. All spending from this budget of any sort must be primarily for the benefit of the DIMO protocol.
+All intellectual property produced for hire must either be owned by the DIMO Foundation, perpetually licensed to the DIMO Foundation, or open sourced. All spending from this budget of any sort must be primarily for the benefit of the DIMO protocol.
 
-Any payments to Digital Infrastructure Inc., a labs entity that originally created the DIMO protocol and continues to contribute to its development, must not exceed a 10% markup on the fully loaded cost of personnel who are actively working on intellectual property for the protocol or open source software that significantly benefits the protocol.
+<figure><img src="../.gitbook/assets/Screenshot 2024-12-04 at 6.49.54 AM.png" alt=""><figcaption></figcaption></figure>
 
-Furthermore, following the expiration of marketing payments to Digital Infrastructure Inc. in [DIP-9](https://docs.dimo.zone/governance/improvement-proposals/dip9), the DIMO Foundation may, at its discretion, also pay Digital Infrastructure Inc. for half of the fully loaded cost of any marketing personnel who are primarily promoting the DIMO protocol and the extended ecosystem, and not those promoting Digital Infrastructure Inc. products specifically.
+**R\&D, marketing, customer support, and admin contractors — Maximum annual spend: $4,080,000**&#x20;
+
+Covers entities who are engaged by the DIMO Foundation to contribute to protocol R\&D, marketing, customer support, and administrative projects.
+
+Any payments to Digital Infrastructure Inc., a labs entity that originally created the DIMO protocol and continues to contribute to its development, must not exceed a 10% markup on the fully loaded cost of personnel who are actively working on DIMO marketing, intellectual property for the protocol, or open source software that significantly benefits the protocol.
+
+**Connectivity — Maximum annual spend: $1,680,000**
+
+Rather than charge users for their monthly connectivity costs of AutoPi cloud, Smartcar, and Tesla connectivity fees, the DIMO Foundation agrees to fully or partially cover up to $1,680,000 USD worth of monthly vehicle costs at its discretion.
+
+This expense budget line item is only unlocked if [DIP-3 Amendment 2](../amendments/dip3a2.md) passes, as this proposal requires applications, such as DIMO Mobile, to pay per month to access vehicles. _These fees could partially or entirely offset this expense._
+
+The goal of this is to keep things cheaper for developers who don't have to worry about connectivity as much, or to prevent developers from having to pass costs on to users too early, limiting growth. When the quantity and quality of apps in the DIMO ecosystem increases, it will become easier to build profitable applications and/or more practical to pass these costs on to drivers. This proposal authorizes this expense for 2025 only; it's neither guaranteed nor expected that this subsidy would continue into 2026.
+
+**Legal, insurance, and registrations — Maximum annual spend: $108,000**
+
+This is a conservative estimate for the total amount required for miscellaneous administrative expenses. The expected spend is about half of this amount.
+
+**$DIMO Availability — Maximum annual spend: $900,000**
+
+It's important that the $DIMO token is readily available for those who want to participate in the network. This expense line item is for activities related to ensuring ample availability.
+
+***
 
 This budget pool is distinct from those authorized in other DIPs such as [Baseline Issuance](https://docs.dimo.zone/governance/improvement-proposals/dip2), [Grants](https://docs.dimo.zone/governance/improvement-proposals/dip8), [Marketing](https://docs.dimo.zone/governance/improvement-proposals/dip9), and [Referrals](https://docs.dimo.zone/governance/improvement-proposals/dip7). The DIMO Foundation is responsible for coordinating with all subdaos to ensure that no third party is paid twice for the same work.
 
@@ -129,10 +151,12 @@ Mar 29, 2023: passed [DIP-6: Amendment 1](../amendments/dip6a1.md)
 
 Aug 31, 2023: passed [DIP-6: Amendment 2](../amendments/dip6a2.md) and [DIP-6: Amendment 3](../amendments/dip6a3.md)
 
-July 6, 2024: disclaimer adjusted and updated per [DIP-6: Amendment 4](../amendments/dip6a4.md)
+Jul 6, 2024: disclaimer adjusted and updated per [DIP-6: Amendment 4](../amendments/dip6a4.md)
+
+Dec 27, 2024: passed [DIP-6: Amendment 5](../amendments/dip6a5.md)
 
 ## Disclaimer
 
-The contract addresses for $DIMO are [0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b](https://etherscan.io/token/0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b) on Ethereum and [0xE261D618a959aFfFd53168Cd07D12E37B26761db](https://polygonscan.com/token/0xE261D618a959aFfFd53168Cd07D12E37B26761db) on Polygon. Please always confirm that you are interacting with these contract addresses and not those of a fraudulent imitator. This proposal may not be enacted if it violates Cayman Islands law. Please triple check that any communications are authentic as it’s common for scammers to try to trick you into sending them crypto or into revealing your private keys.
+Certain statements in this document constitute forward-looking statements. The words “may,” “will,” “should,” “project,” “anticipate,” “believe,” “estimate,” “intend,” “expect,” “continue,” and similar expressions or the negatives thereof are generally intended to identify forward-looking statements. Such forward-looking statements, including the intended actions and performance objectives, involve known and unknown risks, uncertainties, and other important factors that could cause the actual results, performance, or achievements to differ materially from any future results, performance, or achievements expressed or implied by such forward-looking statements. There can be no assurance that such statements will prove to be accurate as actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking statements and nothing in this document represents a promise of specific work to be completed in the future.&#x20;
 
-Certain statements in this document constitute forward-looking statements. The words “may,” “will,” “should,” “project,” “anticipate,” “believe,” “estimate,” “intend,” “expect,” “continue,” and similar expressions or the negatives thereof are generally intended to identify forward-looking statements. Such forward-looking statements, including the intended actions and performance objectives, involve known and unknown risks, uncertainties, and other important factors that could cause the actual results, performance, or achievements to differ materially from any future results, performance, or achievements expressed or implied by such forward-looking statements. There can be no assurance that such statements will prove to be accurate as actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking statements and nothing in this document represents a promise of specific work to be completed in the future.
+The contract addresses for $DIMO are 0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b on [Ethereum](https://etherscan.io/token/0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b), 0x5eAA326fB2fc97fAcCe6A79A304876daD0F2e96c on [Base](https://basescan.org/address/0x5eAA326fB2fc97fAcCe6A79A304876daD0F2e96c) / [Optimism](https://optimistic.etherscan.io/address/0x5eAA326fB2fc97fAcCe6A79A304876daD0F2e96c), and 0xE261D618a959aFfFd53168Cd07D12E37B26761db on [Polygon](https://polygonscan.com/token/0xE261D618a959aFfFd53168Cd07D12E37B26761db). Please always confirm that you are interacting with these contract addresses and not those of a fraudulent imitator. This proposal may not be enacted if it violates Cayman Islands law. Please triple check that any communications are authentic as it’s common for scammers to try to trick you into sending them crypto or into revealing your private keys.

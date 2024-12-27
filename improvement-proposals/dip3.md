@@ -1,6 +1,6 @@
-# DIP-3: Marketplace Issuance & Token Burn
+# DIP-3: Vehicle Data Access Fees
 
-> **Headline**: How transactions are converted into $DIMO rewards for users
+> **Headline**: How developers pay per car per month to access vehicle data
 >
 > **Author**: The DIMO Foundation
 >
@@ -16,87 +16,49 @@
 
 ## Abstract
 
-Transactions enabled by DIMO Apps generate additional $DIMO rewards for users, known as Marketplace Issuance. This is in addition to [Baseline Issuance](../dip-2-baseline-issuance.md). These transactions will also generate a $DIMO token burn.&#x20;
+Developers accessing vehicle data pay a simple fee per vehicle per month. Proceeds are partially distributed to the nodes that store the offchain vehicle data and partially kept by the DIMO protocol treasury as profit. This treasury can be reinvested or burned per future governance votes.
 
-It will start off very simple, but can evolve with future DIPs as the ecosystem matures and regulatory clarity improves.
+
+
+
+
+_<mark style="color:green;">// and would replace the Specifications with:</mark>_
+
+### Fees
+
+Developers accessing vehicle data pay a simple fee of 1,250 DCX ($1.25 USD) per vehicle per month of data. If they are performing a "look back" and are pulling data for previous months they did not already pay for, they pay 1,250 DCX per each previous month capped at 12,500 DCX (e.g., pulling 10, 12, or 24 months of historical data costs 12,500 DCX). The cap is inclusive of the current month.
+
+For example, when a user first signs up in [DIMO Mobile](https://apps.apple.com/us/app/dimo-mobile/id1589486727) and the app retrieves their vehicle data, the app publisher, Digital Infrastructure Inc., must pay 1,250 DCX. If that user had already onboarded their car to DIMO a year prior using another separate DIMO app and are connecting to DIMO Mobile for the first time, the publisher pays 1,250 DCX for the current month of data plus an additional 1,250 DCX for each prior month, capped at 12,500 DCX only if they are ingesting that historical data (e.g., to show historical trips taken).
+
+[DCX is a stable credit](dip10.md#dimo-credit-dcx) that is always worth $0.001 USD and it can only be purchased using the $DIMO token. Websites like [console.dimo.org](https://console.dimo.org) abstract this process for the developer, allowing them to use a credit card to buy DCX in a simple flow. Once DCX is spent by a developer it is burned and cannot be reused.
+
+Modifications and new fees can be added with future amendments. Some likely examples include:
+
+* An increased monthly charge for video streaming from embedded cameras and dash cams;
+* Fine-grained a la cart options that allow developers to pay a lower base rate per vehicle plus add-on fees for accessing telemetry, location, documents, and/or commands; and
+* Per action fees such as updating vehicle permissions, pairing and unpairing a device, etc.
+
+While fees are the same, whether a developer is just getting started or a large enterprise, the [Ignite Grants team](dip8.md) is equipped to offer grants to hobbyists and startups.
 
 ## Motivation
 
-DIMO users and apps should be rewarded based on the value that they generate to create a more direct link between incentives and optimal behaviors. Those who create the most value for the network should have the largest $DIMO rewards and the biggest voice in its future direction.
-
-In the early stages of DIMO's development, the vast majority of rewards will come from [Baseline Issuance](dip2.md), which is designed to simulate market demand for user data in the simplest way possible. As the network matures, this balance will shift so the majority of rewards come from Marketplace Issuance. This is comparable to other web3 networks like Helium, where the rewards from proof of coverage ideally shrink in comparison to rewards from data transfer as adoption increases.
+This proposal is designed to fairly compensate the DIMO protocol, as well as the node that stores the offchain data that is being accessed by the developer, in the simplest and fairest terms possible.
 
 ## Specification
 
-### Market Issuance
+### Compensating nodes
 
-Users are able to opt-in to sharing data with licensed DIMO Apps. These apps must specify what data they are collecting, what they may do with it, and what portion of any data sales revenue that they will keep, if applicable.
+The nodes that store vehicle data (more on what a node is [here](dip5.md#nodes)) charge developers to access vehicles using DCX, but this is not how they are compensated. DCX is non-transferrable and is burned when spent by developers.
 
-For all transactions involving the sale of user data or access, the amount will be translated to $DIMO tokens and the portion owed to the user will be distributed in $DIMO and 1% of the transaction will be burned.
+Rather, the $DIMO that is spent to acquire DCX goes into a pool. Each month, 60% of that pool is kept by the protocol as profit. This builds up the treasury, which can be reinvested and/or burned per future governance votes. The remaining 40% is distributed to entities based on how much DCX was spent on their behalf proportional to every other node.
 
-If the the transaction is denominated in $DIMO, the calculation is obvious. If denominated or paid in fiat (USD, EUR, GBP) or other assets (DAI, BTC, ETH), amounts are converted to $DIMO at the current market price at the time of the transaction. The node operator may choose between CoinMarketCap and CoinGecko for the price oracle.
+As an examples, let's imagine there are two nodes, Node A and Node B. In a given month, 1,125,000 DCX is burned by developers paying to access data from Node A, and 125,000 DCX is burned by developers who access data from Node B. Node A receives 36% of the pool (40% \* 90%) and Node B receives 4% (40% \* 10%).
 
-The easiest way to understand this mechanism is through examples of various transaction types, all listed below.&#x20;
-
-For simplicity, these examples assume a market price of $10 USD per $DIMO token and round to two decimal points.
-
-#### Example 1: The sale of aggregate and anonymized user data
-
-Marketplace Issuance generated by the sale of aggregate and anonymized data is split evenly among all users who are currently opted into and contributing data to that data pool at the time the reward is distributed.
-
-_Hypothetical Example:_ You grant DIMO Explorer, a licensed DIMO App, the right to sell your aggregate and anonymized data when you opt-in to Baseline Rewards. As a part of the opt-in, users agree that Explorer keeps a 5% cut for their efforts, leaving users with 95%. In 2023, Explorer generates $1,000,000 in USD by selling reports on overall traffic patterns, battery performance, self-driving system usage, road quality, and other driving behaviors.
-
-* **Burn**: 1,000 $DIMO ($1,000,000 / 10 $perDIMO x 1%)
-* **Settlement**:&#x20;
-  * Explorer receives $49,500 USD ($1,000,000 x 99% x 5%)
-  * Users receive 94,050 $DIMO ($1,000,000 / 10 $perDIMO x 99% x 95%)
-
-<img src="../.gitbook/assets/file.drawing (1).svg" alt="" class="gitbook-drawing">
-
-#### Example 2: The sale of disaggregated user data
-
-Marketplace Issuance generated by the direct sale of user data will go to the respective user. 99% of net proceeds are issued to the user and 1% is burned.
-
-_Hypothetical Example:_ You grant DataWiz, a DIMO App, the right to sell your anonymized but disaggregated (vehicle specific data). You share trip telemetry data and vehicle status, but not location or glovebox (license, title, insurance) data. You agree to DataWiz's license agreement that gives them a 5% cut of your data sales.
-
-Verizon subscribes to your cell coverage data so they can map their signal strength. Panasonic subscribes to your battery data, which they use to improve their designs. Other businesses subscribe to similar streams. DataWiz receives an aggregate $60/month in USD from brokering your data.
-
-* **Burn**: 0.06 $DIMO each month ($60 / 10 $perDIMO x 1%)
-* **Settlement**:&#x20;
-  * DataWiz receives $2.97/month USD ($60 x 99% x 5%)
-  * You receive 5.64 $DIMO per month ($60 / 10 $perDIMO x 99% x 95%)
-
-<img src="../.gitbook/assets/file.drawing (3).svg" alt="" class="gitbook-drawing">
-
-#### Example 3: Direct incentives
-
-Marketplace Issuance may also be earned directly from apps. Incentives must be in $DIMO. 99% of the incentive is issued to the user and 1% is burned.&#x20;
-
-_Hypothetical Example:_ All Farm Insurance is a DIMO App that gives new customers 50 $DIMO when they switch to All Farm and share their vehicle health, location, and mileage data for better insurance rates.
-
-* **Burn**: 0.51 $DIMO (50.5 x 1%)
-* **Settlement**:&#x20;
-  * You receive 500 $DIMO (50.50 x 99%)
-
-<img src="../.gitbook/assets/file.drawing (1) (2).svg" alt="" class="gitbook-drawing">
-
-### Market Issuance from transactions involving goods & services
-
-In the future, transactions on top of DIMO rails that involve payment for goods and services can also generate rewards and token burn.&#x20;
-
-For example, you drive for, _RID3SHAR3_, a better DIMO-fied version of Uber. A passenger pays $40 USD for you to drive them to the airport. 1% is translated to $DIMO and burned. Some or all of the payment you receive is translated into $DIMO.
-
-Loan payments, insurance payments, car sales, and other transactions can generate $DIMO token burn and rewards.
-
-This mechanism should be implemented at a time in the future when DIMO adoption and regulatory clarity are suitably far along.
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Implementation
 
-In order to enact the specification above, the DIMO Foundation will issue licenses to DIMO Applications, per [DIP-5](dip5.md), that specify the terms by which those applications handle user data and remit cash or $DIMO.&#x20;
-
-DIMO apps may burn and distribute $DIMO directly. In cases where DIMO apps do not have or wish to use $DIMO, or do not wish to handle the distribution directly, the DIMO Foundation will assist in conversions and distributions. The DIMO Foundation reserves the right limit or deny the service of assisting third parties in exchanging fiat or other crypto for $DIMO, or to use a higher price for $DIMO if, for example, it determines there isn't sufficient actual volume or genuine price discovery to give legitimacy to the market price, or if the asset being exchanged is difficult or unwise to accept.
-
-To assist in this matter, the DIMO Foundation has engaged Digital Infrastructure Inc. to process data and calculate distributions. As is the case with Baseline Issuance, user<mark style="color:red;">s</mark> are not eligible for rewards if their wallets are flagged by Chainalysis' [AML tools](https://www.chainalysis.com/free-cryptocurrency-sanctions-screening-tools/) as risky or fraudulent.
+If passed, DIP-3 would be updated as specified above after the four day timelock concludes and access fees would go into effect starting January 1, 2025.
 
 ## Copyright
 
@@ -120,10 +82,12 @@ Dec 26, 2023: adjusted review date again to allow for fixes to delegation strate
 
 Mar 29, 2023: passed [DIP-3: Amendment 1](../amendments/dip3a1.md)
 
-July 6, 2024: disclaimer adjusted
+Jul 6, 2024: disclaimer adjusted
+
+Dec 26, 2024: passed [DIP-3: Amendment 2](../amendments/dip3a2.md)
 
 ## Disclaimer
 
-The contract addresses for $DIMO are [0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b](https://etherscan.io/token/0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b) on Ethereum and [0xE261D618a959aFfFd53168Cd07D12E37B26761db](https://polygonscan.com/token/0xE261D618a959aFfFd53168Cd07D12E37B26761db) on Polygon. Please always confirm that you are interacting with these contract addresses and not those of a fraudulent imitator. This proposal may not be enacted if it violates Cayman Islands law. Please triple check that any communications are authentic as it’s common for scammers to try to trick you into sending them crypto or into revealing your private keys.
+Certain statements in this document constitute forward-looking statements. The words “may,” “will,” “should,” “project,” “anticipate,” “believe,” “estimate,” “intend,” “expect,” “continue,” and similar expressions or the negatives thereof are generally intended to identify forward-looking statements. Such forward-looking statements, including the intended actions and performance objectives, involve known and unknown risks, uncertainties, and other important factors that could cause the actual results, performance, or achievements to differ materially from any future results, performance, or achievements expressed or implied by such forward-looking statements. There can be no assurance that such statements will prove to be accurate as actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking statements and nothing in this document represents a promise of specific work to be completed in the future.&#x20;
 
-Certain statements in this document constitute forward-looking statements. The words “may,” “will,” “should,” “project,” “anticipate,” “believe,” “estimate,” “intend,” “expect,” “continue,” and similar expressions or the negatives thereof are generally intended to identify forward-looking statements. Such forward-looking statements, including the intended actions and performance objectives, involve known and unknown risks, uncertainties, and other important factors that could cause the actual results, performance, or achievements to differ materially from any future results, performance, or achievements expressed or implied by such forward-looking statements. There can be no assurance that such statements will prove to be accurate as actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking statements and nothing in this document represents a promise of specific work to be completed in the future.
+The contract addresses for $DIMO are 0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b on [Ethereum](https://etherscan.io/token/0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b), 0x5eAA326fB2fc97fAcCe6A79A304876daD0F2e96c on [Base](https://basescan.org/address/0x5eAA326fB2fc97fAcCe6A79A304876daD0F2e96c) / [Optimism](https://optimistic.etherscan.io/address/0x5eAA326fB2fc97fAcCe6A79A304876daD0F2e96c), and 0xE261D618a959aFfFd53168Cd07D12E37B26761db on [Polygon](https://polygonscan.com/token/0xE261D618a959aFfFd53168Cd07D12E37B26761db). Please always confirm that you are interacting with these contract addresses and not those of a fraudulent imitator. This proposal may not be enacted if it violates Cayman Islands law. Please triple check that any communications are authentic as it’s common for scammers to try to trick you into sending them crypto or into revealing your private keys.
