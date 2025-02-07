@@ -50,7 +50,7 @@ Key properties: Native bridging support (can be minted/burned via [Polygon Bridg
 
 ### DIMO Credit (DCX)
 
-_A stable credit pegged to $0.001 USD that can only be created and purchased with $DIMO. Once DCX is spent, it is burned and cannot be reused._
+_A stable credit pegged to $0.0001 USD that can only be created and purchased with $DIMO. Once DCX is spent, it is burned and cannot be reused._
 
 [**Polygon**](https://polygonscan.com/address/0x7186F9aC35d24c9a4cf1E58a797c04DF1b334322)
 
@@ -99,6 +99,8 @@ The DIMO Foundation, "DIP - 10: The $DIMO Token", no. 10, November 2024. \[Onlin
 ## Changelog
 
 Dec 9, 2024: Added Base and Optimism $DIMO contract addresses
+
+Feb 7, 2025: Corrected a typo. 1 DCX has always equalled $0.0001 USD, not $0.001 USD
 
 ## Disclaimer <a href="#disclaimer" id="disclaimer"></a>
 

@@ -19,7 +19,7 @@
 This amendment&#x20;
 
 1. Introduces rebasing events for the deposit amounts for licenses that are paid in $DIMO.
-2. Introduces the DIMO Credit (DCX), a stable token always worth $0.001 in the DIMO ecosystem, created by burning $DIMO based on its market price. Today 100% of the $DIMO used to mint DCX is burned. DCX will be used as the new token for developer licensing and device minting.
+2. Introduces the DIMO Credit (DCX), a stable token always worth $0.0001 in the DIMO ecosystem, created by burning $DIMO based on its market price. Today 100% of the $DIMO used to mint DCX is burned. DCX will be used as the new token for developer licensing and device minting.
 3. Switches the device integration cost to use DCX.
 4. Simplifies the category formally known as Data Subscriber and replaces the $DIMO license deposit with a one-time DCX payment.
 
@@ -232,7 +232,7 @@ The DIMO Foundation, " DIP 4 & 5 Amendment 2", June 2024. \[Online serial]. Avai
 
 ## Changelog
 
-
+Feb 7, 2025: Corrected a typo. 1 DCX has always equalled $0.0001 USD, not $0.001 USD
 
 ## Disclaimer <a href="#disclaimer" id="disclaimer"></a>
 

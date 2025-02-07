@@ -18,7 +18,7 @@
 
 This amendment fundamentally alters the way in which the DIMO protocol charges developers for access to vehicle data. It removes the old system entirely, and replaces it with a simple flat monthly fee of 1,250 DCX ($1.25 USD) per vehicle.
 
-DCX is a stable credit that is always worth $0.001 USD and it can only be purchased using the $DIMO token. $DIMO that is spent to acquire DCX goes into a pool. Each month that pool is partially distributed to the nodes that store the offchain vehicle data and part of it is kept by the DIMO protocol treasury as profit. This treasury can be reinvested or burned per future governance votes.
+DCX is a stable credit that is always worth $0.0001 USD and it can only be purchased using the $DIMO token. $DIMO that is spent to acquire DCX goes into a pool. Each month that pool is partially distributed to the nodes that store the offchain vehicle data and part of it is kept by the DIMO protocol treasury as profit. This treasury can be reinvested or burned per future governance votes.
 
 Modifications and new fees (e.g., an increased monthly charge for video streaming from embedded cameras and dash cams) can be added with future amendments.
 
@@ -50,7 +50,7 @@ Developers accessing vehicle data pay a simple fee of 1,250 DCX ($1.25 USD) per 
 
 For example, when a user first signs up in [DIMO Mobile](https://apps.apple.com/us/app/dimo-mobile/id1589486727) and the app retrieves their vehicle data, the app publisher, Digital Infrastructure Inc., must pay 1,250 DCX. If that user had already onboarded their car to DIMO a year prior using another separate DIMO app and are connecting to DIMO Mobile for the first time, the publisher pays 1,250 DCX for the current month of data plus an additional 1,250 DCX for each prior month, capped at 12,500 DCX only if they are ingesting that historical data (e.g., to show historical trips taken).
 
-[DCX is a stable credit](../improvement-proposals/dip10.md#dimo-credit-dcx) that is always worth $0.001 USD and it can only be purchased using the $DIMO token. Websites like [console.dimo.org](https://console.dimo.org) abstract this process for the developer, allowing them to use a credit card to buy DCX in a simple flow. Once DCX is spent by a developer it is burned and cannot be reused.
+[DCX is a stable credit](../improvement-proposals/dip10.md#dimo-credit-dcx) that is always worth $0.0001 USD and it can only be purchased using the $DIMO token. Websites like [console.dimo.org](https://console.dimo.org) abstract this process for the developer, allowing them to use a credit card to buy DCX in a simple flow. Once DCX is spent by a developer it is burned and cannot be reused.
 
 Modifications and new fees can be added with future amendments. Some likely examples include:
 
@@ -90,7 +90,7 @@ The DIMO Foundation, "DIP-3: Amendment 2", November 2024. \[Online serial]. Avai
 
 ## Changelog
 
-
+Feb 7, 2025: Corrected a typo. 1 DCX has always equalled $0.0001 USD, not $0.001 USD
 
 ## Disclaimer <a href="#disclaimer" id="disclaimer"></a>
 
