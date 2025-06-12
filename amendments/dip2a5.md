@@ -24,13 +24,13 @@ Tesla's native connection from Digital Infrastructure Inc. is upgraded to Level 
 
 ## Motivation
 
-The current binary "Limited" and "Comprehensive" system inadequately differentiates the wide spectrum of data quality across integration methods, resulting in misaligned rewards where connections providing vastly different network value receive similar compensation.
+The current binary system inadequately reflects data quality spectrum and fails to establish minimum network participation standards. By raising the qualification floor to Level 3, this amendment addresses a key product-market fit challenge: app developers and users struggle to derive meaningful value from limited connections, so these have been eliminated from earning eligibility.
 
-A 6-level system provides granular recognition from basic daily updates (Level 1) to comprehensive real-time telemetry with location data (Level 6). This creates proper economic incentives for users to pursue higher-quality connections while ensuring appropriate compensation based on actual data contribution.
+The 3-6 level system ensures only valuable data contributors receive rewards while properly compensating based on actual network contribution. Consolidating all boosts into the level system eliminates reward calculation complexity.
 
-Additionally, consolidating all reward boosts into the level system simplifies user understanding of reward stacking and reduces complexity in the points calculation framework.
+The connection registry brings transparency to qualification criteria. Tesla's technical improvements warrant Level 6 recognition alongside premium hardware solutions, while legacy integrations failing to meet modern standards are excluded to maintain network quality.
 
-The connection registry establishes clear transparency around which integrations qualify for each level, eliminating ambiguity. Tesla's native connection hosted by Digital Infrastructure Inc. has significantly improved its polling frequency and data breadth since previous amendments, now warranting Level 6 classification alongside R1 and AutoPi devices, ensuring equal recognition for equivalent data quality contributions.
+This framework strengthens incentive alignment between data value and rewards while establishing quality thresholds that improve overall network utility for developers and end users.
 
 ## Specification
 
