@@ -1,6 +1,7 @@
 # Table of contents
 
 * [DIMO Governance Hub](README.md)
+* [Copy of DIMO Governance Hub](readme-1.md)
 
 ## Improvement Proposals
 
@@ -14,7 +15,7 @@
 * [DIP-8: Ignite Grants](improvement-proposals/dip8.md)
 * [DIP-9: Marketing](improvement-proposals/dip9.md)
 * [DIP-10: Network Tokens](improvement-proposals/dip10.md)
-* [Copy of \*\*DIP-10: Network Tokens](improvement-proposals/dip10-1.md)
+* [DIP-11: DIMO Japan 智猛 日本](improvement-proposals/dip11.md)
 
 ## License Proposals
 
@@ -33,9 +34,9 @@
 * [DIP-2: Amendment 2](amendments/dip2a2.md)
 * [DIP-2: Amendment 3](amendments/dip2a3.md)
 * [DIP-2: Amendment 4](amendments/dip2a4.md)
-* [DIP-2: Amendment 5](amendments/dip2a5hidden.md)
+* [\*\*\*DIP-2 & 6: Amendment 1](amendments/dip2-and-6a1.md)
 * [DIP-3: Amendment 1](amendments/dip3a1.md)
-* [DIP-3: Amendment 2](amendments/dip3a2.md)
+* [\*\*\*DIP-3 & 10: Amendment 1](amendments/dip3-and-10a1.md)
 * [DIP-4 & 5: Amendment 1](amendments/dip4-and-5a1.md)
 * [DIP-4 & 5: Amendment 2](amendments/dip4-5a2.md)
 * [DIP-6: Amendment 1](amendments/dip6a1.md)
@@ -44,9 +45,11 @@
 * [DIP-6: Amendment 4](amendments/dip6a4.md)
 * [DIP-6: Amendment 5](amendments/dip6a5.md)
 * [DIP-7: Amendment 1](amendments/dip7a1.md)
+* [\*\*\*DIP-10: Amendment 1](amendments/dip10a1.md)
 
 ## Templates
 
 * [Basic Template](templates/basic-template.md)
 * [Resource Allocation Template](templates/resource-allocation-template.md)
 * [License Approval Template](templates/license-approval-template.md)
+* [Archive DIP-2: Amendment 5](templates/archivedip2a5hidden.md)

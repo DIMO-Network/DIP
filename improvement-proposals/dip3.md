@@ -78,7 +78,7 @@ Mar 29, 2023: passed [DIP-3: Amendment 1](../amendments/dip3a1.md)
 
 Jul 6, 2024: disclaimer adjusted
 
-Dec 26, 2024: passed [DIP-3: Amendment 2](../amendments/dip3a2.md)
+Dec 26, 2024: passed [DIP-3: Amendment 2](../amendments/dip3-and-10a1.md)
 
 ## Disclaimer
 
