@@ -1,7 +1,6 @@
 # Table of contents
 
 * [DIMO Governance Hub](README.md)
-* [Copy of DIMO Governance Hub](readme-1.md)
 
 ## Improvement Proposals
 
@@ -34,6 +33,7 @@
 * [DIP-2: Amendment 2](amendments/dip2a2.md)
 * [DIP-2: Amendment 3](amendments/dip2a3.md)
 * [DIP-2: Amendment 4](amendments/dip2a4.md)
+* [DIP-2: Amendment 5](amendments/dip2a5.md)
 * [\*\*\*DIP-2 & 6: Amendment 1](amendments/dip2-and-6a1.md)
 * [DIP-3: Amendment 1](amendments/dip3a1.md)
 * [\*\*\*DIP-3 & 10: Amendment 1](amendments/dip3-and-10a1.md)
