@@ -44,6 +44,7 @@
 * [DIP-6: Amendment 3](amendments/dip6a3.md)
 * [DIP-6: Amendment 4](amendments/dip6a4.md)
 * [DIP-6: Amendment 5](amendments/dip6a5.md)
+* [DIP-6: Amendment 6](amendments/dip6a5-1.md)
 * [DIP-7: Amendment 1](amendments/dip7a1.md)
 * [\*\*\*DIP-10: Amendment 1](amendments/dip10a1.md)
 

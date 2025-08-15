@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review
+> **Status**: Voting
 >
 > **Voting URL**: Pending
 >
@@ -20,13 +20,13 @@ This proposal seeks community approval to fund the launch of DIMO Japan led by i
 
 DIMO Japan is to be a joint venture funded by the DIMO Foundation and Key3. Key3 is itself a joint venture between Hakuhodo Inc, one of the largest marketing agencies in Japan and vendor to most domestic automakers, and Sota Watanabe, CEO of Startale Labs Japan, the major contributor to the Soneium blockchain.&#x20;
 
-The DIMO Foundation will contribute $500,000 USDT and 4,000,000 DIMO tokens, subject to milestone-based disbursement and lockup schedules, in exchange for up to 33% equity ownership in the entity. The proposal aims to support go-to-market efforts, enterprise integrations, and localized development of the DIMO ecosystem in Japan, with Key3 acting as a lead strategic partner.
+The DIMO Foundation will contribute ¥73,500,000 JPY and 4,000,000 DIMO tokens, subject to milestone-based disbursement and lockup schedules, in exchange for up to 33% equity ownership in the entity. The proposal aims to support go-to-market efforts, enterprise integrations, and localized development of the DIMO ecosystem in Japan, with Key3 acting as a lead strategic partner.
 
 本提案は、智猛 日本（DIMO Japan）の立ち上げに向けた資金提供について、コミュニティの承認を求めるものです。CEOの林 涼（Ryo Hayashi）氏が率い、日本の自動車業界で豊富な経験を有しています（直近ではIDOM社に所属）。
 
-智猛 日本は、The DIMO FoundationとKey3の共同出資によるジョイントベンチャーとして設立されます。Key3は、博報堂株式会社（国内最大級のマーケティング会社であり、多数の自動車メーカーにサービスを提供）と、Startale Labs Japan CEOの渡辺創太氏（Soneiumブロックチェーンの主要開発者）による合弁事業です。
+&#x20;智猛 日本は、The DIMO FoundationとKey3の共同出資によるジョイントベンチャーとして設立されます。Key3は、博報堂株式会社（国内最大級のマーケティング会社であり、多数の自動車メーカーにサービスを提供）と、Startale Labs Japan CEOの渡辺創太氏（Soneiumブロックチェーンの主要開発者）による合弁事業です。&#x20;
 
-The DIMO Foundationは、50万USDTと400万DIMOトークンを、マイルストーン達成とロックアップに基づく支払い条件のもとで拠出し、最大33%の持分を取得します。
+DIMO Foundationは、マイルストーン達成およびロックアップ条件に基づく支払いとして、\*\*7,350万円（日本円、JPY）\*\*および400万DIMOトークンを拠出し、最大33％の持分を取得します。&#x20;
 
 本提案は、日本市場でのGo-to-Market、企業統合、DIMOエコシステムの現地開発を支援することを目的とし、Key3が戦略パートナーとしてリードします。
 
@@ -96,43 +96,62 @@ Key3の戦略的ネットワークを活用し、自動車メーカー、ティ�
 
 #### From Key3 to DIMO Japan
 
-$35,000 USD equivalent distributed immediately upon formation.
-
-設立完了時に即時支払い：35,000 USD相当
+¥5,000,000 JPY has already been distributed.
 
 #### From the DIMO Foundation to DIMO Japan
 
-$500,000 USDT and 4,000,000 DIMO tokens in exchange for up to 33% equity ownership in the entity, unlocked per milestones in the following tranches:
+¥73,500,000 JPY and 4,000,000 DIMO tokens in exchange for up to 33% equity ownership in the entity, unlocked per milestones in the following tranches:
 
 **Tranche 1**
 
 * Unlock: passage of DIP-11
-* USDT: $100,000
+* JPY: ¥15,000,000
 * $DIMO: 750,000
+* Expected cumulative ownership: 19.35%
 
 **Tranche 2**
 
-* Unlock: completion of the preparation phase (incorporation, hiring,&#x20;
-* USDT: $100,000
+* Unlock: completion of the preparation phase (incorporation, hiring, vehicle testing,&#x20;
+* JPY: ¥15,000,000
 * $DIMO: 750,000
+* Expected cumulative ownership: 25%
 
 **Tranche 3**
 
-* Unlock: launching a product with a major automaker, tier 1 supplier, top dealer, insurance company, or similar in Japan
-* USDT: $300,000
+* Unlock: launching a product with a major automaker, or 2+ tier 1 suppliers, top dealers, insurance companies, or similar in Japan
+* JPY: ¥43,500,000
 * $DIMO: 2,500,000
-
-総額：500,000 USDT＋400万DIMOトークン（最大33%持分取得）
-
-各マイルストーン達成に応じた段階的アンロック：
-
-<table><thead><tr><th width="102.4296875">トランシェ</th><th width="312.11328125">アンロック条件</th><th width="114.6328125">USDT</th><th width="122.984375">DIMOトークン</th></tr></thead><tbody><tr><td>1</td><td>DIP-11通過</td><td>100,000</td><td>750,000</td></tr><tr><td>2</td><td>準備フェーズ完了（法人設立、採用等）</td><td>100,000</td><td>750,000</td></tr><tr><td>3</td><td>日本国内大手企業との製品ローンチ</td><td>300,000</td><td>2,500,000</td></tr></tbody></table>
+* Expected cumulative ownership: 34.5%
 
 #### From the DIMO Foundation to Key3
 
 Up to 1,000,000 $DIMO over two years subject to monthly vesting over two years and continued marketing support for DIMO Japan.
 
-100万DIMOトークンを2年間かけて月次ベストで支給（DIMO Japanの継続的支援が条件）
+**Key3 → DIMO Japan**\
+既に **¥5,000,000（日本円、JPY）** が支払われています。\
+法人設立完了時に即時支払い：**¥5,000,000（日本円、JPY）**
+
+**DIMO Foundation → DIMO Japan**\
+最大33％の持分取得を条件に、**¥73,500,000（日本円、JPY）** および **400万DIMOトークン** を、以下のマイルストーン達成に応じて段階的にアンロック：
+
+* **トランシェ1**
+  * アンロック条件：DIP-11の可決
+  * 金額：¥15,000,000（日本円、JPY）
+  * トークン：750,000 DIMO
+  * 想定累計持分：19.35%
+* トランシェ2
+  * アンロック条件：準備フェーズ完了（法人設立、採用、車両テストなど）
+  * 金額：¥15,000,000（日本円、JPY）
+  * トークン：750,000 DIMO
+  * 想定累計持分：25%
+* トランシェ3
+  * アンロック条件：日本国内において、大手自動車メーカー、またはTier1サプライヤー2社以上、主要ディーラー、保険会社などとの提携による製品ローンチ
+  * 金額：¥43,500,000（日本円、JPY）
+  * トークン：2,500,000 DIMO
+  * 想定累計持分：34.5%
+
+**DIMO Foundation → Key3**\
+DIMO Japanの継続的なマーケティング支援を条件に、最大1,000,000 DIMOトークン を2年間かけて毎月ベスティング。
 
 ### Team Operating Structure & Members 運営構造・メンバー
 
@@ -174,7 +193,7 @@ DIMO Japan commits to upholding DIMO's brand principles of privacy, openness, an
 
 ## Implementation 実施方法
 
-If passed and after the four-day timelock concludes, the DIMO Foundation will enter into a three way contract to fund DIMO Japan and grant a non-exclusive brand license.
+If passed and after the four-day timelock concludes, DIMO Limited will enter an into an investment contract with DIMO Japan and grant a non-exclusive brand license.
 
 可決後および四日間のタイムロック経過後、The DIMO Foundationは、智猛 日本への資金提供およびブランドライセンス供与のための三者契約を締結します。
 
@@ -188,11 +207,11 @@ Copyright and related rights waived via [CC0](https://creativecommons.org/public
 
 Please cite this document as:
 
-The DIMO Foundation, "DIP - 11: DIMO Japan", no. 10, November 2024. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
+The DIMO Foundation, "DIP - 11: DIMO Japan", no. 10, August 2025. \[Online serial]. Available: \[[https://github.com/DIMO-Network/DIP](https://github.com/DIMO-Network/DIP)]
 
 ## Changelog 変更履歴
 
-
+Aug 15, 2025: Updated investment amounts to Yen instead of USDT and clarified tranche requirements
 
 ## Disclaimer 免責事項 <a href="#disclaimer" id="disclaimer"></a>
 

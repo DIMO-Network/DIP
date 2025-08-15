@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review
+> **Status**: Voting
 >
 > **Voting URL**: TBD
 >
@@ -42,7 +42,7 @@ This framework strengthens incentive alignment between data value and rewards wh
 
 **Connection types**: <mark style="color:red;">Currently licensed connections are categorized as follows:</mark>
 
-<mark style="color:red;">Level 6: R1 by Ruptela, AutoPi x DIMO by AutoPi, Tesla by Tesla with Digital Infrastructure Inc., Enhanced Smartcar by Smartcar with Digital Infrastructure Inc.</mark>
+<mark style="color:red;">Level 6: R1 by Ruptela, AutoPi x DIMO by AutoPi, Tesla in collaboration with Digital Infrastructure Inc., Enhanced Wireless by Smartcar in collaboration with Digital Infrastructure Inc.</mark>
 
 <mark style="color:red;">Level 3: Macaron by Hashdog</mark>
 
