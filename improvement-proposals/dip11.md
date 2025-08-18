@@ -22,7 +22,7 @@ DIMO Japan is to be a joint venture funded by the DIMO Foundation and Key3. Key3
 
 The DIMO Foundation will contribute ¥73,500,000 JPY and 4,000,000 DIMO tokens, subject to milestone-based disbursement and lockup schedules, in exchange for up to 33% equity ownership in the entity. The proposal aims to support go-to-market efforts, enterprise integrations, and localized development of the DIMO ecosystem in Japan, with Key3 acting as a lead strategic partner.
 
-本提案は、智猛 日本（DIMO Japan）の立ち上げに向けた資金提供について、コミュニティの承認を求めるものです。CEOの林 涼（Ryo Hayashi）氏が率い、日本の自動車業界で豊富な経験を有しています（直近ではIDOM社に所属）。
+本提案は、智猛 日本（DIMO Japan）の立ち上げに向けた資金提供について、コミュニティの承認を求めるものです。CEOの林 亮（Ryo Hayashi）氏が率い、日本の自動車業界で豊富な経験を有しています（直近ではIDOM社に所属）。
 
 &#x20;智猛 日本は、The DIMO FoundationとKey3の共同出資によるジョイントベンチャーとして設立されます。Key3は、博報堂株式会社（国内最大級のマーケティング会社であり、多数の自動車メーカーにサービスを提供）と、Startale Labs Japan CEOの渡辺創太氏（Soneiumブロックチェーンの主要開発者）による合弁事業です。&#x20;
 
@@ -36,7 +36,7 @@ Japan presents a strategic opportunity to expand the DIMO Protocol in one of the
 
 日本は、自動車市場において世界でも最も先進的な地域のひとつであり、智猛プロトコル（DIMO Protocol）の拡大にとって戦略的な機会を提供します。自動車メーカー、ティア1サプライヤー、モビリティやブロックチェーン技術革新が集積するこの地域において、エンタープライズ採用を促進するためには、日本市場に特化した展開が不可欠です。
 
-本提案は、現地パートナーであるKey3および経験豊富な創業者である林 涼氏との正式な協業体制を確立し、商業的成果とプロトコル整合型プロダクトの提供に焦点を当てた自立型エンティティ「智猛 日本」を設立するものです。
+本提案は、現地パートナーであるKey3および経験豊富な創業者である林 亮氏との正式な協業体制を確立し、商業的成果とプロトコル整合型プロダクトの提供に焦点を当てた自立型エンティティ「智猛 日本」を設立するものです。
 
 ## Specification 詳細仕様
 
@@ -162,7 +162,7 @@ DIMO Japanの継続的なマーケティング支援を条件に、最大1,000,0
 
 
 
-* CEO: 林 涼（Ryo Hayashi）
+* CEO: 林 亮（Ryo Hayashi）
 * ビジネス開発、エンジニアリング、オペレーション領域での主要人材採用予定
 * 智猛 日本は独立運営するが、Foundationへの定期報告義務あり
 * Key3はビジネス・マーケティングパートナーとして支援
