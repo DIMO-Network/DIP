@@ -8,7 +8,7 @@
 >
 > **Status**: Voting
 >
-> **Voting URL**: Snapshot
+> **Voting URL**: [Snapshot](https://snapshot.box/#/s:dimo.eth/proposal/0x64f8a9a250a4519cbe6563f23d64640e21dd109c18e3c1c295bcf9d85ca18015)
 >
 > **Discussion Forum**: [Discord](https://chat.dimo.zone) #🗳️governance forum
 >
