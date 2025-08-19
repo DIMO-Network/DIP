@@ -28,6 +28,7 @@
 
 * [DIP-1: Amendment 1](amendments/dip1a1.md)
 * [DIP-1: Amendment 2](amendments/dip1a2.md)
+* [DIP-1: Amendment 3](amendments/dip1a3.md)
 * [DIP-1 - 15: Amendment 1](amendments/dip1-15a1.md)
 * [DIP-2: Amendment 1](amendments/dip2a1.md)
 * [DIP-2: Amendment 2](amendments/dip2a2.md)
