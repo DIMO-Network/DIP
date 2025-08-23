@@ -1,4 +1,4 @@
-# Basic Template
+# Basic Template V2
 
 > **Headline**: One sentence headline
 >
