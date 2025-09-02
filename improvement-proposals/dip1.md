@@ -51,7 +51,7 @@ It is required that all DIPs and DLPs include the following in a format similar 
       * _Withdrawn_ - sponsor(s) withdrew the proposal while it was in the _Review_ stage, prior to voting.
 
       _Review_ and _Voting_ must also specify when that period ends by adding "(until Month Day, Year at 24hr Clock UTC Time)." E.g., **Status**: Voting (until January 20th, 2022 at 22:00:00 UTC).
-  * **Voting URL**: A link to the vote on [Snapshot](https://snapshot.org/#/dimo.eth). For proposals in _Review_ status, write "Pending".
+  * **Voting URL**: A link to the vote on [Snapshot](https://snapshot.org/#/dimo.eth) or similar platform. For proposals in _Review_ status, write "Pending".
   * **Discussion Forum**: Where the community is encouraged to discuse the proposal.
   * **Vote Type**: Either a vote level 1, 2, or 3. See types below, under **Terms**.
 * **Abstract**: This is a slightly longer 3-5 sentence summary of the proposal.
@@ -85,13 +85,13 @@ After seven days of deliberation, the DIP or DLP goes to a vote. Once a vote bei
 * **Circulating Supply**: Equals the 1) total supply of $DIMO minus the amount held by the Foundation as treasury or for baseline issuance. This is calculated as of the block that the vote is launched.
 * **Voting Formats**: The only allowable formats are:&#x20;
   * Basic Voting: the only voting options are Approve, Reject, and Abstain and the vote is either approved or rejected at the end of the voting period.&#x20;
-  * Ranked Choice: an instant runoff method whereby users rank their choices in order. If any option is ranked first by the required majority of voters, that options wins. If no option reaches majority, the option that received the fewest top rank choices by voters is eliminated and the nullified votes for that option are redistributed to each voter's second choice. This process repeats until one option reaches the required majority (and that options wins) or until there are two options left that both fail to reach the majority (e.g., if required majority is 60% and options 1 and 2 have 50% each and there is no winner). These votes must be done as off-chain poles on Snapshot.
-  * Multiple Selection: voters are able to select multiple options, and each option that achieves the required majority is accepted. For example, this may be used to elect multiple members to a council. These votes must be done as off-chain poles on Snapshot.
+  * Ranked Choice: an instant runoff method whereby users rank their choices in order. If any option is ranked first by the required majority of voters, that options wins. If no option reaches majority, the option that received the fewest top rank choices by voters is eliminated and the nullified votes for that option are redistributed to each voter's second choice. This process repeats until one option reaches the required majority (and that options wins) or until there are two options left that both fail to reach the majority (e.g., if required majority is 60% and options 1 and 2 have 50% each and there is no winner). These votes must be done as off-chain poles on Snapshot or similar platform.
+  * Multiple Selection: voters are able to select multiple options, and each option that achieves the required majority is accepted. For example, this may be used to elect multiple members to a council. These votes must be done as off-chain poles on Snapshot or similar platform.
 * **Quorum**: This is the amount tokens required to participate in a vote for it to be considered valid. A vote that falls short on participation may still be considered valid if there are enough votes for Approve (in Basic Voting) or the top choice (in Rank Choice) such that majority would still be achieved even if every additional vote required to reach quorum were cast as Reject (in Basic Voting) or for the alternate choice (in Rank Choice).&#x20;
 
 **Terms**
 
-* **Venue**: All voting will occur on [Snapshot](https://snapshot.org/#/dimo.eth).
+* **Venue**: All voting will occur on [Snapshot](https://snapshot.org/#/dimo.eth) or similar platform.
 * **Duration**: Voting will be open for seven days (168 hours) for off-chain votes or 268,800 blocks on the Polygon PoS chain for on-chain votes (roughly 7 days). Voters may change their votes during this window.
 * **Withdrawal**: Once in _Voting_, the proposal may not be withdrawn by the sponsors. It will either pass or fail.
 * **Delegation**: $DIMO holders can delegate their voting power to themselves (allowing them to vote directly) or to someone else without having to transfer their tokens. To do this, click [here](https://delegate.dimo.zone), connect your wallet, and click "Delegate Tokens". Then enter the 0x address of the person you'd like to delegate your tokens to.  You remain in control of your $DIMO and can revoke or redelegate your tokens at any times. This action will require Matic tokens on the Polygon blockchain.
@@ -116,7 +116,7 @@ After seven days of deliberation, the DIP or DLP goes to a vote. Once a vote bei
       Quorum = 3% of circulating supply\
       Acceptable Voting Formats = Basic Voting, Ranked Choice, Multiple Selection
 * **Implementation**: There will be a four day (96 hour) timelock after the vote is completed before execution. This gives various stakeholders the opportunity to make any necessary preparations based on the outcome (e.g., connecting or disconnecting a car, staking or unstaking their tokens, etc.).
-* **Voting Limits**: No individual voter shall vote with more than 5% of the circulating supply of $DIMO. Where possible, such as with off-chain votes on Snapshot, wallets that vote with more than 5% will have their vote weight reduced to disregard overages.
+* **Voting Limits**: No individual voter shall vote with more than 5% of the circulating supply of $DIMO. Where possible, such as with off-chain votes on Snapshot or similar platform, wallets that vote with more than 5% will have their vote weight reduced to disregard overages.
 * **Invalid Proposals**: Proposals may not be enacted if doing so will result in the contravention of Cayman Islands laws or regulations, if it is non-compliant with the DIMO Foundation Memorandum & Articles and Bylaws, or causes clear harm to the Foundation. Transfers of $DIMO, other crypto, or fiat may be contingent on the recipient completing a Know Your Customer (KYC) process in the case of large grants.
 
 To determine the outcome, we only look at the state of the vote at the moment the vote closes. If a vote has majority and quorum at the exact end of seven days, then the status changes to _Final_ and the four day timelock prior to execution begins. If a vote does not meet that criteria, the DIP or DLP fails to pass and the status changes to "Failed".

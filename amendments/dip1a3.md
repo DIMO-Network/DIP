@@ -6,9 +6,9 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Review
+> **Status**: Deployed
 >
-> **Voting URL**: Pending
+> **Voting URL**: [Snapshot](https://snapshot.box/#/s:dimo.eth/proposal/0x842aad650ab79223f9c202a3df3e7805a7f602c56c843105e6e1a7904d6b391b)
 >
 > **Discussion Forum**: [Discord](https://chat.dimo.zone) #🗳️governance forum
 >

@@ -42,53 +42,18 @@ Notably, Digital Infrastructure Inc., the corporation that initially developed D
 
 ### Financial Plan & Ask
 
-**Resources**
+**(a) Resources.** The Foundation may sell $DIMO from treasury without per-sale governance approval to fund operations, liquidity, strategic partnerships, and investments that materially advance the protocol. Sales may be conducted via programmatic execution, RFQ/OTC transactions, auctions, or strategic placements.
 
-As of November 23, 2024, the DIMO Treasury contains $6,900,206 in USD and stablecoins, as well as 4541,926,792 $DIMO tokens (144,411,970 of which are not yet earmarked for any purpose). DIMO Foundation onchain wallet balances can be found [here](https://docs.dimo.zone/foundation/wallets).
+**(b) Use of Funds.** Net proceeds may be applied to: (i) protocol R\&D and operations; (ii) ecosystem and distribution partnerships; (iii) incubation, acquisition, or investment in DIMO-aligned products and businesses (including equity, token warrants, SAFEs, and convertibles); (iv) regulatory, security, and risk management functions; and (v) liquidity and market quality programs.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-11-24 at 10.07.12 PM.png" alt=""><figcaption></figcaption></figure>
+1. The Foundation may invest in or acquire teams and assets that accelerate adoption. Any acquired IP must comply with Section (d). Strategic sales should include use-commitments or lockups where appropriate.
+2. The Foundation may provide or loan $DIMO to approved market makers, operate or seed on-chain liquidity, and enter inventory-neutral arrangements to improve spread, depth, and availability.
+3. The Foundation may hold and rebalance reserves across fiat, stablecoins, short-duration instruments, and qualified yield vehicles (e.g., registered funds and cash-management vehicles) to extend runway and manage risk, up to 100% of non-$DIMO reserves, subject to compliance and custody controls.
+4. All expenditures, contracts, and treasury actions must primarily benefit the DIMO protocol and $DIMO token.
 
-**Expense Budget**
+**(c) Operating Envelope.** The Foundation may adopt and revise an internal annual operating plan (OPEX + program spend) without fixed category caps.
 
-The DIMO Foundation is authorized to spend a maximum of $6,768,000 USD equivalent on operations and development in the calendar year 2025. Note that this is an expense budget only and [revenue](../amendments/dip3-and-10a1.md) may decrease or entirely erase the net operating loss.
-
-All intellectual property produced for hire must either be owned by the DIMO Foundation, perpetually licensed to the DIMO Foundation, or open sourced. All spending from this budget of any sort must be primarily for the benefit of the DIMO protocol.
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-12-04 at 6.49.54 AM.png" alt=""><figcaption></figcaption></figure>
-
-**R\&D, marketing, customer support, and admin contractors — Maximum annual spend: $4,080,000**&#x20;
-
-Covers entities who are engaged by the DIMO Foundation to contribute to protocol R\&D, marketing, customer support, and administrative projects.
-
-Any payments to Digital Infrastructure Inc., a labs entity that originally created the DIMO protocol and continues to contribute to its development, must not exceed a 10% markup on the fully loaded cost of personnel who are actively working on DIMO marketing, intellectual property for the protocol, or open source software that significantly benefits the protocol.
-
-**Connectivity — Maximum annual spend: $1,680,000**
-
-Rather than charge users for their monthly connectivity costs of AutoPi cloud, Smartcar, and Tesla connectivity fees, the DIMO Foundation agrees to fully or partially cover up to $1,680,000 USD worth of monthly vehicle costs at its discretion.
-
-This expense budget line item is only unlocked if [DIP-3 Amendment 2](../amendments/dip3-and-10a1.md) passes, as this proposal requires applications, such as DIMO Mobile, to pay per month to access vehicles. _These fees could partially or entirely offset this expense._
-
-The goal of this is to keep things cheaper for developers who don't have to worry about connectivity as much, or to prevent developers from having to pass costs on to users too early, limiting growth. When the quantity and quality of apps in the DIMO ecosystem increases, it will become easier to build profitable applications and/or more practical to pass these costs on to drivers. This proposal authorizes this expense for 2025 only; it's neither guaranteed nor expected that this subsidy would continue into 2026.
-
-**Legal, insurance, and registrations — Maximum annual spend: $108,000**
-
-This is a conservative estimate for the total amount required for miscellaneous administrative expenses. The expected spend is about half of this amount.
-
-**$DIMO Availability — Maximum annual spend: $900,000**
-
-It's important that the $DIMO token is readily available for those who want to participate in the network. This expense line item is for activities related to ensuring ample availability.
-
-***
-
-This budget pool is distinct from those authorized in other DIPs such as [Baseline Issuance](https://docs.dimo.zone/governance/improvement-proposals/dip2), [Grants](https://docs.dimo.zone/governance/improvement-proposals/dip8), [Marketing](https://docs.dimo.zone/governance/improvement-proposals/dip9), and [Referrals](https://docs.dimo.zone/governance/improvement-proposals/dip7). The DIMO Foundation is responsible for coordinating with all subdaos to ensure that no third party is paid twice for the same work.
-
-#### Treasury Initiatives
-
-This proposal authorizes the DIMO Foundation to loan up to 40,000,000 $DIMO tokens to market makers. As of the date this DIP was last amended, a total of 30,500,000 $DIMO have been loaned to market makers, of which 17,500,000 was purchased for 5,922,025 USDT and 13,000,000 remains outstanding.
-
-Per the original DIP-6 and subsequent amendments, the DIMO Foundation has sold a total of 57,809,672 $DIMO from the treasury including the amount purchased from market makers.
-
-Additionally, this DIP authorizes the DIMO Foundation to move up to 70% of its cash and stable token reserve to Superstate.co to earn interest on non-$DIMO assets; as well as change $DIMO into cash or stable tokens for subdaos such as those formed in [DIP-8](https://docs.dimo.zone/governance/improvement-proposals/dip8) and [DIP-9](https://docs.dimo.zone/governance/improvement-proposals/dip9) should those teams need to pay an expense or issue a grant to a vendor that doesn't accept $DIMO.
+**(d) IP & Work Product.** All IP funded by the Foundation must be (i) owned by the Foundation, (ii) perpetually and royalty-free licensed to it, or (iii) open-sourced under a permissive license, with the Foundation retaining perpetual usage rights.
 
 ### Authority & Domain
 
@@ -115,6 +80,10 @@ The DIMO Foundation may utilize it's IP, including code, trademarks, web domains
 #### License revocation
 
 For DIPs where licenses can be revoked for negligence or malice that harms users or the  protocol generally, only the DIMO Foundation or a Cayman court of law may determine if that negligence or malice is demonstrable and material.
+
+#### Canonical Tokens
+
+The DIMO Foundation may unilaterally update DIP-10 to reflect changes to canonical token definitions, including but not limited to the addition or removal of supported blockchains, contract addresses, and token identifiers. Such updates must be made in good faith, solely for the benefit of the DIMO protocol and $DIMO token, and published promptly in the official governance documentation.
 
 ### Commitments to DIMO
 

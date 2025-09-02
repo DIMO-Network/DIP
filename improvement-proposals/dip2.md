@@ -50,7 +50,7 @@ Lastly, user wallets must not be flagged by Chainalysis' [AML tools](https://www
 
 Points are calculated as follows:
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-10-26 at 2.19.24 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-02 at 3.42.00 PM.png" alt=""><figcaption></figcaption></figure>
 
 Note that:
 
@@ -58,17 +58,21 @@ Note that:
 
 **Lock Levels**: are per vehicle (e.g., it would take 8,000 $DIMO to boost two separate vehicles to level 4); may be assigned and unassigned to any car in your account; and can be upgraded at any time, but cannot be downgraded prematurely (e.g., you can roll 500 $DIMO from a level 1 contract that is still locked, add 1,000 more $DIMO, and upgrade it to a new level 2 contract that restarts the lock period).
 
-**Connection types**: to be considered "comprehensive", an integration must send extensive telemetry data in near real-time. As of the last update of this proposal, the AutoPi, LTE R1 and native Tesla connections qualify as "comprehensive" integrations.
+**Connection types**: Currently licensed connections are categorized as follows:
 
-Every box depicting points can stack on one another. This means that a car can have a streak level, a boost level, a software connection, and hardware connection for a maximum 16,000 weekly points. A car must send valid data to qualify for rewards in a given week. If a car isn't driven, it will receive zero $DIMO regardless of any streak or boost.
+Level 6: R1 by Ruptela, AutoPi x DIMO by AutoPi, Tesla in collaboration with Digital Infrastructure Inc., Enhanced Wireless by Smartcar in collaboration with Digital Infrastructure Inc.
 
-In the example shown in the table above, Alice earns 2,000 points for having been connected between 21 to 35 weeks, 1,000 points for locking 500 $DIMO for 6 months, 1,000 points for her Limited software connection, and 6,000 points for having comprehensive device installed in her vehicle.
+Level 3: Macaron by Hashdog
 
-Here there are 40,000 cars connected to DIMO and each car generates an average of 6,000 points that week, for a total of 240,000,000 points. Alice's 10,000 points represent 0.004% of the points for that week (10,000 ÷ 240,000,000). Therefore, she earns 46.04 out of the 1,105,000 tokens from this pool (1,105,000 \* 0.004%).
+Every box depicting points can stack on one another. This means that a car can have a streak level, a boost level, on top of their data connection for a maximum level of 12. A car must send valid data to qualify for rewards in a given week. If a car isn't driven, it will receive zero $DIMO regardless of any streak or boost.
+
+In the example shown in the table above, Alice earns 1 level for having been connected between 21 to 35 weeks, 2 levels for locking 1500 $DIMO for 12 months, and 6 levels for having premium connection for her vehicle.
+
+Here there are 40,000 cars connected to DIMO and each car generates an average of 6 levels that week, for a total of 240,000 levels. Alice's 9 levels represent 0.00375% of the levels for that week (9 ÷ 240,000). Therefore, she earns 41.4375 out of the 1,105,000 tokens from this pool (1,105,000 \* 0.00375%).
 
 Curious how this would play out for people besides Alice? The table below shows earnings for a small sample of hypothetical drivers in the same hypothetical week. This is meant to be illustrative using a small handful of made up users, not an exhaustive list of every combination of attributes.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-10-26 at 2.19.35 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-02 at 3.42.40 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Implementation
 
