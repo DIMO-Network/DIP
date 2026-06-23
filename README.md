@@ -20,7 +20,7 @@ Below, you can see active proposals that $DIMO token holders can vote on now, pr
 
 **Voting active for:** none
 
-**Community review:** none
+**Community review:** [DIP-12: The Business Direction](draft%20proposals%20for%20community%20review/dip12-the-business-direction.md)
 
 <table><thead><tr><th width="543">DIMO Improvement Proposals</th><th width="112.66666666666674">Status</th></tr></thead><tbody><tr><td><a href="improvement-proposals/dip1.md">DIP-1: Governance Guidelines</a></td><td>Deployed</td></tr><tr><td><a href="improvement-proposals/dip2.md">DIP-2: Baseline Issuance</a></td><td>Deployed</td></tr><tr><td><a href="improvement-proposals/dip3.md">DIP-3: Vehicle Data Access Fees</a></td><td>Deployed</td></tr><tr><td><a href="improvement-proposals/dip4.md">DIP-4: Device Integrations</a></td><td>Deployed</td></tr><tr><td><a href="improvement-proposals/dip5.md">DIP-5: Ecosystem</a></td><td>Deployed</td></tr><tr><td><a href="amendments/dip6a1.md">DIP-6: The DIMO Foundation</a></td><td>Deployed</td></tr><tr><td><a href="improvement-proposals/dip7.md">DIP-7: Referrals</a></td><td>Deployed</td></tr><tr><td><a href="improvement-proposals/dip8.md">DIP-8: Ignite Grants</a></td><td>Deployed</td></tr><tr><td><a href="improvement-proposals/dip9.md">DIP-9: Marketing</a></td><td>Deployed</td></tr><tr><td><a href="improvement-proposals/dip10.md">DIP-10: Network Tokens</a></td><td>Deployed</td></tr><tr><td><a href="improvement-proposals/dip11.md">DIP-11: DIMO Japan 智猛 日本</a></td><td>Approved</td></tr></tbody></table>
 
