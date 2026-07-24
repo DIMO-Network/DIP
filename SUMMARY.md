@@ -15,6 +15,8 @@
 * [DIP-9: Marketing](improvement-proposals/dip9.md)
 * [DIP-10: Network Tokens](improvement-proposals/dip10.md)
 * [DIP-11: DIMO Japan 智猛 日本](improvement-proposals/dip11.md)
+* [DIP-12: The Protocol Direction](improvement-proposals/dip-12-the-protocol-direction.md)
+* [DIP-13: Foundation Treasury Reform](improvement-proposals/dip-13-foundation-treasury-reform.md)
 
 ## License Proposals
 
