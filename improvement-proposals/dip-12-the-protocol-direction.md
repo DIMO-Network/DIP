@@ -6,7 +6,7 @@
 >
 > **Submitter(s)**: The DIMO Foundation \[0xCED3c922200559128930180d3f0bfFd4d9f4F123]
 >
-> **Status**: Voting
+> **Status**: Approved
 >
 > **Voting URL**: [Snapshot](https://snapshot.org/#/s:dimo.eth/proposal/0x10aa4f704d997b823d6180ffbfb2bd3bf1849fd4ec5b6cf6fcd30f85f28961b8)
 >
